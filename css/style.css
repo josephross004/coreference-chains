@@ -1,0 +1,9 @@
+/* style.css */
+
+#graph-container {
+    overflow-x: auto; 
+}
+
+svg {
+    display: block;
+}

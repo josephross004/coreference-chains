@@ -1,0 +1,8723 @@
+conv_id,chain_id,turn_id,speaker,text,reference_type
+0,0,1,B,a poodle,N
+0,0,3,B,it,P
+0,1,0,A,you,P
+0,1,5,B,I,P
+0,1,5,B,I,P
+0,1,5,B,my,P
+0,1,5,B,I,P
+0,1,5,B,I,P
+0,1,5,B,I,P
+0,1,6,A,you,P
+0,1,6,A,you,P
+0,1,6,A,you,P
+0,1,7,B,I,P
+0,1,9,B,I,P
+0,1,21,A,me,P
+0,1,22,B,I,P
+0,1,23,A,I,P
+0,1,29,A,I,P
+0,1,29,A,I,P
+0,1,30,A,I,P
+0,1,30,A,I,P
+0,1,30,A,me,P
+0,1,31,A,you,P
+0,1,32,B,I,P
+0,1,33,B,B,N
+0,1,47,A,I,P
+0,1,49,A,me,P
+0,1,50,B,I,P
+0,1,51,B,my,P
+0,1,62,B,I,P
+0,1,62,B,I,P
+0,1,63,A,I,P
+0,1,63,A,I,P
+0,1,63,A,I,P
+0,1,63,A,I,P
+0,1,63,A,me,P
+0,1,64,B,I,P
+0,1,64,B,I,P
+0,1,64,B,I,P
+0,1,64,B,I,P
+0,1,65,B,I,P
+0,1,65,B,I,P
+0,1,72,A,you,P
+0,2,4,A,the poodles,N
+0,2,5,B,it,P
+0,2,5,B,it,P
+0,2,5,B,it,P
+0,2,5,B,she,P
+0,2,6,A,the dog,N
+0,2,8,A,the dog,N
+0,2,9,B,It,P
+0,2,10,A,it,P
+0,3,4,A,I,P
+0,3,5,B,I,P
+0,3,5,B,I,P
+0,3,12,A,I,P
+0,3,12,A,myself,N
+0,3,12,A,I,P
+0,3,13,A,I,P
+0,3,23,A,I,P
+0,3,25,A,I,P
+0,3,25,A,I,P
+0,3,26,A,me,P
+0,3,27,A,I,P
+0,3,28,A,I,P
+0,3,31,A,I,P
+0,3,35,A,my,P
+0,3,37,A,I,P
+0,3,38,A,I,P
+0,3,38,A,I,P
+0,3,39,A,I,P
+0,3,56,A,you,P
+0,3,70,A,I,P
+0,3,72,A,I,P
+0,4,12,A,a a mutt,N
+0,4,12,A,it,P
+0,4,13,A,she,P
+0,4,15,A,She,P
+0,4,15,A,she,P
+0,4,17,A,she,P
+0,4,17,A,she,P
+0,4,18,A,she,P
+0,4,20,A,it,P
+0,4,21,A,she,P
+0,4,23,A,She,P
+0,4,25,A,her,P
+0,4,25,A,she,P
+0,4,26,A,she,P
+0,4,26,A,she,P
+0,4,27,A,she,P
+0,4,28,A,she,P
+0,4,28,A,she,P
+0,4,28,A,her,P
+0,4,30,A,her,P
+0,4,30,A,she,P
+0,4,32,B,her,P
+0,4,32,B,she,P
+0,4,34,B,She,P
+0,4,35,A,my dog,N
+0,4,35,A,she,P
+0,4,36,A,she,P
+0,4,37,A,her,P
+0,4,38,A,her,P
+0,4,38,A,her,P
+0,4,38,A,her,P
+0,4,41,A,she,P
+0,4,43,A,she,P
+0,4,44,B,that,P
+0,4,45,A,her,P
+0,4,46,A,her,P
+0,4,46,A,she,P
+0,4,46,A,she,P
+0,4,49,A,she,P
+0,4,50,B,our dog,N
+0,4,50,B,she,P
+0,4,50,B,she,P
+0,4,50,B,she,P
+0,4,51,B,her,P
+0,4,51,B,she,P
+0,4,52,B,the dog,N
+0,4,52,B,she,P
+0,4,52,B,she,P
+0,4,52,B,She,P
+0,4,52,B,herself,N
+0,4,53,A,she,P
+0,4,54,B,She,P
+0,4,54,B,she,P
+0,4,54,B,she,P
+0,4,54,B,she,P
+0,4,54,B,she,P
+0,4,54,B,she,P
+0,4,54,B,she,P
+0,4,54,B,her,P
+0,4,54,B,She,P
+0,4,55,A,her,P
+0,4,56,A,the dog,N
+0,4,57,B,it,P
+0,4,59,A,Mine,PN
+0,4,61,A,it,P
+0,5,13,A,'s,N
+0,5,14,B,that,P
+0,6,15,A,has,N
+0,6,16,B,that,P
+0,6,16,B,that,P
+0,7,25,A,the newspapers,N
+0,7,27,A,the newspaper,N
+0,7,27,A,them,P
+0,8,26,A,the bathroom,N
+0,8,27,A,the bathroom,N
+0,8,32,B,the bathroom,N
+0,9,1,B,we,P
+0,9,32,B,we,P
+0,9,32,B,we,P
+0,9,32,B,our,P
+0,9,32,B,we,P
+0,9,33,B,we,P
+0,9,33,B,we,P
+0,9,50,B,our,P
+0,9,50,B,we,P
+0,9,51,B,we,P
+0,10,32,B,the the master bedroom,N
+0,10,32,B,the bedroom,N
+0,11,38,A,feed,N
+0,11,38,A,that,P
+0,12,39,A,a a thirty foot cable,N
+0,12,40,A,that,P
+0,13,45,A,children,N
+0,13,45,A,they,P
+0,13,45,A,they,P
+0,14,46,A,they,P
+0,14,46,A,they,P
+0,14,46,A,their,P
+0,15,50,B,a child,N
+0,15,50,B,the child,N
+0,15,50,B,she,P
+0,15,50,B,she,P
+0,16,32,B,our house,N
+0,16,51,B,the house,N
+0,17,5,B,my wife 's,N
+0,17,52,B,Grandma,PN
+0,18,63,A,Gin one,PN
+0,18,63,A,her,P
+0,19,65,B,the dog I had when I moved to Dallas about five years ago,N
+0,19,65,B,he,P
+0,19,66,B,he,P
+0,19,66,B,he,P
+0,19,68,B,He,P
+0,19,68,B,he,P
+0,19,68,B,he,P
+0,19,68,B,he,P
+0,19,68,B,his,P
+0,20,52,B,Grandpa and Grandma,PN
+0,20,68,B,Mom and Dad,PN
+0,21,69,A,we,P
+0,21,69,A,our,P
+0,21,74,A,we,P
+0,22,72,A,talking,N
+0,22,73,B,that,P
+0,23,74,A,get,N
+0,23,75,B,That,P
+1,0,0,A,you,P
+1,0,1,B,I,P
+1,0,1,B,I,P
+1,0,1,B,I,P
+1,0,1,B,I,P
+1,0,1,B,I,P
+1,0,1,B,I,P
+1,0,1,B,I,P
+1,0,1,B,your,P
+1,0,2,A,I,P
+1,0,2,A,I,P
+1,0,2,A,my,P
+1,0,2,A,I,P
+1,0,2,A,I,P
+1,0,2,A,I,P
+1,0,2,A,I,P
+1,0,2,A,I,P
+1,0,2,A,I,P
+1,0,4,A,I,P
+1,0,4,A,I,P
+1,0,4,A,I,P
+1,0,4,A,I,P
+1,0,4,A,I,P
+1,0,4,A,I,P
+1,0,5,B,Your,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,my,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,6,A,I,P
+1,0,7,A,I,P
+1,0,7,A,I,P
+1,0,8,B,I,P
+1,0,9,A,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,you,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,my,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,10,B,I,P
+1,0,11,A,I,P
+1,0,11,A,I,P
+1,0,11,A,I,P
+1,0,11,A,I,P
+1,0,13,B,I,P
+1,0,13,B,you,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,15,B,I,P
+1,0,16,A,I,P
+1,0,16,A,I,P
+1,0,16,A,I,P
+1,0,16,A,me,P
+1,0,17,B,you,P
+1,0,18,A,I,P
+1,0,18,A,I,P
+1,0,18,A,I,P
+1,0,19,B,I,P
+1,0,19,B,you,P
+1,0,19,B,I,P
+1,0,19,B,I,P
+1,0,19,B,I,P
+1,0,19,B,I,P
+1,0,19,B,I,P
+1,0,19,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,23,B,I,P
+1,0,24,B,I,P
+1,0,24,B,I,P
+1,0,24,B,I,P
+1,0,24,B,I,P
+1,0,24,B,I,P
+1,0,25,B,I,P
+1,0,25,B,my,P
+1,0,25,B,I,P
+1,0,25,B,I,P
+1,0,25,B,I,P
+1,0,26,A,I,P
+1,0,26,A,I,P
+1,0,26,A,I,P
+1,0,26,A,my,P
+1,0,26,A,I,P
+1,0,26,A,my,P
+1,0,26,A,my,P
+1,0,28,B,I,P
+1,0,29,B,I,P
+1,0,30,B,I,P
+1,0,30,B,I,P
+1,0,32,B,I,P
+1,0,32,B,I,P
+1,0,33,B,I,P
+1,0,33,B,I,P
+1,0,33,B,your,P
+1,0,34,A,you,P
+1,1,1,B,the state of Alaska,N
+1,1,1,B,Alaska,PN
+1,1,1,B,Alaska,PN
+1,1,10,B,Alaska,PN
+1,2,0,A,Puerto Rico,PN
+1,2,1,B,Puerto Rico,PN
+1,2,1,B,Puerto Rico,PN
+1,2,2,A,Puerto Rico,PN
+1,2,2,A,they,P
+1,2,2,A,Puerto Rico,PN
+1,2,2,A,it,P
+1,2,4,A,it,P
+1,2,4,A,it,P
+1,2,4,A,Puerto Rico,PN
+1,2,5,B,it,P
+1,2,5,B,Puerto Rico,PN
+1,2,7,A,it,P
+1,2,7,A,the whole new state,N
+1,2,8,B,Puerto Rico,PN
+1,2,10,B,Puerto Rico,PN
+1,2,10,B,they,P
+1,2,10,B,their,P
+1,2,10,B,them,P
+1,2,10,B,they,P
+1,2,10,B,they,P
+1,2,10,B,their,P
+1,2,10,B,they,P
+1,2,10,B,they,P
+1,2,10,B,them,P
+1,2,10,B,they,P
+1,2,10,B,their,P
+1,2,11,A,they,P
+1,2,15,B,Puerto Rico,PN
+1,2,15,B,them,P
+1,2,16,A,they,P
+1,2,16,A,they,P
+1,2,16,A,they,P
+1,2,16,A,they,P
+1,2,16,A,they,P
+1,2,16,A,they,P
+1,2,16,A,they,P
+1,2,22,A,they,P
+1,3,1,B,a territory the size of Puerto Rico,N
+1,3,1,B,it,P
+1,3,1,B,it,P
+1,4,0,A,I,P
+1,4,2,A,you,P
+1,4,31,A,I,P
+1,4,32,B,I,P
+1,5,4,A,a girl from Puerto Rico,N
+1,5,4,A,her,P
+1,5,4,A,she,P
+1,6,2,A,the economy,N
+1,6,5,B,the economy,N
+1,7,5,B,became,N
+1,7,5,B,that,P
+1,8,5,B,the U S,N
+1,8,6,A,the U S,N
+1,8,6,A,the U S,N
+1,8,6,A,the U S,N
+1,8,15,B,the U S,N
+1,8,23,B,America 's,PN
+1,9,8,B,be,N
+1,9,10,B,that,P
+1,10,10,B,their economy,N
+1,10,10,B,their economy,N
+1,11,10,B,they,P
+1,11,10,B,they,P
+1,12,10,B,The District of Columbia people,PN
+1,12,10,B,their,P
+1,12,11,A,they,P
+1,12,11,A,their,P
+1,12,11,A,they,P
+1,13,15,B,the laws in a territory,N
+1,13,15,B,they,P
+1,14,15,B,each state,N
+1,14,15,B,its,P
+1,15,4,A,the Spanish,N
+1,15,16,A,Spanish,PN
+1,15,16,A,it,P
+1,15,16,A,Spanish,PN
+1,15,22,A,Spanish,PN
+1,15,22,A,Spanish as the official language,PN
+1,15,26,A,Spanish,PN
+1,15,26,A,Spanish,PN
+1,16,16,A,such action,N
+1,16,16,A,it,P
+1,17,17,B,status quo,N
+1,17,18,A,that,P
+1,18,23,B,one of America 's strengths,N
+1,18,23,B,that,P
+1,19,25,B,Canada,PN
+1,19,25,B,they,P
+1,19,25,B,they,P
+1,20,25,B,that,P
+1,20,25,B,that,P
+1,21,25,B,it,P
+1,21,25,B,it,P
+1,22,4,A,California,PN
+1,22,26,A,California,PN
+1,22,27,A,California,PN
+1,23,26,A,my my brother who was quite a bit younger,N
+1,23,26,A,he,P
+1,24,30,B,attempts,N
+1,24,32,B,that,P
+2,0,0,A,I,P
+2,0,0,A,I,P
+2,0,1,A,you,P
+2,0,3,A,I,P
+2,0,3,A,I,P
+2,0,8,A,I,P
+2,0,8,A,I,P
+2,0,8,A,I,P
+2,0,8,A,I,P
+2,0,9,A,I,P
+2,0,9,A,I,P
+2,0,17,A,I,P
+2,0,17,A,I,P
+2,0,17,A,I,P
+2,0,28,A,I,P
+2,0,28,A,I,P
+2,0,28,A,I,P
+2,0,28,A,I,P
+2,0,28,A,I,P
+2,0,28,A,I,P
+2,0,38,A,I,P
+2,0,42,A,I,P
+2,0,42,A,I,P
+2,0,51,A,I,P
+2,0,52,B,I,P
+2,0,52,B,I,P
+2,0,52,B,I,P
+2,0,52,B,I,P
+2,0,60,A,I,P
+2,0,70,A,I,P
+2,0,76,A,I,P
+2,0,80,A,I,P
+2,0,82,A,I,P
+2,0,82,A,I,P
+2,0,82,A,I,P
+2,0,84,A,I,P
+2,0,84,A,I,P
+2,0,85,A,I,P
+2,0,85,A,I,P
+2,0,86,A,I,P
+2,0,86,A,I,P
+2,0,88,A,I,P
+2,0,92,A,I,P
+2,0,94,A,I,P
+2,0,94,A,I,P
+2,1,0,A,Texas,PN
+2,1,1,A,the state,N
+2,1,48,B,the state of Texas,N
+2,2,2,B,we,P
+2,2,2,B,we,P
+2,2,2,B,our,P
+2,2,55,A,we,P
+2,2,55,A,we,P
+2,2,55,A,we,P
+2,2,57,B,we,P
+2,3,2,B,capital punishment,N
+2,3,3,A,it,P
+2,3,4,A,it,P
+2,3,13,B,the death penalty,N
+2,3,13,B,it,P
+2,3,13,B,it,P
+2,3,13,B,it,P
+2,3,21,B,it,P
+2,3,21,B,it,P
+2,3,32,A,that,P
+2,4,8,A,people that come to the prisons,N
+2,4,8,A,they,P
+2,4,8,A,they,P
+2,4,8,A,they,P
+2,5,9,A,that,P
+2,5,10,B,That,P
+2,5,10,B,it,P
+2,6,12,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,13,B,I,P
+2,6,21,B,I,P
+2,6,21,B,I,P
+2,6,21,B,my,P
+2,6,21,B,I,P
+2,6,21,B,I,P
+2,6,25,A,you,P
+2,6,26,B,me,P
+2,6,27,B,me,P
+2,6,28,A,you,P
+2,6,28,A,you,P
+2,6,29,A,you,P
+2,6,32,A,you,P
+2,6,33,B,I,P
+2,6,34,B,I,P
+2,6,36,B,I,P
+2,6,36,B,I,P
+2,6,37,B,I,P
+2,6,37,B,I,P
+2,6,37,B,I,P
+2,6,37,B,I,P
+2,6,48,B,I,P
+2,6,54,B,I,P
+2,6,54,B,I,P
+2,6,54,B,I,P
+2,6,54,B,I,P
+2,6,55,A,you,P
+2,6,56,B,I,P
+2,6,57,B,I,P
+2,6,58,B,I,P
+2,6,59,B,I,P
+2,6,64,A,you,P
+2,6,65,B,I,P
+2,6,65,B,I,P
+2,6,81,B,I,P
+2,6,81,B,I,P
+2,6,81,B,I,P
+2,6,81,B,I,P
+2,6,90,B,I,P
+2,6,92,A,you,P
+2,6,97,A,you,P
+2,6,98,B,you,P
+2,6,98,B,you,P
+2,6,99,A,you,P
+2,7,14,A,it,P
+2,7,15,B,it,P
+2,8,20,B,It,P
+2,8,20,B,It,P
+2,9,25,A,it,P
+2,9,26,B,It,P
+2,9,27,B,It,P
+2,9,28,A,it,P
+2,10,31,B,it,P
+2,10,31,B,it,P
+2,11,34,B,the U S,N
+2,11,35,A,That,P
+2,11,36,B,they,P
+2,12,36,B,only like six or eight countries in the world that have capital punishment still,N
+2,12,37,B,them,P
+2,12,37,B,they,P
+2,13,37,B,capital punishment,N
+2,13,38,A,that,P
+2,14,40,B,a lot of them,N
+2,14,40,B,their,P
+2,15,42,A,they,P
+2,15,42,A,they,P
+2,16,44,B,is,N
+2,16,44,B,that,P
+2,17,47,A,lethal injection,N
+2,17,48,B,That,P
+2,17,48,B,that,P
+2,17,48,B,that,P
+2,17,51,A,it,P
+2,17,51,A,it,P
+2,17,52,B,it,P
+2,17,52,B,the lethal injection,N
+2,18,48,B,death by electrocution,N
+2,18,50,B,it,P
+2,19,54,B,It,P
+2,19,54,B,it,P
+2,19,54,B,It,P
+2,20,54,B,capital punishment,N
+2,20,55,A,it,P
+2,20,55,A,it,P
+2,21,56,B,it,P
+2,21,58,B,This,P
+2,21,59,B,it,P
+2,22,17,A,we,P
+2,22,70,A,we,P
+2,22,70,A,our,P
+2,22,72,B,we,P
+2,22,73,A,we,P
+2,23,73,A,the poor people that have suffered that way,N
+2,23,75,A,they,P
+2,23,76,A,they,P
+2,23,77,A,they,P
+2,24,76,A,people who have committed crimes,N
+2,24,76,A,they,P
+2,24,76,A,they,P
+2,24,76,A,they,P
+2,25,76,A,the same thing,N
+2,25,77,A,it,P
+2,26,82,A,we,P
+2,26,82,A,we,P
+2,27,80,A,the jury that sentenced someone,N
+2,27,85,A,the jury,N
+2,28,88,A,hear,N
+2,28,91,A,That,P
+2,29,92,A,this,P
+2,29,93,B,it,P
+2,29,93,B,it,P
+2,29,94,A,it,P
+2,30,95,A,we,P
+2,30,95,A,we,P
+3,0,0,A,you,P
+3,0,1,B,you,P
+3,0,2,A,you,P
+3,0,3,B,I,P
+3,0,3,B,I,P
+3,0,3,B,I,P
+3,0,3,B,I,P
+3,0,3,B,I,P
+3,0,5,B,I,P
+3,0,5,B,I,P
+3,0,5,B,I,P
+3,0,9,B,my,P
+3,0,9,B,I,P
+3,0,9,B,I,P
+3,0,16,B,I,P
+3,0,16,B,I,P
+3,0,16,B,I,P
+3,0,19,B,I,P
+3,0,21,B,I,P
+3,0,31,B,I,P
+3,0,36,B,I,P
+3,0,36,B,I,P
+3,0,39,B,I,P
+3,0,40,A,you,P
+3,0,42,A,you,P
+3,0,46,B,I,P
+3,0,48,B,I,P
+3,0,48,B,I,P
+3,0,49,B,I,P
+3,0,49,B,me,P
+3,0,49,B,I,P
+3,0,52,B,I,P
+3,0,52,B,I,P
+3,0,53,B,I,P
+3,0,57,B,I,P
+3,0,58,B,I,P
+3,0,58,B,I,P
+3,0,63,B,I,P
+3,0,64,B,I,P
+3,0,64,B,I,P
+3,0,64,B,I,P
+3,0,65,B,I,P
+3,0,65,B,my,P
+3,0,66,B,my,P
+3,0,66,B,my,P
+3,0,66,B,I,P
+3,0,66,B,I,P
+3,0,67,A,you,P
+3,0,67,A,your,P
+3,0,69,A,your,P
+3,0,70,B,I,P
+3,0,70,B,me,P
+3,0,70,B,I,P
+3,0,70,B,my,P
+3,0,71,B,my,P
+3,0,71,B,I,P
+3,0,77,A,you,P
+3,0,77,A,you,P
+3,0,77,A,I,P
+3,0,77,A,your,P
+3,0,78,B,my,P
+3,0,78,B,my,P
+3,0,78,B,my,P
+3,0,78,B,I,P
+3,0,78,B,my,P
+3,0,80,B,I,P
+3,0,80,B,I,P
+3,0,80,B,my,P
+3,0,80,B,my,P
+3,0,80,B,I,P
+3,0,80,B,I,P
+3,0,80,B,I,P
+3,0,80,B,my,P
+3,0,80,B,me,P
+3,0,80,B,I,P
+3,0,80,B,I,P
+3,0,81,B,I,P
+3,0,82,B,me,P
+3,0,82,B,I,P
+3,0,82,B,I,P
+3,0,82,B,my,P
+3,0,82,B,I,P
+3,0,82,B,I,P
+3,0,82,B,I,P
+3,0,82,B,I,P
+3,0,82,B,I,P
+3,0,83,B,me,P
+3,0,83,B,I,P
+3,1,1,B,I,P
+3,1,2,A,I,P
+3,1,8,A,I,P
+3,1,10,B,I,P
+3,1,13,A,I,P
+3,1,13,A,I,P
+3,1,13,A,your,P
+3,1,13,A,you,P
+3,1,13,A,mine,N
+3,1,13,A,I,P
+3,1,13,A,I,P
+3,1,13,A,my,P
+3,1,13,A,my,P
+3,1,14,A,I,P
+3,1,14,A,I,P
+3,1,14,A,I,P
+3,1,18,A,I,P
+3,1,25,A,I,P
+3,1,26,A,I,P
+3,1,26,A,I,P
+3,1,31,B,you,P
+3,1,36,B,I,P
+3,1,42,A,I,P
+3,1,52,B,I,P
+3,1,72,A,I,P
+3,2,3,B,retire,N
+3,2,4,A,that,P
+3,3,4,A,We,P
+3,3,4,A,We,P
+3,3,4,A,our,P
+3,3,9,B,we,P
+3,3,9,B,my wife and I,N
+3,3,9,B,our,P
+3,3,16,B,we,P
+3,3,17,A,we,P
+3,3,17,A,we,P
+3,3,20,A,we,P
+3,3,20,A,you,P
+3,3,23,B,we,P
+3,3,72,A,we,P
+3,3,74,B,We,P
+3,3,76,B,we,P
+3,3,76,B,we,P
+3,3,77,A,we,P
+3,4,6,A,that one,N
+3,4,7,B,that,P
+3,4,8,A,that one,N
+3,5,10,B,they,P
+3,5,10,B,they,P
+3,6,10,B,it,P
+3,6,11,A,it,P
+3,7,10,B,the health insurance,N
+3,7,13,A,health insurance,N
+3,7,13,A,It,P
+3,8,13,A,you,P
+3,8,13,A,you,P
+3,9,13,A,Dallas,PN
+3,9,13,A,they,P
+3,10,13,A,It,P
+3,10,14,A,it,P
+3,10,14,A,it,P
+3,11,14,A,that,P
+3,11,15,A,it,P
+3,11,16,B,that,P
+3,11,16,B,it,P
+3,12,15,A,women,N
+3,12,15,A,they,P
+3,12,15,A,their,P
+3,12,15,A,They,P
+3,13,15,A,their kids,N
+3,13,15,A,them,P
+3,14,17,A,a lump sum,N
+3,14,17,A,that amount,N
+3,14,17,A,that amount of money,N
+3,14,17,A,that money,N
+3,15,17,A,insurance,N
+3,15,17,A,insurance what you predict your going to be paying for insurance,N
+3,15,17,A,insurance,N
+3,15,22,A,insurance,N
+3,16,17,A,you,P
+3,16,17,A,you,P
+3,17,18,A,that part,N
+3,17,18,A,that option,N
+3,17,19,B,that,P
+3,18,18,A,you,P
+3,18,18,A,you,P
+3,19,20,A,that cafeteria plan,N
+3,19,20,A,that,P
+3,19,21,B,it,P
+3,19,22,A,it,P
+3,19,22,A,It,P
+3,19,23,B,that,P
+3,19,25,A,it,P
+3,19,27,B,it,P
+3,19,27,B,it,P
+3,19,29,B,it,P
+3,20,25,A,the cafeteria plan,N
+3,20,27,B,it,P
+3,21,27,B,the first guy who did it,N
+3,21,29,B,He,P
+3,21,29,B,he,P
+3,22,30,A,'s,N
+3,22,30,A,we,P
+3,22,31,B,we,P
+3,22,33,B,We,P
+3,23,33,B,the company,N
+3,23,36,B,the company,N
+3,23,36,B,the company,N
+3,23,37,B,the company,N
+3,23,37,B,the company,N
+3,24,37,B,somebody in a position to affect the way the company performs just about anybody in the company,N
+3,24,37,B,they,P
+3,24,37,B,their,P
+3,24,37,B,they,P
+3,24,37,B,their,P
+3,24,37,B,them,P
+3,24,37,B,them,P
+3,25,37,B,their job,N
+3,25,37,B,their job,N
+3,26,37,B,we,P
+3,26,37,B,we,P
+3,27,37,B,boot,N
+3,27,38,A,that,P
+3,27,38,A,it,P
+3,28,39,B,school teachers,N
+3,28,39,B,they,P
+3,29,45,A,a teacher,N
+3,29,45,A,they,P
+3,30,45,A,get,N
+3,30,47,A,It,P
+3,31,48,B,get,N
+3,31,49,B,that,P
+3,32,58,B,someone that teaches say shop for instance,N
+3,32,59,A,they,P
+3,32,60,A,they,P
+3,32,62,A,they,P
+3,33,63,B,kids twenty years old right now that could beat any computer professor at micro computer applications I know we could,N
+3,33,63,B,these people,N
+3,33,63,B,they,P
+3,33,63,B,them,P
+3,34,64,B,college,N
+3,34,64,B,it,P
+3,35,75,A,that,P
+3,35,76,B,that,P
+3,35,77,A,it,P
+3,36,77,A,your boss,N
+3,36,77,A,your boss,N
+3,36,80,B,my boss,N
+3,36,80,B,he,P
+3,36,80,B,he,P
+3,36,82,B,my boss,N
+3,36,82,B,he,P
+3,37,78,B,my supervisor,N
+3,37,79,A,him,P
+3,37,80,B,him,P
+3,38,80,B,something,N
+3,38,80,B,it,P
+3,39,81,B,a guy who 's got eight or nine or ten people working for him in separate areas,N
+3,39,81,B,him,P
+3,40,83,B,a lot of people especially in major corporations who are n't doing a damn thing,N
+3,40,83,B,They,P
+3,40,83,B,they,P
+3,40,83,B,they,P
+3,40,83,B,they,P
+3,40,83,B,their,P
+3,41,83,B,Ed Swampers,PN
+3,41,83,B,Swampers,PN
+3,41,83,B,He,P
+3,41,83,B,he,P
+4,0,0,B,the curried chicken,N
+4,0,0,B,the chicken,N
+4,0,1,B,it,P
+4,0,1,B,it,P
+4,0,1,B,it,P
+4,0,1,B,the chicken you fried,N
+4,0,1,B,it,P
+4,0,2,B,that,P
+4,0,2,B,all of the chicken,N
+4,1,1,B,the oil,N
+4,1,2,B,the all of the oil,N
+4,1,2,B,the oil,N
+4,1,2,B,the oil,N
+4,2,2,B,the pan,N
+4,2,2,B,it,P
+4,3,3,B,the gravy,N
+4,3,3,B,it,P
+4,3,3,B,it,P
+4,4,0,B,I,P
+4,4,3,B,I,P
+4,4,10,A,you,P
+4,4,11,B,I,P
+4,4,12,A,I,P
+4,4,12,A,I,P
+4,4,12,A,I,P
+4,4,12,A,I,P
+4,4,12,A,I,P
+4,4,12,A,I,P
+4,4,13,A,I,P
+4,4,13,A,I,P
+4,4,13,A,my,P
+4,4,15,B,you,P
+4,4,17,B,I,P
+4,4,18,A,I,P
+4,4,20,A,you,P
+4,4,25,B,I,P
+4,4,27,B,I,P
+4,4,27,B,My,P
+4,4,29,B,I,P
+4,4,30,A,I,P
+4,4,30,A,My,P
+4,4,30,A,my,P
+4,4,30,A,I,P
+4,4,30,A,I,P
+4,4,33,B,my,P
+4,4,45,A,you,P
+4,4,52,B,I,P
+4,4,63,B,I,P
+4,4,63,B,I,P
+4,4,63,B,I,P
+4,4,64,B,I,P
+4,4,68,B,I,P
+4,4,70,B,my,P
+4,4,71,A,you,P
+4,4,77,B,you,P
+4,4,77,B,you,P
+4,4,82,A,I,P
+4,4,82,A,you,P
+4,4,83,B,you,P
+4,5,3,B,Jamaican curry powder,PN
+4,5,4,B,that,P
+4,5,4,B,it,P
+4,5,5,A,That,P
+4,5,6,B,it,P
+4,6,7,A,I,P
+4,6,10,A,I,P
+4,6,20,A,I,P
+4,6,21,A,I,P
+4,6,21,A,I,P
+4,6,35,A,my,P
+4,6,40,A,I,P
+4,6,40,A,I,P
+4,6,40,A,I,P
+4,6,46,A,my,P
+4,6,46,A,I,P
+4,6,49,A,I,P
+4,6,54,A,I,P
+4,6,55,A,I,P
+4,6,56,A,I,P
+4,6,61,A,I,P
+4,6,67,A,I,P
+4,6,72,A,I,P
+4,6,73,A,I,P
+4,6,73,A,I,P
+4,6,73,A,I,P
+4,6,73,A,I,P
+4,6,73,A,my,P
+4,6,73,A,my,P
+4,6,75,A,I,P
+4,6,78,A,you,P
+4,6,78,A,your,P
+4,6,78,A,you,P
+4,6,79,A,I,P
+4,6,79,A,I,P
+4,6,79,A,I,P
+4,6,79,A,I,P
+4,6,79,A,I,P
+4,7,11,B,it,P
+4,7,11,B,it,P
+4,8,13,A,Tom,PN
+4,8,13,A,you,P
+4,9,13,A,we even we,N
+4,9,13,A,we,P
+4,9,14,A,we,P
+4,9,18,A,we,P
+4,9,18,A,we,P
+4,9,20,A,we,P
+4,9,20,A,we,P
+4,9,20,A,we,P
+4,9,21,A,we,P
+4,9,21,A,We,P
+4,9,24,A,we,P
+4,9,30,A,we,P
+4,9,37,B,we,P
+4,9,46,A,we,P
+4,9,46,A,we,P
+4,9,46,A,we,P
+4,9,47,A,we,P
+4,9,50,A,we,P
+4,9,50,A,we,P
+4,9,51,A,we,P
+4,9,51,A,We,P
+4,9,65,A,we,P
+4,9,65,A,our,P
+4,9,67,A,we,P
+4,9,68,B,we,P
+4,10,16,A,It,P
+4,10,16,A,it,P
+4,10,16,A,it,P
+4,10,16,A,it,P
+4,10,16,A,it,P
+4,11,20,A,the the vegetables I 've used,N
+4,11,20,A,them,P
+4,12,13,A,my wife,N
+4,12,21,A,she,P
+4,12,28,B,she,P
+4,13,27,B,My mother,PN
+4,13,27,B,she,P
+4,13,33,B,my mother,N
+4,13,33,B,she,P
+4,13,34,A,she,P
+4,14,30,A,Pittsburgh,PN
+4,14,30,A,Pittsburgh,PN
+4,14,31,A,Pittsburgh,PN
+4,15,31,A,red meat,N
+4,15,32,A,Red meat,PN
+4,16,33,B,We,P
+4,16,33,B,we,P
+4,16,33,B,we,P
+4,17,41,B,the head,N
+4,17,41,B,the head,N
+4,18,41,B,a tin tub,N
+4,18,42,B,the tub,N
+4,19,42,B,the chicken,N
+4,19,42,B,it,P
+4,20,54,A,Indian sweets,PN
+4,20,54,A,they,P
+4,20,60,A,them,P
+4,20,61,A,they,P
+4,21,55,A,that,P
+4,21,56,A,This,P
+4,21,56,A,it,P
+4,21,56,A,it,P
+4,22,57,A,everything,N
+4,22,57,A,everything,N
+4,22,57,A,Everything,PN
+4,22,57,A,it,P
+4,23,54,A,she,P
+4,23,61,A,her,P
+4,24,61,A,her desserts,N
+4,24,61,A,they,P
+4,25,69,A,they,P
+4,25,69,A,they,P
+4,26,69,A,you,P
+4,26,69,A,your,P
+4,27,71,A,it,P
+4,27,71,A,it,P
+4,27,71,A,it,P
+4,28,69,A,your conversation,N
+4,28,71,A,your conversation,N
+4,28,71,A,it,P
+4,29,73,A,he,P
+4,29,73,A,his,P
+4,30,73,A,my neighbors car,N
+4,30,73,A,his car,N
+4,31,73,A,my neighbors,N
+4,31,74,A,the neighbor,N
+4,32,74,A,an alarm on a car,N
+4,32,74,A,it,P
+4,33,79,A,somebody that I got them on during the day,N
+4,33,79,A,It,P
+4,34,79,A,a housewife,N
+4,34,79,A,she,P
+4,34,80,A,she,P
+4,35,79,A,two kids,N
+4,35,80,A,the kids,N
+4,35,80,A,they,P
+4,35,80,A,they,P
+5,0,0,A,I,P
+5,0,0,A,I,P
+5,0,1,A,I,P
+5,0,1,A,I,P
+5,0,1,A,I,P
+5,0,2,A,I,P
+5,0,2,A,I,P
+5,0,2,A,I,P
+5,0,2,A,I,P
+5,0,3,A,I,P
+5,0,3,A,I,P
+5,0,6,A,I,P
+5,0,6,A,I,P
+5,0,6,A,I,P
+5,0,8,A,I,P
+5,0,10,A,me,P
+5,0,10,A,I,P
+5,0,11,A,me,P
+5,0,15,A,I,P
+5,0,18,A,I,P
+5,0,23,A,I,P
+5,0,32,A,I,P
+5,0,44,A,I,P
+5,0,44,A,me,P
+5,0,44,A,I,P
+5,0,46,A,I,P
+5,0,46,A,I,P
+5,0,62,A,I,P
+5,0,65,A,I,P
+5,0,65,A,I,P
+5,0,66,A,I,P
+5,0,66,A,I,P
+5,0,67,B,You,P
+5,0,68,A,I,P
+5,0,68,A,I,P
+5,0,68,A,I,P
+5,0,68,A,I,P
+5,0,70,A,I,P
+5,0,70,A,I,P
+5,0,77,A,I,P
+5,0,78,A,I,P
+5,0,79,A,I,P
+5,0,79,A,I,P
+5,0,83,A,my,P
+5,0,83,A,I,P
+5,0,85,A,I,P
+5,0,85,A,I,P
+5,0,85,A,I,P
+5,0,85,A,I,P
+5,0,85,A,I,P
+5,0,85,A,I,P
+5,0,86,A,me,P
+5,0,91,A,I,P
+5,0,92,A,I,P
+5,0,92,A,I,P
+5,0,96,A,I,P
+5,0,102,A,I,P
+5,1,0,A,HOME ALONE,PN
+5,1,0,A,it,P
+5,1,2,A,this,P
+5,1,2,A,it,P
+5,1,3,A,this show,N
+5,1,6,A,the movie,N
+5,1,7,A,it,P
+5,1,7,A,the movie,N
+5,1,15,A,it,P
+5,1,32,A,HOME ALONE,PN
+5,1,77,A,it,P
+5,1,77,A,the movie,N
+5,1,77,A,it,P
+5,1,77,A,it,P
+5,2,1,A,a movie that 's supposed to be very good,N
+5,2,2,A,it,P
+5,2,2,A,it,P
+5,3,2,A,a genre,N
+5,3,2,A,the genre,N
+5,4,4,B,I,P
+5,4,4,B,I,P
+5,5,4,B,movies,N
+5,5,5,B,they,P
+5,6,7,A,they,P
+5,6,7,A,they,P
+5,6,8,A,they,P
+5,6,10,A,they,P
+5,6,11,A,they,P
+5,7,9,A,the situation of this kid at home,N
+5,7,9,A,it,P
+5,8,9,A,this kid at home,N
+5,8,10,A,he,P
+5,8,10,A,the kid,N
+5,8,32,A,he,P
+5,8,32,A,he,P
+5,8,33,A,him,P
+5,9,12,B,I,P
+5,9,19,B,me,P
+5,9,21,B,I,P
+5,9,21,B,I,P
+5,9,22,B,I,P
+5,9,22,B,you,P
+5,9,23,A,you,P
+5,9,24,B,I,P
+5,9,24,B,myself,N
+5,9,24,B,I,P
+5,9,24,B,I,P
+5,9,26,B,I,P
+5,9,26,B,I,P
+5,9,29,B,I,P
+5,9,29,B,I,P
+5,9,35,A,you,P
+5,9,36,B,I,P
+5,9,36,B,you,P
+5,9,41,B,me,P
+5,9,47,B,I,P
+5,9,47,B,I,P
+5,9,47,B,I,P
+5,9,47,B,I,P
+5,9,47,B,my,P
+5,9,50,B,I,P
+5,9,50,B,my,P
+5,9,51,A,your,P
+5,9,53,B,I,P
+5,9,87,B,I,P
+5,9,88,B,I,P
+5,9,94,A,I,P
+5,9,97,B,I,P
+5,9,97,B,I,P
+5,9,98,A,me,P
+5,9,98,A,I,P
+5,9,100,A,you,P
+5,9,101,B,you,P
+5,9,101,B,you,P
+5,9,103,B,I,P
+5,9,104,A,I,P
+5,9,105,B,you,P
+5,9,106,A,I,P
+5,10,21,B,the French the Frenchman that leaves and comes back,N
+5,10,21,B,he,P
+5,10,21,B,he,P
+5,10,21,B,his,P
+5,10,21,B,his,P
+5,10,21,B,his,P
+5,10,21,B,the guy that comes back,N
+5,11,21,B,his wife,N
+5,11,21,B,his wife,N
+5,11,21,B,her,P
+5,12,21,B,it,P
+5,12,22,B,it,P
+5,12,22,B,it,P
+5,12,25,B,that,P
+5,12,26,B,it,P
+5,12,26,B,that,P
+5,13,26,B,D C,PN
+5,13,27,B,the city,N
+5,14,29,B,this French,N
+5,14,29,B,they,P
+5,14,30,A,They,P
+5,14,30,A,they,P
+5,14,31,A,they,P
+5,15,29,B,Jerry Lewis,PN
+5,15,30,A,your Lewis,N
+5,16,31,A,slapstick comedy,N
+5,16,31,A,it,P
+5,16,31,A,it,P
+5,17,31,A,this one guy MUMBLEx who does slapstick comedy,N
+5,17,31,A,he,P
+5,17,31,A,his,P
+5,17,31,A,his,P
+5,18,31,A,something about the human character,N
+5,18,32,A,that,P
+5,19,38,A,you,P
+5,19,40,A,you,P
+5,19,42,A,you,P
+5,20,43,B,the kids,N
+5,20,43,B,the children,N
+5,20,45,A,them,P
+5,21,46,A,gotten,N
+5,21,47,B,that,P
+5,21,47,B,that,P
+5,21,47,B,that,P
+5,22,47,B,another silly movie,N
+5,22,50,B,that,P
+5,22,71,A,it,P
+5,22,85,A,it,P
+5,22,86,A,it,P
+5,22,86,A,it,P
+5,23,47,B,my cousin,N
+5,23,50,B,my cousin,N
+5,24,51,A,your cousin,N
+5,24,52,B,he,P
+5,24,53,B,he,P
+5,25,55,B,kids,N
+5,25,56,B,they,P
+5,26,58,A,the good guys,N
+5,26,59,A,they,P
+5,26,60,A,they,P
+5,26,60,A,they,P
+5,26,60,A,their,P
+5,27,61,A,it,P
+5,27,61,A,it,P
+5,28,62,A,the violence,N
+5,28,62,A,The violence,PN
+5,29,63,A,people who are severely injured very very badly,N
+5,29,64,A,they,P
+5,29,64,A,they,P
+5,30,64,A,even the movies that want to show violence as real,N
+5,30,64,A,they,P
+5,31,64,A,violence,N
+5,31,64,A,that real violence,N
+5,32,65,A,that,P
+5,32,66,A,it,P
+5,33,66,A,people who currently get sort of enjoy their violence fixes from these movies,N
+5,33,66,A,their,P
+5,33,66,A,we,P
+5,34,68,A,they,P
+5,34,68,A,they,P
+5,34,68,A,they,P
+5,34,68,A,they,P
+5,34,68,A,they,P
+5,34,68,A,they,P
+5,34,69,A,they,P
+5,34,69,A,they,P
+5,34,69,A,they,P
+5,34,70,A,they,P
+5,35,68,A,the movies,N
+5,35,68,A,the movies,N
+5,35,69,A,them,P
+5,36,68,A,TEENAGE MUTANT NINJA TURTLES,PN
+5,36,70,A,TEENAGE MUTANT NINJA TURTLES,PN
+5,36,71,A,it,P
+5,36,71,A,it,P
+5,37,72,A,them,P
+5,37,73,A,they,P
+5,38,74,A,they,P
+5,38,74,A,they,P
+5,38,74,A,they,P
+5,39,71,A,the Master,N
+5,39,74,A,the Master,N
+5,39,75,A,the Master,N
+5,40,79,A,these movies,N
+5,40,79,A,them,P
+5,41,82,A,I,P
+5,41,82,A,I,P
+5,41,82,A,I,P
+5,42,84,A,I,P
+5,42,84,A,I,P
+5,43,66,A,these movies,N
+5,43,84,A,these movies,N
+5,43,85,A,they,P
+5,43,85,A,them,P
+5,44,84,A,enjoy,N
+5,44,85,A,that,P
+5,45,88,B,the musicals,N
+5,45,89,A,they,P
+5,46,91,A,they,P
+5,46,91,A,they,P
+5,47,92,A,this,P
+5,47,93,B,it,P
+5,48,96,A,that,P
+5,48,96,A,it,P
+5,49,101,B,Texas,PN
+5,49,103,B,Texas,PN
+5,49,104,A,Texas,PN
+6,0,0,A,you,P
+6,0,0,A,your,P
+6,0,0,A,you,P
+6,0,0,A,you,P
+6,0,1,B,I,P
+6,0,6,A,you,P
+6,0,6,A,you,P
+6,0,10,B,I,P
+6,0,12,B,I,P
+6,0,17,A,you,P
+6,0,18,B,I,P
+6,0,18,B,I,P
+6,0,18,B,I,P
+6,0,18,B,I,P
+6,0,23,B,I,P
+6,0,26,B,I,P
+6,0,31,B,I,P
+6,0,31,B,I,P
+6,0,32,B,I,P
+6,0,32,B,I,P
+6,0,32,B,I,P
+6,0,32,B,I,P
+6,0,33,B,me,P
+6,0,34,B,I,P
+6,0,34,B,I,P
+6,0,35,B,I,P
+6,0,35,B,I,P
+6,0,37,B,I,P
+6,0,45,B,I,P
+6,0,45,B,I,P
+6,0,45,B,I,P
+6,0,45,B,I,P
+6,0,46,B,I,P
+6,0,48,A,you,P
+6,0,51,A,I,P
+6,0,54,B,you,P
+6,0,55,B,I,P
+6,0,66,A,you,P
+6,0,67,B,I,P
+6,0,68,B,I,P
+6,0,68,B,I,P
+6,0,68,B,I,P
+6,0,69,B,I,P
+6,0,69,B,I,P
+6,0,69,B,I,P
+6,0,74,B,I,P
+6,0,76,B,I,P
+6,0,76,B,I,P
+6,0,77,B,I,P
+6,0,84,B,I,P
+6,0,87,B,I,P
+6,0,87,B,mine,N
+6,0,88,B,me,P
+6,0,88,B,I,P
+6,0,89,B,I,P
+6,0,89,B,my,P
+6,0,90,B,I,P
+6,0,90,B,me,P
+6,0,91,B,I,P
+6,0,101,B,I,P
+6,0,101,B,I,P
+6,1,0,A,I,P
+6,1,0,A,my,P
+6,1,14,A,I,P
+6,1,14,A,I,P
+6,1,15,A,I,P
+6,1,17,A,I,P
+6,1,19,A,I,P
+6,1,19,A,I,P
+6,1,20,A,I,P
+6,1,20,A,I,P
+6,1,27,A,I,P
+6,1,29,A,I,P
+6,1,29,A,I,P
+6,1,29,A,I,P
+6,1,29,A,I,P
+6,1,38,A,my,P
+6,1,39,A,I,P
+6,1,39,A,I,P
+6,1,39,A,I,P
+6,1,39,A,you,P
+6,1,51,A,I,P
+6,1,58,A,I,P
+6,1,60,A,I,P
+6,1,60,A,I,P
+6,1,61,A,I,P
+6,1,61,A,I,P
+6,1,61,A,I,P
+6,1,61,A,I,P
+6,1,61,A,my,P
+6,1,61,A,I,P
+6,1,62,A,I,P
+6,1,63,A,me,P
+6,1,63,A,I,P
+6,1,63,A,I,P
+6,1,63,A,I,P
+6,1,65,A,I,P
+6,1,65,A,I,P
+6,1,78,A,I,P
+6,1,78,A,I,P
+6,1,98,A,I,P
+6,2,0,A,going,N
+6,2,1,B,it,P
+6,3,0,A,the Air Force Academy,N
+6,3,2,B,It,P
+6,3,3,B,it,P
+6,3,3,B,it,P
+6,3,39,A,the Air Force Academy,N
+6,3,40,B,it,P
+6,3,40,B,it,P
+6,4,3,B,they,P
+6,4,4,B,they,P
+6,4,24,B,they,P
+6,4,26,B,they,P
+6,4,26,B,they,P
+6,5,6,A,that,P
+6,5,6,A,that,P
+6,5,7,B,it,P
+6,6,6,A,someone at at that phase in their life,N
+6,6,6,A,their,P
+6,7,7,B,some people,N
+6,7,7,B,they,P
+6,7,7,B,they,P
+6,7,7,B,their,P
+6,8,15,A,managing,N
+6,8,16,B,that,P
+6,9,15,A,this,P
+6,9,17,A,it,P
+6,10,18,B,they,P
+6,10,18,B,they,P
+6,11,19,A,any major piece of advice I 'd give,N
+6,11,20,A,It,P
+6,12,20,A,the same amount of money,N
+6,12,20,A,it,P
+6,13,20,A,the average person who spent that much money going to college,N
+6,13,20,A,they,P
+6,13,20,A,they,P
+6,13,20,A,they,P
+6,14,36,B,your child 's,N
+6,14,36,B,they,P
+6,15,39,A,the growing up,N
+6,15,39,A,It,P
+6,15,39,A,it,P
+6,16,34,B,the Air Force,N
+6,16,39,A,Air Force,PN
+6,16,68,B,Air Force,PN
+6,16,86,B,the Air Force,N
+6,17,39,A,someone who you know a more you know who needs to learn self-discipline and so forth would be appropriate for them,N
+6,17,39,A,them,P
+6,17,61,A,them,P
+6,18,40,B,someone who already has self discipline who has a certain amount of leadership quality in their own,N
+6,18,40,B,their,P
+6,18,87,B,they,P
+6,18,87,B,their,P
+6,18,87,B,they,P
+6,19,40,B,self discipline who has a certain amount of leadership quality in their own,N
+6,19,42,A,that,P
+6,20,45,B,people that I know f- again from high school,N
+6,20,47,B,they,P
+6,20,47,B,they,P
+6,20,50,B,they,P
+6,20,52,B,they,P
+6,20,52,B,their,P
+6,20,52,B,their,P
+6,20,68,B,they,P
+6,21,60,A,some freshmen,N
+6,21,60,A,they,P
+6,21,60,A,they,P
+6,22,61,A,transferred,N
+6,22,62,A,that,P
+6,23,63,A,the first couple of years,N
+6,23,63,A,the first couple of years,N
+6,24,64,B,your education,N
+6,24,64,B,it,P
+6,25,67,B,M I T,PN
+6,25,68,B,M I T,PN
+6,25,74,B,M I T,PN
+6,25,74,B,M I T,PN
+6,25,79,A,M I T,PN
+6,25,92,A,M I T,PN
+6,26,69,B,military academy grads,N
+6,26,71,B,they,P
+6,26,71,B,their,P
+6,27,72,B,us,P
+6,27,73,B,we,P
+6,27,73,B,we,P
+6,28,74,B,these M I T grads,N
+6,28,74,B,their,P
+6,29,81,A,they,P
+6,29,81,A,they,P
+6,29,81,A,they,P
+6,29,81,A,they,P
+6,30,82,A,A: reputation for for research,PN
+6,30,82,A,that,P
+6,30,82,A,it,P
+6,31,84,B,you,P
+6,31,84,B,you,P
+6,32,86,B,the military faculty,N
+6,32,86,B,they,P
+6,32,86,B,their,P
+6,33,89,B,all my instructors,N
+6,33,90,B,them,P
+6,33,90,B,their,P
+6,34,90,B,some instructors that would invite me over to their house for extended study things on weekends,N
+6,34,90,B,their,P
+6,35,91,B,something,N
+6,35,92,A,that,P
+6,36,94,A,the professors,N
+6,36,95,A,their,P
+6,37,96,B,Publish,PN
+6,37,97,A,that,P
+6,38,98,A,People who really are committed to the students and can afford to be,PN
+6,38,98,A,their,P
+6,39,100,B,people,N
+6,39,101,B,their,P
+6,40,100,B,a lot of factors that people do n't ever ever consider,N
+6,40,101,B,they,P
+7,0,0,A,you,P
+7,0,0,A,your,P
+7,0,0,A,you,P
+7,0,1,B,I,P
+7,0,1,B,I,P
+7,0,1,B,my,P
+7,0,1,B,I,P
+7,0,1,B,my,P
+7,0,1,B,I,P
+7,0,1,B,me,P
+7,0,1,B,I,P
+7,0,1,B,I,P
+7,0,2,B,I,P
+7,0,2,B,I,P
+7,0,3,A,you,P
+7,0,3,A,you,P
+7,0,3,A,you,P
+7,0,3,A,your,P
+7,0,3,A,your,P
+7,0,4,B,I,P
+7,0,4,B,my,P
+7,0,13,B,I,P
+7,0,22,B,I,P
+7,0,25,B,I,P
+7,0,25,B,I,P
+7,0,26,A,you,P
+7,0,27,B,I,P
+7,0,27,B,I,P
+7,0,27,B,I,P
+7,0,27,B,I,P
+7,0,28,B,I,P
+7,0,34,A,I,P
+7,0,36,A,I,P
+7,0,37,A,you,P
+7,0,38,B,My,P
+7,0,39,B,I,P
+7,0,41,B,I,P
+7,0,45,B,my,P
+7,0,50,B,I,P
+7,0,50,B,my,P
+7,0,50,B,my,P
+7,0,50,B,I,P
+7,0,50,B,I,P
+7,0,51,B,I,P
+7,0,58,B,I,P
+7,0,58,B,I,P
+7,0,58,B,I,P
+7,0,59,A,you,P
+7,0,71,A,you,P
+7,1,0,A,your own work,N
+7,1,0,A,it,P
+7,2,1,B,weed,N
+7,2,1,B,it,P
+7,2,2,B,it,P
+7,3,1,B,the garden,N
+7,3,2,B,the yard,N
+7,4,1,B,mom,N
+7,4,4,B,my mom,N
+7,4,4,B,she,P
+7,4,4,B,she,P
+7,4,4,B,her,P
+7,4,4,B,she,P
+7,4,4,B,she,P
+7,4,4,B,she,P
+7,4,4,B,she,P
+7,4,4,B,her,P
+7,4,4,B,she,P
+7,4,4,B,her,P
+7,4,38,B,My mom,PN
+7,4,45,B,my mom,N
+7,4,50,B,my mom,N
+7,5,4,B,these seeds,N
+7,5,4,B,them,P
+7,6,4,B,so many plants,N
+7,6,4,B,them all,N
+7,6,4,B,them,P
+7,7,0,A,I,P
+7,7,4,B,me,P
+7,7,6,A,My,P
+7,7,6,A,my,P
+7,7,6,A,my,P
+7,7,6,A,I,P
+7,7,6,A,I,P
+7,7,6,A,my,P
+7,7,7,A,I,P
+7,7,8,A,My,P
+7,7,9,A,I,P
+7,7,9,A,I,P
+7,7,9,A,I,P
+7,7,9,A,my,P
+7,7,9,A,my,P
+7,7,9,A,I,P
+7,7,9,A,I,P
+7,7,13,B,you,P
+7,7,14,A,my,P
+7,7,18,A,I,P
+7,7,18,A,you,P
+7,7,19,A,my,P
+7,7,19,A,I,P
+7,7,19,A,I,P
+7,7,20,B,you,P
+7,7,20,B,your,P
+7,7,21,A,I,P
+7,7,21,A,I,P
+7,7,21,A,my,P
+7,7,22,B,you,P
+7,7,24,A,I,P
+7,7,24,A,I,P
+7,7,24,A,my,P
+7,7,24,A,I,P
+7,7,24,A,I,P
+7,7,25,B,you,P
+7,7,26,A,I,P
+7,7,26,A,me,P
+7,7,31,A,I,P
+7,7,33,A,I,P
+7,7,33,A,I,P
+7,7,33,A,I,P
+7,7,33,A,me,P
+7,7,37,A,I,P
+7,7,37,A,I,P
+7,7,37,A,I,P
+7,7,42,A,I,P
+7,7,42,A,my,P
+7,7,42,A,I,P
+7,7,42,A,I,P
+7,7,42,A,my,P
+7,7,43,A,I,P
+7,7,52,A,I,P
+7,7,52,A,I,P
+7,7,52,A,I,P
+7,7,53,A,I,P
+7,7,53,A,my,P
+7,7,53,A,I,P
+7,7,54,A,I,P
+7,7,54,A,I,P
+7,7,57,A,I,P
+7,7,57,A,I,P
+7,7,57,A,my,P
+7,7,59,A,I,P
+7,7,59,A,I,P
+7,7,59,A,I,P
+7,7,59,A,I,P
+7,7,59,A,I,P
+7,7,60,A,I,P
+7,7,60,A,I,P
+7,7,60,A,I,P
+7,7,66,A,I,P
+7,7,66,A,I,P
+7,7,66,A,I,P
+7,7,68,A,I,P
+7,7,68,A,I,P
+7,7,68,A,I,P
+7,7,68,A,my,P
+7,7,71,A,I,P
+7,7,71,A,I,P
+7,7,73,A,I,P
+7,7,78,A,I,P
+7,7,79,A,I,P
+7,7,79,A,I,P
+7,7,80,B,I,P
+7,7,80,B,I,P
+7,7,80,B,I,P
+7,7,83,A,I,P
+7,7,87,A,my,P
+7,7,87,A,I,P
+7,7,87,A,I,P
+7,7,87,A,My,P
+7,8,6,A,My my sister,PN
+7,8,6,A,She,P
+7,8,6,A,She,P
+7,9,4,B,some just some little flower beds,N
+7,9,6,A,some really nice flower beds,N
+7,9,6,A,them,P
+7,10,6,A,This,P
+7,10,7,A,this,P
+7,11,6,A,my father 's,N
+7,11,7,A,His,P
+7,11,9,A,my father 's,N
+7,11,9,A,my father 's house,N
+7,11,14,A,my dad 's,N
+7,11,14,A,he,P
+7,12,7,A,His house,PN
+7,12,7,A,It,P
+7,13,8,A,My house,PN
+7,13,8,A,it,P
+7,14,6,A,we,P
+7,14,9,A,we,P
+7,14,9,A,we,P
+7,14,10,A,we,P
+7,14,10,A,we,P
+7,14,14,A,we,P
+7,14,17,A,we,P
+7,14,17,A,we,P
+7,14,19,A,we,P
+7,14,19,A,we,P
+7,14,19,A,we,P
+7,14,29,A,we,P
+7,14,31,A,we,P
+7,14,32,A,we,P
+7,14,32,A,we,P
+7,14,39,B,we,P
+7,14,48,A,we,P
+7,14,48,A,our,P
+7,14,48,A,our,P
+7,14,48,A,our,P
+7,14,48,A,we,P
+7,14,48,A,our,P
+7,14,79,A,we,P
+7,14,79,A,we,P
+7,14,81,A,we,P
+7,15,14,A,it,P
+7,15,14,A,it,P
+7,15,15,A,it,P
+7,16,4,B,They,P
+7,16,15,A,they,P
+7,16,17,A,they,P
+7,17,9,A,a couple of gardens,N
+7,17,18,A,the gardens,N
+7,17,18,A,them,P
+7,17,19,A,them,P
+7,18,9,A,my sister,N
+7,18,19,A,my sister,N
+7,19,19,A,a fertilizer,N
+7,19,19,A,that,P
+7,20,19,A,this phone,N
+7,20,21,A,my phone,N
+7,20,23,B,it,P
+7,20,24,A,my phone,N
+7,20,24,A,this phone,N
+7,20,24,A,it,P
+7,20,26,A,the phone,N
+7,20,27,B,it,P
+7,21,30,A,She,P
+7,21,30,A,her,P
+7,21,30,A,she,P
+7,21,32,A,She,P
+7,21,32,A,her,P
+7,21,32,A,She,P
+7,21,33,A,her,P
+7,21,33,A,she,P
+7,21,33,A,she,P
+7,21,34,A,She,P
+7,21,34,A,She,P
+7,21,37,A,she,P
+7,21,37,A,she,P
+7,22,31,A,carrots cabbage that sort of MUMBLEx goes to waste,N
+7,22,32,A,it,P
+7,23,34,A,Beans,PN
+7,23,34,A,they,P
+7,24,34,A,tomatoes,N
+7,24,34,A,them,P
+7,25,36,A,it,P
+7,25,36,A,it,P
+7,26,43,A,the vines,N
+7,26,43,A,They,P
+7,26,43,A,they,P
+7,27,38,B,the bees,N
+7,27,44,B,the bees,N
+7,28,43,A,pollinate,N
+7,28,44,B,it,P
+7,29,50,B,my family,N
+7,29,50,B,we,P
+7,29,50,B,we,P
+7,29,50,B,we,P
+7,30,53,A,those rail ties,N
+7,30,54,A,the rail ties,N
+7,31,58,B,them,P
+7,31,58,B,they,P
+7,32,54,A,the creosote in the rail ties,N
+7,32,58,B,creosote,N
+7,33,59,A,a tomato plant,N
+7,33,60,A,it,P
+7,33,66,A,that tomato plant,N
+7,34,60,A,they,P
+7,34,62,A,they,P
+7,35,60,A,landscape ties that are n't treated,N
+7,35,65,B,those,P
+7,36,68,A,my flower gardens,N
+7,36,69,A,They,P
+7,37,69,A,it,P
+7,37,69,A,it,P
+7,37,70,B,it,P
+7,37,70,B,it,P
+7,38,69,A,the house,N
+7,38,71,A,this house that I have,N
+7,38,71,A,it,P
+7,38,72,A,it,P
+7,39,72,A,a lilac tree,N
+7,39,72,A,it,P
+7,39,72,A,that lilac bush,N
+7,39,72,A,it,P
+7,39,74,A,it,P
+7,40,72,A,the landlord,N
+7,40,73,A,him,P
+7,40,74,A,he,P
+7,40,76,A,he,P
+7,41,72,A,the siding,N
+7,41,74,A,the siding,N
+7,41,75,B,the siding,N
+7,42,75,B,Rub,PN
+7,42,76,A,that,P
+7,43,76,A,lilac bushes,N
+7,43,76,A,they,P
+7,43,76,A,them,P
+7,43,76,A,them,P
+7,43,76,A,they,P
+7,43,76,A,they,P
+7,43,77,A,they,P
+7,43,77,A,them,P
+7,43,77,A,they,P
+7,43,77,A,them,P
+7,44,76,A,the people that do have them,N
+7,44,76,A,their,P
+7,45,78,A,three of them,N
+7,45,78,A,they,P
+7,46,78,A,the back yard,N
+7,46,79,A,the back,N
+7,47,76,A,The trees,PN
+7,47,79,A,the trees,N
+7,47,81,A,the trees,N
+7,48,79,A,the locus trees,N
+7,48,80,B,they,P
+7,48,80,B,those,P
+7,48,80,B,they,P
+7,48,81,A,They,P
+7,48,81,A,them,P
+7,48,81,A,they,P
+7,49,81,A,a chain saw,N
+7,49,81,A,it,P
+7,49,81,A,it,P
+7,49,82,B,it,P
+7,49,82,B,it,P
+7,49,83,A,it,P
+7,49,83,A,it,P
+7,50,86,B,MUMBLEx,PN
+7,50,87,A,them,P
+7,51,87,A,My husband,PN
+7,51,88,B,him,P
+7,51,88,B,he,P
+7,51,88,B,his,P
+7,51,88,B,him,P
+7,52,88,B,it,P
+7,52,88,B,it,P
+8,0,0,A,you,P
+8,0,1,B,I,P
+8,0,1,B,my,P
+8,0,3,B,You,P
+8,0,3,B,you,P
+8,0,3,B,you,P
+8,0,5,B,I,P
+8,0,6,B,I,P
+8,0,6,B,I,P
+8,0,10,A,you,P
+8,0,11,B,I,P
+8,0,11,B,I,P
+8,0,11,B,I,P
+8,0,13,B,I,P
+8,0,18,B,I,P
+8,0,20,A,you,P
+8,0,21,B,I,P
+8,0,21,B,I,P
+8,0,21,B,I,P
+8,0,21,B,I,P
+8,0,21,B,I,P
+8,0,26,B,I,P
+8,0,26,B,I,P
+8,0,31,B,I,P
+8,0,31,B,I,P
+8,0,34,B,you,P
+8,0,48,B,I,P
+8,0,49,B,I,P
+8,0,51,B,I,P
+8,0,53,B,I,P
+8,0,55,B,I,P
+8,0,57,B,I,P
+8,0,62,B,I,P
+8,0,70,B,I,P
+8,0,71,A,you,P
+8,0,72,B,you,P
+8,1,3,B,the whole concept of a trial by your peers,N
+8,1,4,A,it,P
+8,2,4,A,I,P
+8,2,4,A,I,P
+8,2,4,A,I,P
+8,2,4,A,I,P
+8,3,4,A,our justice system,N
+8,3,4,A,it,P
+8,3,4,A,they,P
+8,3,5,B,they,P
+8,4,6,B,the jury,N
+8,4,6,B,they,P
+8,4,6,B,their,P
+8,5,2,A,I,P
+8,5,7,A,I,P
+8,5,12,A,I,P
+8,5,12,A,I,P
+8,5,12,A,I,P
+8,5,15,A,I,P
+8,5,15,A,I,P
+8,5,25,A,I,P
+8,5,27,A,I,P
+8,5,29,A,I,P
+8,5,29,A,I,P
+8,5,32,A,I,P
+8,5,32,A,I,P
+8,5,50,A,I,P
+8,5,52,A,I,P
+8,5,56,A,I,P
+8,5,58,A,I,P
+8,5,58,A,I,P
+8,5,61,A,I,P
+8,5,61,A,I,P
+8,5,69,A,I,P
+8,6,15,A,they,P
+8,6,15,A,they,P
+8,7,15,A,them,P
+8,7,15,A,them,P
+8,8,15,A,a guy,N
+8,8,15,A,the person,N
+8,9,17,A,the judge,N
+8,9,17,A,they,P
+8,9,49,B,the judge,N
+8,10,21,B,they,P
+8,10,22,B,they,P
+8,10,23,B,they,P
+8,10,26,B,they,P
+8,11,25,A,them,P
+8,11,25,A,them,P
+8,12,29,A,everybody,N
+8,12,29,A,they,P
+8,12,29,A,they all,N
+8,13,34,B,have,N
+8,13,35,B,that,P
+8,14,45,A,uniform sentencing,N
+8,14,47,A,It,P
+8,15,48,B,a core minimum that they get,N
+8,15,49,B,that,P
+8,15,49,B,it,P
+8,15,49,B,its,P
+8,16,50,A,they,P
+8,16,50,A,they,P
+8,16,51,B,they,P
+8,17,50,A,someone,N
+8,17,50,A,him,P
+8,17,50,A,him,P
+8,18,54,A,those people,N
+8,18,54,A,they,P
+8,18,55,B,them,P
+8,19,58,A,they,P
+8,19,61,A,they,P
+8,19,62,B,them,P
+8,19,63,A,them,P
+8,19,63,A,them,P
+8,19,64,B,them,P
+8,19,65,B,them,P
+8,19,65,B,they,P
+8,19,65,B,them,P
+8,19,67,B,their,P
+8,20,63,A,something that 's not pleasant,N
+8,20,63,A,it,P
+8,20,63,A,it,P
+8,21,65,B,the state,N
+8,21,65,B,the state,N
+9,0,0,B,you,P
+9,0,1,A,I,P
+9,0,1,A,I,P
+9,0,1,A,I,P
+9,0,3,A,I,P
+9,0,3,A,I,P
+9,0,3,A,I,P
+9,0,3,A,I,P
+9,0,20,A,I,P
+9,0,21,A,I,P
+9,0,31,A,I,P
+9,0,32,A,I,P
+9,0,33,A,I,P
+9,1,0,B,Russia,PN
+9,1,1,A,Russia,PN
+9,1,3,A,you,P
+9,1,6,B,Russia,PN
+9,1,7,B,they,P
+9,1,7,B,they,P
+9,1,7,B,their,P
+9,1,7,B,they,P
+9,1,11,B,Russia,PN
+9,1,11,B,Russia itself,PN
+9,1,11,B,itself,N
+9,1,14,B,Russia,PN
+9,1,15,B,they,P
+9,1,32,A,Russia,PN
+9,1,44,A,the Soviet Union,N
+9,1,45,B,they,P
+9,1,45,B,they,P
+9,1,45,B,their,P
+9,1,45,B,Russia,PN
+9,1,45,B,their country,N
+9,1,47,B,Russia,PN
+9,1,47,B,Russia,PN
+9,1,47,B,it,P
+9,1,48,B,they,P
+9,1,48,B,the country,N
+9,2,3,A,war,N
+9,2,3,A,it,P
+9,3,4,B,I,P
+9,3,4,B,you,P
+9,3,8,B,me,P
+9,3,8,B,I,P
+9,3,11,B,I,P
+9,3,11,B,I,P
+9,3,14,B,I,P
+9,3,16,B,I,P
+9,3,16,B,I,P
+9,3,23,B,My,P
+9,3,23,B,my,P
+9,3,23,B,I,P
+9,3,23,B,I,P
+9,3,25,A,you,P
+9,3,28,B,I,P
+9,3,33,A,you,P
+9,3,35,B,I,P
+9,3,35,B,my,P
+9,3,35,B,I,P
+9,3,36,B,I,P
+9,3,36,B,I,P
+9,3,36,B,I,P
+9,3,36,B,I,P
+9,3,36,B,myself,N
+9,3,37,B,me,P
+9,3,37,B,I,P
+9,3,37,B,I,P
+9,3,37,B,I,P
+9,3,42,B,I,P
+9,3,42,B,I,P
+9,3,45,B,I,P
+9,3,45,B,I,P
+9,3,45,B,I,P
+9,3,45,B,you,P
+9,3,49,B,I,P
+9,3,51,B,you,P
+9,4,7,B,their prisoners,N
+9,4,7,B,them,P
+9,4,7,B,them,P
+9,4,7,B,they,P
+9,5,7,B,the people there,N
+9,5,7,B,themselves,N
+9,6,8,B,a government,N
+9,6,8,B,this government,N
+9,6,9,B,the government itself,N
+9,6,9,B,itself,N
+9,7,9,B,the people inhabiting the country,N
+9,7,9,B,these people,N
+9,7,10,B,these people,N
+9,8,6,B,the U S,N
+9,8,11,B,U S,PN
+9,8,11,B,the U S,N
+9,8,11,B,the U S,N
+9,8,15,B,the U S,N
+9,8,16,B,the U S S R,N
+9,8,29,B,the U S,N
+9,8,29,B,we,P
+9,8,30,B,We,P
+9,8,31,A,we,P
+9,8,35,B,the U S,N
+9,8,44,A,the U S,N
+9,9,11,B,a country,N
+9,9,11,B,it,P
+9,10,11,B,the whole thing in the Middle East this,N
+9,10,11,B,this,P
+9,11,11,B,they,P
+9,11,11,B,they they,N
+9,11,11,B,they,P
+9,12,11,B,the the government that 's in Moscow,N
+9,12,11,B,its,P
+9,13,11,B,those people,N
+9,13,11,B,those people,N
+9,14,12,B,the border,N
+9,14,13,B,the border,N
+9,15,1,A,us,P
+9,15,13,B,us,P
+9,15,13,B,we,P
+9,15,13,B,'s,N
+9,16,14,B,they,P
+9,16,15,B,they,P
+9,16,15,B,their,P
+9,16,15,B,their their,N
+9,16,15,B,their,P
+9,17,16,B,they,P
+9,17,16,B,they,P
+9,18,16,B,start,N
+9,18,18,B,it,P
+9,19,20,A,use,N
+9,19,20,A,it,P
+9,19,23,B,it,P
+9,20,20,A,Iraq,PN
+9,20,23,B,Iraq,PN
+9,20,24,B,the Iraq country,N
+9,20,25,A,Iraq,PN
+9,20,27,B,they,P
+9,20,27,B,they,P
+9,21,24,B,the weapon,N
+9,21,26,A,it,P
+9,21,28,B,that,P
+9,22,27,B,Saddam Hussein,PN
+9,22,27,B,he,P
+9,22,27,B,him,P
+9,22,28,B,he,P
+9,22,28,B,he,P
+9,22,29,B,he,P
+9,22,31,A,Saddam Hussein,PN
+9,22,32,A,Saddam Hussein,PN
+9,22,33,A,his,P
+9,22,42,B,Saddam Hussein,PN
+9,22,42,B,he,P
+9,22,42,B,he,P
+9,22,43,B,his,P
+9,23,29,B,you,P
+9,23,29,B,you,P
+9,23,30,B,you,P
+9,23,30,B,you,P
+9,24,32,A,that,P
+9,24,32,A,that,P
+9,24,32,A,that,P
+9,25,29,B,our,P
+9,25,33,A,their,P
+9,25,33,A,they,P
+9,25,34,A,they,P
+9,26,35,B,war,N
+9,26,35,B,That,P
+9,27,36,B,a gun,N
+9,27,36,B,a gun,N
+9,28,36,B,that same person,N
+9,28,37,B,his,P
+9,29,37,B,ends,N
+9,29,37,B,that,P
+9,30,37,B,shoot,N
+9,30,37,B,it,P
+9,30,40,A,it,P
+9,31,45,B,a lot of inhabitants of Russia,N
+9,31,45,B,their,P
+9,31,45,B,they,P
+9,31,45,B,they,P
+9,32,47,B,They,P
+9,32,47,B,they,P
+9,32,47,B,them,P
+9,32,47,B,they,P
+9,33,48,B,get,N
+9,33,48,B,that,P
+10,0,0,A,you,P
+10,0,1,B,I,P
+10,0,2,B,I,P
+10,0,3,B,I,P
+10,0,4,B,I,P
+10,0,4,B,I,P
+10,0,5,B,I,P
+10,0,5,B,I,P
+10,0,35,B,I,P
+10,0,35,B,I,P
+10,0,37,B,I,P
+10,0,39,B,I,P
+10,0,79,B,I,P
+10,0,79,B,I,P
+10,0,79,B,my,P
+10,0,80,B,I,P
+10,0,80,B,I,P
+10,0,80,B,I,P
+10,0,80,B,I,P
+10,0,81,B,I,P
+10,0,81,B,I,P
+10,0,81,B,I,P
+10,0,85,A,I,P
+10,0,85,A,I,P
+10,0,85,A,I,P
+10,0,95,B,B,N
+10,0,104,B,I,P
+10,0,104,B,I,P
+10,1,1,B,young people,N
+10,1,1,B,their,P
+10,1,1,B,their,P
+10,2,1,B,giving,N
+10,2,2,B,that,P
+10,3,2,B,people that I have known that have done that like from other countries especially,N
+10,3,3,B,they,P
+10,3,3,B,they,P
+10,3,3,B,they,P
+10,3,4,B,they,P
+10,4,4,B,the young men,N
+10,4,4,B,their,P
+10,4,4,B,they,P
+10,4,5,B,they,P
+10,5,5,B,that missionary work,N
+10,5,5,B,that,P
+10,5,8,A,that,P
+10,6,8,A,I,P
+10,6,8,A,you,P
+10,6,8,A,I,P
+10,6,8,A,I,P
+10,6,8,A,myself,N
+10,6,8,A,I,P
+10,6,8,A,I,P
+10,6,8,A,I,P
+10,6,9,A,I,P
+10,6,9,A,my,P
+10,6,9,A,I,P
+10,6,10,A,I,P
+10,6,10,A,I,P
+10,6,10,A,I,P
+10,6,10,A,I,P
+10,6,10,A,I,P
+10,6,10,A,I,P
+10,6,10,A,my,P
+10,6,11,A,I,P
+10,6,11,A,my,P
+10,6,11,A,my,P
+10,6,11,A,me,P
+10,6,12,A,I,P
+10,6,12,A,I,P
+10,6,12,A,I,P
+10,6,12,A,I,P
+10,6,12,A,I,P
+10,6,12,A,my,P
+10,6,12,A,myself,N
+10,6,12,A,I,P
+10,6,12,A,I,P
+10,6,12,A,I,P
+10,6,13,A,I,P
+10,6,13,A,I,P
+10,6,13,A,I,P
+10,6,14,A,I,P
+10,6,14,A,I,P
+10,6,14,A,I,P
+10,6,15,A,I,P
+10,6,15,A,I,P
+10,6,16,A,I,P
+10,6,16,A,I,P
+10,6,18,A,my,P
+10,6,19,A,I,P
+10,6,19,A,I,P
+10,6,19,A,I,P
+10,6,19,A,my,P
+10,6,20,A,I,P
+10,6,20,A,me,P
+10,6,28,A,I,P
+10,6,28,A,I,P
+10,6,28,A,I,P
+10,6,28,A,I,P
+10,6,28,A,I,P
+10,6,29,A,I,P
+10,6,29,A,I,P
+10,6,29,A,I,P
+10,6,30,A,I,P
+10,6,32,A,I,P
+10,6,32,A,I,P
+10,6,34,A,I,P
+10,6,34,A,I,P
+10,6,34,A,I,P
+10,6,34,A,I,P
+10,6,34,A,you,P
+10,6,34,A,I,P
+10,6,42,A,I,P
+10,6,42,A,I,P
+10,6,42,A,my,P
+10,6,43,A,I,P
+10,6,50,A,I,P
+10,6,50,A,I,P
+10,6,58,A,I,P
+10,6,60,A,I,P
+10,6,60,A,I,P
+10,6,60,A,I,P
+10,6,60,A,I,P
+10,6,61,A,I,P
+10,6,63,A,I,P
+10,6,66,A,I,P
+10,6,68,A,mine,N
+10,6,68,A,he,P
+10,6,69,A,I,P
+10,6,69,A,he,P
+10,6,75,A,I,P
+10,6,75,A,I,P
+10,6,76,A,I,P
+10,6,76,A,I,P
+10,6,76,A,you,P
+10,6,89,A,I,P
+10,6,98,A,you,P
+10,6,106,B,you,P
+10,6,106,B,I,P
+10,6,107,A,you,P
+10,7,8,A,a job that at the time was just slightly above the poverty level to teach to very rural children in a very low income district,N
+10,7,9,A,it,P
+10,7,10,A,it,P
+10,7,11,A,it,P
+10,7,11,A,it,P
+10,7,11,A,it,P
+10,8,10,A,a masters degree,N
+10,8,10,A,a masters degree,N
+10,9,12,A,paid,N
+10,9,12,A,that,P
+10,9,13,A,it,P
+10,10,12,A,paying,N
+10,10,13,A,that,P
+10,10,13,A,that,P
+10,11,12,A,all these college loans,N
+10,11,13,A,these college loans,N
+10,12,14,A,your college loans,N
+10,12,14,A,them,P
+10,12,15,A,them,P
+10,12,15,A,them,P
+10,13,15,A,that form,N
+10,13,15,A,it,P
+10,14,16,A,I,P
+10,14,16,A,I,P
+10,15,16,A,that,P
+10,15,17,A,that,P
+10,15,18,A,that,P
+10,16,18,A,Pittsburgh,PN
+10,16,18,A,Pittsburgh,PN
+10,17,19,A,the United States,N
+10,17,19,A,the country,N
+10,17,22,B,our country,N
+10,17,34,A,our own country,N
+10,17,51,A,this country,N
+10,17,85,A,this country,N
+10,17,97,B,this country,N
+10,18,19,A,travel,N
+10,18,20,A,it,P
+10,19,6,A,I,P
+10,19,21,B,I,P
+10,19,22,B,I,P
+10,19,23,B,I,P
+10,20,32,A,they,P
+10,20,32,A,they,P
+10,21,32,A,the school district,N
+10,21,32,A,them,P
+10,22,34,A,it,P
+10,22,34,A,it 's a really good idea And even if it,N
+10,22,34,A,it,P
+10,22,35,B,that,P
+10,23,34,A,we,P
+10,23,34,A,our,P
+10,24,3,B,Germany,PN
+10,24,35,B,Germany,PN
+10,25,35,B,the people that I 've known like from Germany and Finland that have done that,N
+10,25,36,B,they,P
+10,25,38,B,they,P
+10,26,36,B,military service,N
+10,26,38,B,it,P
+10,26,40,B,it,P
+10,27,39,B,people,N
+10,27,40,B,them,P
+10,27,40,B,they,P
+10,27,42,A,them,P
+10,27,42,A,they,P
+10,28,44,B,they,P
+10,28,44,B,they,P
+10,29,45,B,they,P
+10,29,46,B,they,P
+10,30,48,B,they,P
+10,30,48,B,themselves,N
+10,31,48,B,we,P
+10,31,48,B,our,P
+10,32,53,B,we,P
+10,32,53,B,we,P
+10,32,53,B,our,P
+10,32,54,B,our,P
+10,33,56,B,that,P
+10,33,57,B,it,P
+10,33,57,B,it,P
+10,33,57,B,it,P
+10,34,60,A,college students,N
+10,34,61,A,them,P
+10,34,63,A,they,P
+10,34,63,A,they,P
+10,34,64,B,they,P
+10,35,61,A,their,P
+10,35,62,A,their,P
+10,36,68,A,it,P
+10,36,69,A,it,P
+10,37,15,A,the Peace Corps,N
+10,37,75,A,the Peace Corps,N
+10,37,76,A,the Peace Corps,N
+10,37,78,A,the Peace Corps,N
+10,38,75,A,the Bush Administration,N
+10,38,76,A,they,P
+10,38,77,A,they,P
+10,39,75,A,increased,N
+10,39,76,A,increased,N
+10,40,81,B,they,P
+10,40,81,B,I,P
+10,40,81,B,I,P
+10,40,81,B,they,P
+10,40,83,B,they,P
+10,40,83,B,they,P
+10,40,83,B,they,P
+10,40,83,B,their,P
+10,40,84,B,They,P
+10,41,85,A,Washington,PN
+10,41,86,A,the Washington,N
+10,42,88,A,are,N
+10,42,89,A,that,P
+10,43,97,B,have,N
+10,43,97,B,it,P
+10,43,97,B,that,P
+10,44,100,A,make,N
+10,44,101,A,that,P
+10,44,102,B,That,P
+10,44,103,A,That,P
+10,45,105,A,the conversation,N
+10,45,106,B,it,P
+11,0,1,A,I,P
+11,0,1,A,I,P
+11,0,1,A,I,P
+11,0,1,A,I,P
+11,0,1,A,I,P
+11,1,1,A,We,P
+11,1,1,A,we,P
+11,1,1,A,we,P
+11,1,3,B,we,P
+11,1,7,B,we,P
+11,2,0,B,you,P
+11,2,3,B,I,P
+11,2,7,B,I,P
+11,2,7,B,I,P
+11,2,7,B,my,P
+11,2,7,B,I,P
+11,2,11,B,I,P
+11,2,12,B,I,P
+11,2,12,B,I,P
+11,2,15,B,I,P
+11,2,17,B,I,P
+11,2,17,B,I,P
+11,2,19,B,I,P
+11,2,20,B,I,P
+11,2,26,B,I,P
+11,2,26,B,I,P
+11,2,29,A,you,P
+11,2,29,A,you,P
+11,2,29,A,you,P
+11,2,31,B,I,P
+11,2,32,B,I,P
+11,2,35,B,I,P
+11,2,36,B,I,P
+11,2,36,B,I,P
+11,2,37,B,I,P
+11,2,37,B,I,P
+11,2,37,B,I,P
+11,2,37,B,my,P
+11,2,37,B,I,P
+11,2,38,B,I,P
+11,2,38,B,I,P
+11,2,43,B,I,P
+11,2,43,B,I,P
+11,2,44,B,I,P
+11,2,46,A,you,P
+11,2,47,B,my,P
+11,2,47,B,me,P
+11,2,48,B,I,P
+11,2,49,B,I,P
+11,2,51,B,I,P
+11,2,55,B,I,P
+11,2,58,A,I,P
+11,2,59,B,me,P
+11,2,60,B,I,P
+11,2,60,B,I,P
+11,2,60,B,I,P
+11,2,60,B,I,P
+11,2,60,B,I,P
+11,2,60,B,me,P
+11,2,63,B,I,P
+11,2,63,B,I,P
+11,2,67,B,I,P
+11,2,73,B,I,P
+11,2,83,B,I,P
+11,2,84,B,I,P
+11,2,86,B,I,P
+11,2,87,B,I,P
+11,2,90,B,I,P
+11,2,93,B,I,P
+11,2,93,B,me,P
+11,3,7,B,women,N
+11,3,8,B,they,P
+11,3,25,B,they,P
+11,4,12,B,we,P
+11,4,12,B,we,P
+11,4,12,B,we,P
+11,4,12,B,we,P
+11,4,49,B,we,P
+11,4,49,B,we,P
+11,5,13,A,my mom,N
+11,5,13,A,she,P
+11,5,13,A,my mom,N
+11,5,13,A,she,P
+11,5,13,A,She,P
+11,5,14,A,She,P
+11,5,14,A,she,P
+11,5,14,A,she,P
+11,5,14,A,she,P
+11,5,14,A,she,P
+11,5,14,A,She,P
+11,5,22,A,my mom,N
+11,6,13,A,my,P
+11,6,13,A,my,P
+11,6,13,A,my,P
+11,6,22,A,my,P
+11,6,22,A,my,P
+11,6,22,A,I,P
+11,6,64,A,my,P
+11,6,66,A,my,P
+11,6,66,A,I,P
+11,6,66,A,my,P
+11,6,66,A,I,P
+11,6,66,A,I,P
+11,6,66,A,I,P
+11,6,66,A,I,P
+11,6,66,A,my,P
+11,6,66,A,I,P
+11,6,66,A,I,P
+11,6,66,A,I,P
+11,6,66,A,my,P
+11,6,66,A,I,P
+11,6,67,B,your,P
+11,6,67,B,your,P
+11,6,70,A,I,P
+11,6,70,A,my,P
+11,6,70,A,I,P
+11,6,70,A,I,P
+11,6,70,A,I,P
+11,6,70,A,I,P
+11,6,75,A,I,P
+11,6,76,B,I,P
+11,6,76,B,I,P
+11,6,81,A,I,P
+11,6,82,A,I,P
+11,6,89,A,I,P
+11,6,89,A,I,P
+11,6,91,A,I,P
+11,6,91,A,I,P
+11,6,91,A,I,P
+11,6,91,A,I,P
+11,6,92,A,I,P
+11,7,14,A,the woman,N
+11,7,14,A,she,P
+11,8,16,B,a career,N
+11,8,17,B,it,P
+11,9,17,B,a family,N
+11,9,17,B,the family,N
+11,10,19,B,lose,N
+11,10,19,B,that,P
+11,11,20,B,kids,N
+11,11,20,B,they,P
+11,12,22,A,my mom,N
+11,12,22,A,she,P
+11,12,22,A,she,P
+11,13,22,A,work,N
+11,13,22,A,that,P
+11,14,23,A,women,N
+11,14,23,A,they,P
+11,14,23,A,they,P
+11,14,24,B,they,P
+11,15,28,B,children,N
+11,15,28,B,them,P
+11,16,29,A,they,P
+11,16,29,A,their,P
+11,17,31,B,children that does n't really want them,N
+11,17,31,B,them,P
+11,18,31,B,anyone who has children that does n't really want them,N
+11,18,32,B,they,P
+11,18,32,B,They,P
+11,18,33,B,they,P
+11,18,34,A,they,P
+11,18,34,A,they,P
+11,18,35,B,they,P
+11,18,36,B,they,P
+11,19,35,B,it,P
+11,19,36,B,It,P
+11,20,36,B,three children,N
+11,20,36,B,them,P
+11,20,37,B,them,P
+11,20,37,B,them,P
+11,21,13,A,twelve kids,N
+11,21,39,B,the kids,N
+11,21,40,B,they,P
+11,21,41,B,they,P
+11,21,41,B,they,P
+11,21,47,B,my kids,N
+11,22,39,B,I,P
+11,22,39,B,I,P
+11,22,39,B,I,P
+11,22,40,B,I,P
+11,22,40,B,I,P
+11,22,41,B,I,P
+11,22,41,B,me,P
+11,22,41,B,I,P
+11,22,42,B,I,P
+11,22,42,B,I,P
+11,22,42,B,my,P
+11,22,43,B,I,P
+11,23,39,B,we,P
+11,23,42,B,we,P
+11,23,66,A,us,P
+11,24,37,B,third shift,N
+11,24,43,B,third shift,N
+11,24,44,B,that shift,N
+11,25,47,B,have,N
+11,25,48,B,that,P
+11,25,48,B,it,P
+11,25,48,B,it,P
+11,26,50,A,I,P
+11,26,50,A,I,P
+11,27,51,B,went,N
+11,27,51,B,that,P
+11,28,51,B,women,N
+11,28,52,B,they,P
+11,28,53,A,they,P
+11,29,55,B,we,P
+11,29,55,B,we,P
+11,29,56,B,we,P
+11,29,56,B,we,P
+11,30,57,B,kids at sixteen years old,N
+11,30,57,B,they,P
+11,30,57,B,their,P
+11,30,57,B,they,P
+11,30,57,B,they,P
+11,31,59,B,we,P
+11,31,59,B,our,P
+11,31,60,B,We,P
+11,32,60,B,something,N
+11,32,60,B,it,P
+11,33,61,B,You,P
+11,33,61,B,you,P
+11,34,63,B,a kid,N
+11,34,63,B,them,P
+11,35,64,A,my parents,N
+11,35,64,A,they,P
+11,35,66,A,my parents,N
+11,35,66,A,we,P
+11,35,66,A,we,P
+11,35,66,A,we,P
+11,35,66,A,our,P
+11,36,66,A,my older brother,N
+11,36,66,A,his,P
+11,37,63,B,the whole way,N
+11,37,66,A,my entire way,N
+11,38,66,A,a car,N
+11,38,66,A,the car,N
+11,39,70,A,kids up here that have their own cars,N
+11,39,70,A,their,P
+11,39,70,A,them,P
+11,39,70,A,they,P
+11,39,70,A,their,P
+11,39,70,A,they,P
+11,39,70,A,they,P
+11,40,70,A,I,P
+11,40,70,A,I,P
+11,40,70,A,my,P
+11,40,70,A,I,P
+11,40,70,A,my,P
+11,40,70,A,I,P
+11,40,70,A,my,P
+11,40,70,A,I,P
+11,40,70,A,I,P
+11,40,70,A,I,P
+11,40,70,A,my,P
+11,41,70,A,my own life insurance,N
+11,41,70,A,my own life insurance,N
+11,42,70,A,them,P
+11,42,70,A,their,P
+11,42,71,B,they,P
+11,42,72,A,they,P
+11,42,72,A,they,P
+11,43,73,B,you,P
+11,43,73,B,you,P
+11,43,73,B,you,P
+11,43,73,B,you,P
+11,43,76,B,you,P
+11,43,76,B,yourself,N
+11,43,76,B,you,P
+11,43,76,B,you,P
+11,43,79,B,you,P
+11,43,81,A,I,P
+11,43,81,A,I,P
+11,43,81,A,I,P
+11,43,81,A,I,P
+11,43,81,A,I,P
+11,43,81,A,I,P
+11,43,81,A,I,P
+11,44,73,B,a lot of kids,N
+11,44,73,B,them,P
+11,45,76,B,advice,N
+11,45,76,B,it,P
+11,46,77,B,that,P
+11,46,77,B,that,P
+11,47,81,A,contraceptives,N
+11,47,81,A,they,P
+11,48,81,A,women,N
+11,48,81,A,they,P
+11,49,89,A,it,P
+11,49,90,B,it,P
+11,50,91,A,we,P
+11,50,91,A,we,P
+12,0,0,A,I,P
+12,0,0,A,I,P
+12,0,1,A,I,P
+12,0,2,A,I,P
+12,0,2,A,I,P
+12,0,11,A,I,P
+12,0,11,A,I,P
+12,0,11,A,I,P
+12,0,11,A,I,P
+12,0,11,A,I,P
+12,0,11,A,I,P
+12,0,11,A,my,P
+12,0,12,A,I,P
+12,0,19,B,my,P
+12,0,24,A,I,P
+12,0,25,A,I,P
+12,0,42,A,I,P
+12,0,42,A,I,P
+12,0,43,A,I,P
+12,0,43,A,I,P
+12,0,44,A,I,P
+12,0,44,A,I,P
+12,0,45,A,I,P
+12,0,45,A,I,P
+12,0,53,A,I,P
+12,0,60,A,I,P
+12,0,60,A,I,P
+12,0,60,A,I,P
+12,0,61,A,my,P
+12,0,65,A,I,P
+12,0,65,A,I,P
+12,1,0,A,you,P
+12,1,2,A,you,P
+12,1,3,B,I,P
+12,1,4,B,I,P
+12,1,4,B,I,P
+12,1,6,B,I,P
+12,1,6,B,I,P
+12,1,14,B,I,P
+12,1,33,B,I,P
+12,1,33,B,I,P
+12,1,35,B,I,P
+12,1,50,B,I,P
+12,1,50,B,I,P
+12,1,51,B,I,P
+12,1,55,A,I,P
+12,1,58,B,I,P
+12,1,58,B,I,P
+12,1,65,A,you,P
+12,2,3,B,U N,PN
+12,2,4,B,They,P
+12,2,4,B,they,P
+12,2,4,B,they,P
+12,2,4,B,the U N,N
+12,3,4,B,Iraq,PN
+12,3,4,B,the Iraqis,N
+12,3,5,B,they,P
+12,3,8,B,they,P
+12,3,32,B,Iraq,PN
+12,4,6,B,the thing,N
+12,4,8,B,it,P
+12,5,0,A,the war,N
+12,5,16,B,it,P
+12,6,16,B,they,P
+12,6,17,A,they,P
+12,6,17,A,they,P
+12,6,17,A,themselves,N
+12,6,18,A,they,P
+12,6,18,A,they,P
+12,7,19,B,my sons in the Air Force,N
+12,7,20,B,he,P
+12,7,20,B,he,P
+12,7,21,B,he,P
+12,7,21,B,his,P
+12,7,21,B,his,P
+12,8,20,B,Korea,PN
+12,8,21,B,Korea,PN
+12,8,21,B,Korea,PN
+12,9,20,B,Saudi,PN
+12,9,21,B,Saudi,PN
+12,10,21,B,he,P
+12,10,22,B,he,P
+12,11,24,A,us,P
+12,11,25,A,we,P
+12,12,27,B,the French,N
+12,12,28,B,the French,N
+12,12,39,B,the French,N
+12,13,28,B,that part of the world,N
+12,13,28,B,it,P
+12,13,29,B,it,P
+12,14,29,B,they,P
+12,14,29,B,they,P
+12,15,26,B,Kuwait,PN
+12,15,31,B,it,P
+12,15,32,B,it,P
+12,15,32,B,that place,N
+12,16,33,B,we,P
+12,16,34,B,we,P
+12,16,36,B,we,P
+12,16,36,B,we,P
+12,16,38,B,our,P
+12,16,38,B,us,P
+12,16,38,B,we,P
+12,16,38,B,we,P
+12,17,33,B,their,P
+12,17,35,B,their,P
+12,18,36,B,seven years,N
+12,18,36,B,seven days,N
+12,18,36,B,seven years,N
+12,19,36,B,Iran,PN
+12,19,36,B,Iran,PN
+12,20,39,B,the British and the French,N
+12,20,39,B,they,P
+12,20,39,B,they,P
+12,20,40,B,they,P
+12,21,43,A,we,P
+12,21,43,A,'s,N
+12,21,43,A,we,P
+12,21,44,A,we,P
+12,21,45,A,we,P
+12,21,45,A,our,P
+12,21,46,A,we,P
+12,21,46,A,our,P
+12,22,46,A,our people,N
+12,22,46,A,them,P
+12,23,47,B,we,P
+12,23,47,B,our,P
+12,23,47,B,We,P
+12,23,48,B,we,P
+12,23,48,B,we,P
+12,23,48,B,we,P
+12,23,48,B,we,P
+12,24,47,B,the old you know Vietnam problem,N
+12,24,48,B,this,P
+12,25,47,B,Vietnam,PN
+12,25,48,B,Vietnam,PN
+12,26,48,B,the job,N
+12,26,48,B,the job,N
+12,27,49,B,the guys,N
+12,27,49,B,them,P
+12,27,49,B,they,P
+12,28,49,B,it,P
+12,28,49,B,it,P
+12,29,50,B,the the Shiites of all people you know in the southern part of the country and also the Kurds,N
+12,29,50,B,these people,N
+12,30,33,B,the United States,N
+12,30,51,B,the U S,N
+12,30,51,B,their,P
+12,31,51,B,the United Nations,N
+12,31,51,B,the United Nations,N
+12,31,51,B,we,P
+12,31,51,B,we,P
+12,31,58,B,we,P
+12,31,58,B,we,P
+12,31,58,B,we,P
+12,31,58,B,we,P
+12,31,59,B,we,P
+12,31,59,B,we,P
+12,32,55,A,they,P
+12,32,58,B,them,P
+12,33,58,B,wipe,N
+12,33,58,B,that,P
+12,34,58,B,a decision to do that,N
+12,34,58,B,that decision,N
+13,0,0,A,Good morning,PN
+13,0,1,B,Good morning,PN
+13,1,3,B,our,P
+13,1,3,B,we,P
+13,1,7,B,we,P
+13,1,8,B,our,P
+13,1,9,B,We,P
+13,1,10,B,we,P
+13,1,10,B,we,P
+13,1,12,B,we,P
+13,1,13,A,we,P
+13,1,13,A,we were exploiting in the sense of we,N
+13,1,13,A,we,P
+13,1,15,B,we,P
+13,1,15,B,we,P
+13,1,17,A,we,P
+13,2,3,B,you,P
+13,2,3,B,you,P
+13,2,4,A,I,P
+13,2,4,A,I,P
+13,2,4,A,I,P
+13,2,5,A,I,P
+13,2,18,B,you,P
+13,2,25,B,you,P
+13,2,26,A,I,P
+13,2,26,A,I,P
+13,2,26,A,I,P
+13,2,26,A,I,P
+13,2,28,A,I,P
+13,2,28,A,I,P
+13,2,30,A,I,P
+13,2,30,A,I,P
+13,2,30,A,I,P
+13,2,31,B,you,P
+13,2,32,A,I,P
+13,2,36,A,I,P
+13,2,36,A,I,P
+13,2,36,A,I,P
+13,2,36,A,mine,N
+13,2,38,B,you,P
+13,2,38,B,you,P
+13,2,38,B,your,P
+13,2,38,B,you,P
+13,2,39,A,I,P
+13,2,39,A,I,P
+13,2,40,A,my,P
+13,2,40,A,I,P
+13,2,45,A,I,P
+13,2,45,A,I,P
+13,2,45,A,I,P
+13,2,46,A,me,P
+13,2,46,A,I,P
+13,2,46,A,I,P
+13,2,47,A,I,P
+13,2,47,A,I,P
+13,3,3,B,Latin America,PN
+13,3,3,B,the area,N
+13,4,3,B,our,P
+13,4,3,B,we,P
+13,4,3,B,we,P
+13,5,3,B,I,P
+13,5,3,B,I,P
+13,5,7,B,I,P
+13,5,7,B,I,P
+13,5,7,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,8,B,I,P
+13,5,12,B,I,P
+13,5,14,B,I,P
+13,5,14,B,I,P
+13,5,15,B,I,P
+13,5,18,B,I,P
+13,5,18,B,I,P
+13,5,18,B,I,P
+13,5,18,B,I,P
+13,5,18,B,I,P
+13,5,19,B,I,P
+13,5,19,B,I,P
+13,5,21,B,I,P
+13,5,21,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,I,P
+13,5,22,B,my,P
+13,5,22,B,my,P
+13,5,24,B,I,P
+13,5,34,B,I,P
+13,5,43,B,I,P
+13,5,43,B,I,P
+13,5,43,B,I,P
+13,5,48,B,my,P
+13,6,3,B,we,P
+13,6,3,B,we,P
+13,7,3,B,our policy in Latin America,N
+13,7,3,B,it,P
+13,8,3,B,Mexico,PN
+13,8,4,A,Mexico,PN
+13,9,6,A,Central America,PN
+13,9,7,B,Central America,PN
+13,10,3,B,El Salvador,PN
+13,10,7,B,El Salvador,PN
+13,10,7,B,the government itself,N
+13,10,7,B,itself,N
+13,10,8,B,their,P
+13,10,8,B,Salvador,PN
+13,10,9,B,the country,N
+13,10,15,B,the country,N
+13,11,7,B,U S,PN
+13,11,7,B,U S,PN
+13,12,8,B,the right wing death squad type situation,N
+13,12,8,B,that,P
+13,13,8,B,it,P
+13,13,8,B,that,P
+13,14,8,B,the one resource anyway that Salvador had plenty of,N
+13,14,8,B,that,P
+13,15,12,B,them,P
+13,15,13,A,they,P
+13,16,10,B,T I,PN
+13,16,14,B,T,N
+13,17,15,B,MUMBLEx,PN
+13,17,15,B,MUMBLEx,PN
+13,18,15,B,their,P
+13,18,15,B,their,P
+13,18,16,B,they,P
+13,18,17,A,their,P
+13,18,17,A,they,P
+13,19,18,B,American tourists,PN
+13,19,18,B,they,P
+13,20,3,B,Panama,PN
+13,20,18,B,Panama,PN
+13,20,22,B,Panama,PN
+13,20,22,B,Panama,PN
+13,21,19,B,we,P
+13,21,19,B,we,P
+13,21,19,B,we,P
+13,21,19,B,we,P
+13,22,19,B,those of us who were working down there,N
+13,22,19,B,they,P
+13,23,21,B,those,P
+13,23,21,B,they,P
+13,24,22,B,they,P
+13,24,22,B,Panamanians,PN
+13,25,22,B,Americans,PN
+13,25,22,B,they,P
+13,25,22,B,they,P
+13,25,22,B,they,P
+13,26,22,B,my my son,N
+13,26,22,B,he,P
+13,26,22,B,he,P
+13,27,22,B,a Panamanian girl,N
+13,27,22,B,she,P
+13,27,22,B,she,P
+13,27,22,B,she,P
+13,27,23,B,she,P
+13,28,24,B,have,N
+13,28,24,B,that,P
+13,29,25,B,Peru,PN
+13,29,26,A,Peru,PN
+13,29,36,A,Per- Peru,PN
+13,29,36,A,Peru,PN
+13,30,26,A,Peace Corps,PN
+13,30,27,A,the Peace Corps,N
+13,30,28,A,it,P
+13,30,28,A,Peace Corps,PN
+13,30,28,A,we,P
+13,30,35,B,Peace Corps,PN
+13,30,39,A,the Peace Corps,N
+13,30,40,A,Peace Corps,PN
+13,30,40,A,that,P
+13,30,42,B,it,P
+13,30,42,B,it,P
+13,30,43,B,it,P
+13,30,43,B,it,P
+13,30,46,A,Peace Corps,PN
+13,31,30,A,the savings and loan program,N
+13,31,30,A,that,P
+13,32,36,A,twelve groups,N
+13,32,37,A,them,P
+13,33,37,A,they,P
+13,33,37,A,they,P
+13,34,38,B,the the things that that you and your groups before you did,N
+13,34,38,B,those,P
+13,34,38,B,they,P
+13,34,39,A,they,P
+13,35,39,A,some of some of the the Peace Corps that I knew of,N
+13,35,40,A,they,P
+13,36,40,A,my group,N
+13,36,40,A,we,P
+13,37,40,A,that,P
+13,37,40,A,that,P
+13,37,40,A,that,P
+13,38,45,A,English,PN
+13,38,46,A,English,PN
+13,38,46,A,English,PN
+13,39,46,A,a lot of people,N
+13,39,46,A,they,P
+13,40,46,A,the textbook,N
+13,40,46,A,it,P
+13,41,47,A,stuff,N
+13,41,47,A,it,P
+13,42,48,B,my brother-in-law,N
+13,42,48,B,he,P
+14,0,0,A,your,P
+14,0,1,B,I,P
+14,0,1,B,I,P
+14,0,1,B,I,P
+14,0,5,A,you,P
+14,0,7,A,you,P
+14,0,8,B,I,P
+14,0,8,B,I,P
+14,0,8,B,I,P
+14,0,8,B,I,P
+14,0,8,B,I,P
+14,0,8,B,I,P
+14,0,9,B,my,P
+14,0,9,B,I,P
+14,0,9,B,I,P
+14,0,9,B,my,P
+14,0,11,B,I,P
+14,0,11,B,I,P
+14,0,11,B,I,P
+14,0,11,B,I,P
+14,0,11,B,I,P
+14,0,12,B,I,P
+14,0,12,B,I,P
+14,0,12,B,I,P
+14,0,13,A,you,P
+14,0,14,B,I,P
+14,0,14,B,I,P
+14,0,16,B,I,P
+14,0,22,B,I,P
+14,0,24,B,my,P
+14,0,24,B,I,P
+14,0,24,B,I,P
+14,0,24,B,my,P
+14,0,24,B,I,P
+14,0,24,B,my,P
+14,0,28,B,I,P
+14,0,28,B,I,P
+14,0,30,A,you,P
+14,0,40,B,I,P
+14,0,44,A,you,P
+14,0,46,B,I,P
+14,0,47,A,you,P
+14,0,49,A,you,P
+14,0,50,B,my,P
+14,0,50,B,I,P
+14,0,50,B,I,P
+14,0,50,B,I,P
+14,0,52,B,I,P
+14,0,52,B,I,P
+14,0,56,B,me,P
+14,0,56,B,I,P
+14,0,56,B,I,P
+14,0,56,B,I,P
+14,0,65,B,I,P
+14,0,65,B,I,P
+14,0,79,B,I,P
+14,0,79,B,I,P
+14,0,79,B,I,P
+14,0,79,B,I,P
+14,0,79,B,I,P
+14,0,81,B,I,P
+14,0,81,B,my,P
+14,0,86,B,I,P
+14,0,86,B,I,P
+14,0,86,B,I,P
+14,0,86,B,I,P
+14,0,86,B,I,P
+14,0,86,B,me,P
+14,0,87,B,I,P
+14,0,87,B,I,P
+14,0,90,B,I,P
+14,0,90,B,I,P
+14,0,91,B,I,P
+14,0,91,B,I,P
+14,1,1,B,we,P
+14,1,1,B,we,P
+14,1,1,B,We,P
+14,1,1,B,we,P
+14,1,1,B,we,P
+14,1,1,B,our,P
+14,1,1,B,our,P
+14,1,1,B,we,P
+14,1,10,A,We,P
+14,1,10,A,we,P
+14,1,18,A,we,P
+14,1,18,A,we,P
+14,1,18,A,we,P
+14,1,18,A,We,P
+14,1,18,A,we,P
+14,1,19,A,we,P
+14,1,27,A,we,P
+14,2,1,B,a budget,N
+14,2,1,B,it,P
+14,3,1,B,the ones that you never know anything about,N
+14,3,1,B,that,P
+14,4,1,B,you,P
+14,4,2,A,I,P
+14,4,5,A,I,P
+14,4,10,A,I,P
+14,4,38,B,you,P
+14,4,38,B,I,P
+14,4,38,B,you,P
+14,4,49,A,you,P
+14,4,53,A,I,P
+14,4,56,B,you,P
+14,4,58,A,I,P
+14,4,64,A,I,P
+14,4,64,A,me,P
+14,4,68,B,my,P
+14,4,70,A,I,P
+14,4,71,B,I,P
+14,4,73,A,I,P
+14,4,86,B,you,P
+14,4,88,A,I,P
+14,4,88,A,I,P
+14,5,2,A,utilities,N
+14,5,3,B,the utilities,N
+14,5,3,B,they,P
+14,5,3,B,them,P
+14,6,3,B,the electric company,N
+14,6,3,B,they,P
+14,6,4,A,They,P
+14,7,4,A,that,P
+14,7,4,A,it,P
+14,8,8,B,work,N
+14,8,9,B,work,N
+14,9,11,B,three children,N
+14,9,11,B,they,P
+14,10,11,B,five children,N
+14,10,12,B,all five kids,N
+14,10,12,B,all five kids you know,N
+14,11,19,A,the things that are extras,N
+14,11,19,A,the extras,N
+14,12,20,A,the auto budget car payment,N
+14,12,20,A,it,P
+14,13,24,B,the new town I live in,N
+14,13,24,B,it,P
+14,13,24,B,it,P
+14,14,24,B,my insurance,N
+14,14,24,B,my insurance,N
+14,15,24,B,about sixty dollars a year,N
+14,15,25,A,That,P
+14,16,26,B,three hundred and forty,N
+14,16,27,A,That,P
+14,17,29,A,Colorado,PN
+14,17,32,A,Colorado,PN
+14,17,62,A,Colorado,PN
+14,17,62,A,they,P
+14,17,62,A,the state,N
+14,17,69,A,Colorado,PN
+14,17,69,A,they,P
+14,17,69,A,they,P
+14,17,69,A,they,P
+14,18,31,B,Maryland,PN
+14,18,38,B,Maryland,PN
+14,18,40,B,Maryland,PN
+14,18,40,B,it,P
+14,18,48,B,Maryland,PN
+14,18,65,B,Maryland,PN
+14,19,40,B,a whole another police force,N
+14,19,41,A,They,P
+14,20,40,B,the traffic,N
+14,20,41,A,it,P
+14,21,28,B,Texas,PN
+14,21,44,A,Texas,PN
+14,21,50,B,Texas,PN
+14,21,50,B,Texas,PN
+14,21,50,B,Texas right here in MUMBLEx,PN
+14,21,57,B,Texas,PN
+14,21,65,B,Texas,PN
+14,22,50,B,bought,N
+14,22,51,A,That,P
+14,22,53,A,that,P
+14,23,52,B,an opportunity to transfer back,N
+14,23,52,B,it,P
+14,24,56,B,Plano,PN
+14,24,56,B,Plano,PN
+14,24,57,B,Plano,PN
+14,25,62,A,the mountains,N
+14,25,63,A,the mountains,N
+14,26,65,B,they,P
+14,26,65,B,they,P
+14,27,64,A,that state income tax,N
+14,27,69,A,the state income tax,N
+14,28,69,A,they,P
+14,28,69,A,they,P
+14,29,45,B,sir,N
+14,29,70,A,sir,N
+14,30,72,B,Charles D Gibbons,PN
+14,30,72,B,he,P
+14,30,72,B,his,P
+14,30,72,B,he,P
+14,31,71,B,some good books that I 've read that you might be interested in,N
+14,31,72,B,a couple of books,N
+14,31,72,B,them,P
+14,32,72,B,WEALTH WITHOUT RISK,PN
+14,32,73,A,the book,N
+14,32,74,B,it,P
+14,32,74,B,It,P
+14,33,79,B,money on your taxes and on your insurance,N
+14,33,79,B,that money,N
+14,34,79,B,he,P
+14,34,79,B,he,P
+14,34,79,B,the man,N
+14,35,79,B,FINANCIAL SELF DEFENSE,PN
+14,35,79,B,it,P
+14,35,79,B,it,P
+14,35,79,B,it,P
+14,36,79,B,a lot of good ideas,N
+14,36,79,B,them,P
+14,36,79,B,them,P
+14,37,79,B,anyone who wants to be better off financially,N
+14,37,80,A,that,P
+14,38,82,A,we,P
+14,38,82,A,our,P
+14,39,86,B,four non exempts,N
+14,39,87,B,them,P
+14,39,88,A,the exempts,N
+14,40,87,B,they,P
+14,40,88,A,the company,N
+14,40,90,B,this company that they bought,N
+14,40,90,B,they,P
+14,40,90,B,they,P
+15,0,0,A,you,P
+15,0,1,B,I,P
+15,0,4,B,you,P
+15,0,11,A,you,P
+15,0,12,A,yourself,N
+15,0,13,B,I,P
+15,0,13,B,I,P
+15,0,13,B,my,P
+15,0,27,B,I,P
+15,0,27,B,I,P
+15,0,27,B,I,P
+15,0,31,B,I,P
+15,0,32,A,you,P
+15,0,33,A,You,P
+15,0,35,B,I,P
+15,0,35,B,I,P
+15,0,35,B,I,P
+15,0,35,B,I,P
+15,0,35,B,I,P
+15,0,38,B,I,P
+15,0,40,B,I,P
+15,0,40,B,you,P
+15,0,40,B,you,P
+15,0,41,B,You all,PN
+15,0,43,B,you all,N
+15,0,43,B,all,N
+15,0,61,B,My,P
+15,0,61,B,I,P
+15,0,66,B,my,P
+15,0,66,B,I,P
+15,0,66,B,I,P
+15,0,66,B,I,P
+15,0,66,B,my,P
+15,0,66,B,I,P
+15,0,72,B,I,P
+15,0,75,B,I,P
+15,0,84,A,you,P
+15,0,84,A,you,P
+15,0,85,B,I,P
+15,0,86,B,I,P
+15,0,86,B,I,P
+15,0,86,B,I,P
+15,0,112,B,I,P
+15,0,114,B,My,P
+15,0,114,B,my,P
+15,0,114,B,I,P
+15,0,114,B,my,P
+15,0,114,B,my,P
+15,0,114,B,my,P
+15,0,116,B,I,P
+15,0,121,B,I,P
+15,0,121,B,I,P
+15,0,121,B,I,P
+15,0,127,B,I,P
+15,0,142,B,I,P
+15,0,142,B,my,P
+15,0,142,B,I,P
+15,1,0,A,I,P
+15,1,2,A,You,P
+15,1,10,A,I,P
+15,1,42,A,I,P
+15,1,48,A,I,P
+15,1,48,A,I,P
+15,1,49,A,I,P
+15,1,49,A,I,P
+15,1,49,A,I,P
+15,1,49,A,my,P
+15,1,54,A,my,P
+15,1,54,A,I,P
+15,1,57,A,I,P
+15,1,105,A,I,P
+15,1,105,A,I,P
+15,1,106,A,I,P
+15,1,107,B,you,P
+15,1,109,A,I,P
+15,1,111,A,I,P
+15,1,111,A,I I,PN
+15,1,111,A,I,P
+15,1,111,A,you,P
+15,1,125,A,I,P
+15,1,126,A,I,P
+15,2,3,A,it,P
+15,2,4,B,it,P
+15,3,13,B,two dogs,N
+15,3,13,B,those,P
+15,3,20,B,they,P
+15,4,14,A,one,N
+15,4,15,B,it,P
+15,5,21,A,he,P
+15,5,21,A,he,P
+15,6,22,A,we,P
+15,6,22,A,our,P
+15,6,30,A,we,P
+15,6,34,A,we,P
+15,6,34,A,we,P
+15,6,117,A,we,P
+15,6,118,A,us,P
+15,7,22,A,spend,N
+15,7,23,A,it,P
+15,8,23,A,children,N
+15,8,24,B,they,P
+15,8,25,A,them,P
+15,8,26,B,they,P
+15,8,28,A,they,P
+15,9,34,A,wonder,N
+15,9,35,B,That,P
+15,10,35,B,transferring,N
+15,10,35,B,that,P
+15,11,37,A,is,N
+15,11,38,B,it,P
+15,11,39,A,that,P
+15,11,40,B,it,P
+15,12,40,B,the stepdaughter,N
+15,12,43,B,she,P
+15,12,77,B,she,P
+15,13,25,A,Mom and Dad,PN
+15,13,45,A,Mom and Dad,PN
+15,13,46,A,they,P
+15,13,46,A,they,P
+15,14,52,A,we,P
+15,14,54,A,my wife and I,N
+15,14,56,A,we,P
+15,14,56,A,our,P
+15,14,56,A,we,P
+15,14,56,A,our,P
+15,14,76,A,we both,N
+15,14,90,A,we,P
+15,14,122,A,we,P
+15,15,61,B,My husband,PN
+15,15,61,B,he,P
+15,15,66,B,my husband,N
+15,16,62,A,it,P
+15,16,66,B,that,P
+15,16,66,B,it,P
+15,17,73,A,Fathers,PN
+15,17,73,A,they,P
+15,18,76,A,camping,N
+15,18,76,A,that,P
+15,19,84,A,kids,N
+15,19,85,B,them,P
+15,20,86,B,a kid,N
+15,20,86,B,they,P
+15,20,88,B,they,P
+15,20,88,B,their,P
+15,20,88,B,they,P
+15,21,85,B,McDonald 's,PN
+15,21,86,B,McDonald 's,PN
+15,22,93,A,breakfast,N
+15,22,94,B,It,P
+15,23,96,B,This lady in our bass club,PN
+15,23,96,B,she,P
+15,23,96,B,her,P
+15,23,96,B,her,P
+15,24,96,B,her daughter,N
+15,24,96,B,she,P
+15,24,96,B,she,P
+15,25,97,A,little girls,N
+15,25,98,A,They,P
+15,25,99,B,They,P
+15,25,101,A,they,P
+15,25,102,A,them,P
+15,26,106,A,West Texas,PN
+15,26,107,B,that,P
+15,27,111,A,Every person out there,PN
+15,27,111,A,they,P
+15,28,113,A,everyone,N
+15,28,113,A,their,P
+15,29,114,B,you,P
+15,29,114,B,yourself,N
+15,30,114,B,that curse,N
+15,30,114,B,that,P
+15,31,114,B,my Dad,N
+15,31,114,B,he,P
+15,31,114,B,him,P
+15,32,114,B,my sister,N
+15,32,114,B,my sister,N
+15,32,114,B,she,P
+15,32,115,A,Jenny,PN
+15,32,116,B,she,P
+15,33,126,A,Six Flags,PN
+15,33,132,A,Six Flags,PN
+15,34,122,A,Disney Land,PN
+15,34,137,A,Disney World,PN
+15,34,137,A,Disney Land,PN
+15,34,138,A,Disney World,PN
+15,34,138,A,Disney Land,PN
+15,34,138,A,Disney World,PN
+15,35,96,B,our,P
+15,35,138,A,our,P
+15,36,142,B,we,P
+15,36,142,B,our,P
+15,36,142,B,we,P
+16,0,0,A,you,P
+16,0,1,B,I,P
+16,0,1,B,I,P
+16,0,4,B,you,P
+16,0,5,A,you,P
+16,0,6,B,I,P
+16,0,10,B,I,P
+16,0,10,B,I,P
+16,0,10,B,I,P
+16,0,11,B,I,P
+16,0,11,B,my,P
+16,0,14,A,you,P
+16,0,20,B,I,P
+16,0,29,B,I,P
+16,0,29,B,I,P
+16,0,31,B,I,P
+16,0,34,B,you,P
+16,0,36,B,I,P
+16,0,36,B,my,P
+16,0,36,B,I,P
+16,0,36,B,I,P
+16,0,36,B,I had so many groundhogs last year that I,PN
+16,0,36,B,I,P
+16,0,36,B,me,P
+16,0,36,B,I,P
+16,0,38,B,I,P
+16,0,42,B,I,P
+16,0,42,B,I,P
+16,0,42,B,I,P
+16,0,46,B,my,P
+16,0,46,B,I,P
+16,0,46,B,I,P
+16,0,53,A,you,P
+16,0,54,B,you,P
+16,0,56,B,I,P
+16,0,73,B,I,P
+16,0,89,B,I,P
+16,1,2,A,I,P
+16,1,2,A,I,P
+16,1,2,A,I,P
+16,1,3,A,I,P
+16,1,5,A,I,P
+16,1,5,A,I,P
+16,1,5,A,I,P
+16,1,7,A,I,P
+16,1,7,A,I,P
+16,1,8,A,I,P
+16,1,8,A,I,P
+16,1,9,A,I,P
+16,1,14,A,I,P
+16,1,22,A,I,P
+16,1,22,A,I,P
+16,1,24,A,I,P
+16,1,24,A,I,P
+16,1,24,A,I,P
+16,1,25,A,me,P
+16,1,26,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,I,P
+16,1,32,A,my,P
+16,1,33,A,I,P
+16,1,36,B,I,P
+16,1,49,A,I,P
+16,1,49,A,I,P
+16,1,49,A,I,P
+16,1,50,A,I,P
+16,1,50,A,my,P
+16,1,51,A,I,P
+16,1,51,A,I,P
+16,1,51,A,I,P
+16,1,53,A,I,P
+16,1,60,A,I,P
+16,1,62,A,I,P
+16,1,65,A,I,P
+16,1,66,A,I,P
+16,1,66,A,I,P
+16,1,68,A,I,P
+16,1,69,B,you,P
+16,1,74,A,you,P
+16,1,75,A,you,P
+16,1,76,A,I,P
+16,1,83,A,I,P
+16,1,94,A,I,P
+16,1,100,A,I,P
+16,2,3,A,a brown thumb,N
+16,2,3,A,That,P
+16,3,5,A,Michigan Bulb Company,PN
+16,3,5,A,they,P
+16,3,6,B,their 's,N
+16,3,10,B,that company,N
+16,3,11,B,them,P
+16,4,5,A,some plants,N
+16,4,5,A,them,P
+16,5,13,B,they,P
+16,5,16,A,they,P
+16,5,16,A,they,P
+16,5,17,A,they,P
+16,5,17,A,they,P
+16,5,17,A,them,P
+16,5,20,B,they,P
+16,5,41,B,they,P
+16,6,17,A,offer,N
+16,6,18,B,that,P
+16,7,21,B,they,P
+16,7,21,B,they,P
+16,7,21,B,they,P
+16,8,22,A,a whole bunch of bulbs,N
+16,8,22,A,those,P
+16,8,23,B,they,P
+16,9,23,B,Spring,PN
+16,9,24,A,Spring,PN
+16,9,24,A,that,P
+16,10,29,B,cats,N
+16,10,30,A,They,P
+16,10,30,A,they,P
+16,10,31,B,they,P
+16,10,32,A,they,P
+16,11,32,A,some,N
+16,11,32,A,they,P
+16,11,32,A,them,P
+16,11,32,A,they,P
+16,12,28,A,the cats,N
+16,12,32,A,my cats,N
+16,12,33,A,they,P
+16,12,33,A,them,P
+16,12,36,B,the cats,N
+16,12,37,A,they,P
+16,12,37,A,they,P
+16,13,36,B,so many groundhogs,N
+16,13,36,B,they,P
+16,14,36,B,a little fence,N
+16,14,36,B,it,P
+16,14,36,B,it,P
+16,14,36,B,it,P
+16,14,36,B,it,P
+16,15,50,A,cooking,N
+16,15,50,A,that,P
+16,15,50,A,it,P
+16,15,51,A,it,P
+16,16,55,A,raising,N
+16,16,56,B,that,P
+16,16,58,A,it,P
+16,16,58,A,it,P
+16,17,38,B,we,P
+16,17,58,A,we,P
+16,17,58,A,we,P
+16,17,58,A,we,P
+16,17,58,A,we,P
+16,17,58,A,we,P
+16,17,58,A,we,P
+16,17,70,A,We,P
+16,17,70,A,we,P
+16,17,71,A,we,P
+16,17,77,A,we,P
+16,17,77,A,we,P
+16,17,77,A,we,P
+16,17,78,A,We,P
+16,17,88,A,we,P
+16,17,88,A,we,P
+16,17,88,A,We,P
+16,17,88,A,we,P
+16,17,94,A,We,P
+16,17,94,A,we,P
+16,17,94,A,we,P
+16,17,94,A,we,P
+16,17,97,A,we,P
+16,17,97,A,we,P
+16,18,58,A,them,P
+16,18,58,A,they,P
+16,18,58,A,them,P
+16,18,58,A,them,P
+16,19,61,A,the Himie,N
+16,19,61,A,She,P
+16,19,61,A,she,P
+16,20,62,A,a litter,N
+16,20,62,A,her,P
+16,20,62,A,her,P
+16,20,63,A,she,P
+16,20,63,A,she,P
+16,21,62,A,them,P
+16,21,64,B,them,P
+16,21,65,A,them,P
+16,21,88,A,them,P
+16,21,90,A,them,P
+16,22,65,A,most breeders,N
+16,22,65,A,they,P
+16,22,65,A,they,P
+16,22,66,A,they,P
+16,23,66,A,these,P
+16,23,66,A,them,P
+16,23,66,A,they,P
+16,24,66,A,they,P
+16,24,67,A,they,P
+16,25,71,A,Bombays,PN
+16,25,72,A,they,P
+16,25,72,A,they,P
+16,25,72,A,they,P
+16,25,72,A,they,P
+16,25,72,A,they,P
+16,25,74,A,them,P
+16,26,75,A,not too many people,N
+16,26,75,A,They,P
+16,27,75,A,Turkish Vans,PN
+16,27,76,A,Turkish Vans,PN
+16,28,76,A,one,N
+16,28,76,A,it,P
+16,28,76,A,It,P
+16,28,76,A,It,P
+16,29,77,A,they,P
+16,29,77,A,they,P
+16,29,98,A,they,P
+16,29,100,A,them,P
+16,29,100,A,They,P
+16,30,75,A,Himie,PN
+16,30,77,A,the Himie,N
+16,30,77,A,her,P
+16,30,78,A,her,P
+16,30,78,A,her,P
+16,30,83,A,she,P
+16,30,83,A,she,P
+16,30,84,A,She,P
+16,30,84,A,she,P
+16,31,55,A,cats,N
+16,31,77,A,those,P
+16,32,84,A,a Himalayan,N
+16,32,84,A,they,P
+16,32,84,A,they,P
+16,32,84,A,they,P
+16,32,84,A,They,P
+16,32,84,A,they,P
+16,33,84,A,she,P
+16,33,84,A,she,P
+16,33,84,A,her,P
+16,33,85,A,she,P
+16,33,85,A,she,P
+16,33,86,A,her,P
+16,33,87,B,she,P
+16,33,87,B,her,P
+16,33,88,A,she,P
+16,34,90,A,you guys,N
+16,34,91,B,them,P
+16,35,93,B,it,P
+16,35,94,A,it,P
+16,35,94,A,it,P
+16,36,94,A,I,P
+16,36,94,A,I,P
+16,37,94,A,a Devon Rex,N
+16,37,94,A,Devon Rexes,PN
+16,37,95,B,it,P
+16,37,96,A,It,P
+16,37,96,A,it,P
+16,37,96,A,It,P
+16,37,96,A,it,P
+16,37,97,A,it,P
+16,38,97,A,they,P
+16,38,97,A,they,P
+16,38,97,A,they,P
+16,38,97,A,they,P
+16,38,97,A,they,P
+16,39,98,A,It,P
+16,39,100,A,it,P
+17,0,0,A,you,P
+17,0,1,B,I,P
+17,0,1,B,I,P
+17,0,1,B,I,P
+17,0,2,B,I,P
+17,0,2,B,I,P
+17,0,2,B,me,P
+17,0,2,B,I,P
+17,0,2,B,I,P
+17,0,2,B,I,P
+17,0,2,B,I,P
+17,0,5,A,I,P
+17,0,8,B,I,P
+17,0,9,B,I,P
+17,0,10,B,I,P
+17,0,10,B,I,P
+17,0,10,B,I,P
+17,0,10,B,I,P
+17,0,19,A,you,P
+17,0,19,A,you,P
+17,0,20,B,I,P
+17,0,20,B,I,P
+17,0,20,B,I,P
+17,0,24,B,I,P
+17,0,24,B,I,P
+17,0,25,B,I,P
+17,0,25,B,I I,PN
+17,0,25,B,I,P
+17,0,25,B,I,P
+17,0,25,B,I,P
+17,0,25,B,I,P
+17,0,25,B,I,P
+17,0,25,B,I,P
+17,0,26,B,I,P
+17,0,30,A,I,P
+17,0,33,B,I,P
+17,0,33,B,I,P
+17,0,39,B,me,P
+17,0,39,B,I,P
+17,0,39,B,my,P
+17,0,39,B,my,P
+17,0,40,B,I,P
+17,0,43,B,I,P
+17,0,45,B,I,P
+17,0,45,B,I,P
+17,0,45,B,I,P
+17,0,45,B,I,P
+17,0,45,B,I,P
+17,0,46,B,I,P
+17,0,46,B,I,P
+17,0,46,B,my,P
+17,0,47,B,me,P
+17,0,48,A,I,P
+17,0,48,A,I,P
+17,0,49,A,me,P
+17,0,50,B,I,P
+17,0,50,B,I,P
+17,0,50,B,I,P
+17,0,51,B,I,P
+17,0,51,B,I,P
+17,0,51,B,I,P
+17,0,59,B,I,P
+17,0,59,B,I,P
+17,0,59,B,I,P
+17,0,64,B,I,P
+17,0,65,A,you,P
+17,1,0,A,drug testing,N
+17,1,1,B,it,P
+17,1,1,B,it,P
+17,1,1,B,it,P
+17,1,1,B,it,P
+17,1,5,A,It,P
+17,1,24,B,it,P
+17,2,1,B,fellow employees,N
+17,2,1,B,their,P
+17,2,1,B,the people,N
+17,3,4,A,I,P
+17,3,4,A,I,P
+17,3,4,A,I,P
+17,3,4,A,I,P
+17,3,7,A,I,P
+17,3,11,A,I,P
+17,3,14,A,I,P
+17,3,27,A,I,P
+17,3,27,A,I,P
+17,3,27,A,I,P
+17,3,34,B,I,P
+17,3,36,A,I,P
+17,3,38,A,me,P
+17,3,39,B,you,P
+17,3,39,B,your,P
+17,3,39,B,I,P
+17,3,41,A,I,P
+17,3,41,A,I,P
+17,3,42,A,I,P
+17,3,48,A,I,P
+17,3,48,A,I,P
+17,3,51,B,you,P
+17,3,55,A,I,P
+17,3,55,A,me,P
+17,3,63,A,I,P
+17,4,4,A,people who are really on drugs and that sort of thing,N
+17,4,5,A,they,P
+17,5,10,B,people,N
+17,5,10,B,they,P
+17,6,12,B,some people,N
+17,6,12,B,their,P
+17,6,12,B,their,P
+17,7,12,B,their employers,N
+17,7,13,B,them,P
+17,7,14,A,they,P
+17,7,16,A,their,P
+17,7,17,B,them,P
+17,8,1,B,the company,N
+17,8,13,B,the company,N
+17,8,14,A,the company,N
+17,8,14,A,they,P
+17,8,17,B,they,P
+17,8,19,A,we,P
+17,8,19,A,we,P
+17,8,32,A,the company,N
+17,8,40,B,the whole company,N
+17,9,19,A,some sort of regular schedule,N
+17,9,19,A,that,P
+17,10,19,A,everybody,N
+17,10,20,B,everybody,N
+17,10,21,A,they,P
+17,10,21,A,they,P
+17,10,22,B,they,P
+17,11,19,A,it,P
+17,11,20,B,it,P
+17,11,23,A,it,P
+17,12,24,B,someone,N
+17,12,24,B,they,P
+17,13,27,A,they,P
+17,13,27,A,they,P
+17,13,28,A,them,P
+17,13,30,A,they,P
+17,13,32,A,them,P
+17,14,32,A,quit,N
+17,14,33,B,it,P
+17,15,33,B,some people who did it,N
+17,15,33,B,they,P
+17,16,33,B,T,N
+17,16,34,B,T,N
+17,17,39,B,'s,N
+17,17,39,B,'s let 's,N
+17,17,39,B,'s,N
+17,18,40,B,that,P
+17,18,40,B,it,P
+17,18,41,A,this,P
+17,18,42,A,it,P
+17,18,42,A,this,P
+17,18,45,B,it,P
+17,18,45,B,it,P
+17,18,45,B,it,P
+17,18,46,B,it,P
+17,19,48,A,it,P
+17,19,48,A,it,P
+17,20,48,A,said,N
+17,20,49,A,that,P
+17,21,46,B,everybody,N
+17,21,50,B,everybody,N
+17,22,52,B,it,P
+17,22,52,B,it,P
+17,23,53,B,those kinds of things,N
+17,23,54,B,those,P
+17,24,55,A,a particular drug,N
+17,24,55,A,that,P
+17,25,55,A,your spouse,N
+17,25,56,A,their,P
+17,26,57,B,That,P
+17,26,58,A,that,P
+17,27,59,B,friends,N
+17,27,59,B,they,P
+17,27,59,B,their,P
+17,27,60,B,they,P
+17,27,60,B,their,P
+17,28,59,B,we,P
+17,28,59,B,we,P
+17,28,63,A,we,P
+17,29,61,A,that,P
+17,29,62,B,that,P
+18,0,0,A,your,P
+18,0,1,B,I,P
+18,0,1,B,I,P
+18,0,1,B,my,P
+18,0,1,B,I,P
+18,0,1,B,I,P
+18,0,1,B,I,P
+18,0,1,B,I,P
+18,0,2,B,I,P
+18,0,5,B,I,P
+18,0,8,B,I,P
+18,0,8,B,I,P
+18,0,10,A,you,P
+18,0,13,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,my,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,16,B,I,P
+18,0,17,B,I,P
+18,0,17,B,I,P
+18,0,18,B,I,P
+18,0,18,B,I,P
+18,0,18,B,I,P
+18,0,19,B,my,P
+18,0,39,B,I,P
+18,0,39,B,I,P
+18,0,39,B,my,P
+18,0,40,B,I,P
+18,0,40,B,I,P
+18,0,41,B,I,P
+18,0,41,B,I,P
+18,0,42,B,I,P
+18,0,42,B,I,P
+18,0,43,A,I,P
+18,0,45,B,I,P
+18,0,49,B,I,P
+18,1,0,A,it,P
+18,1,1,B,it,P
+18,2,1,B,the Peace Corps movement,N
+18,2,1,B,it,P
+18,3,2,B,a lot of kids who get out of school,N
+18,3,2,B,they,P
+18,4,3,B,we,P
+18,4,3,B,our,P
+18,4,5,B,we,P
+18,4,5,B,we,P
+18,4,50,A,us,P
+18,5,5,B,the the people power to do it,N
+18,5,5,B,it,P
+18,5,5,B,it,P
+18,6,10,A,I,P
+18,6,10,A,I,P
+18,6,10,A,I,P
+18,6,10,A,I,P
+18,6,10,A,I,P
+18,6,11,A,I,P
+18,6,11,A,I,P
+18,6,11,A,I,P
+18,6,11,A,I,P
+18,6,11,A,I,P
+18,6,11,A,I,P
+18,6,11,A,I,P
+18,6,12,A,I,P
+18,6,12,A,I,P
+18,6,12,A,I,P
+18,6,24,A,I,P
+18,6,24,A,I,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,27,A,my,P
+18,6,27,A,me,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,27,A,I,P
+18,6,28,A,I,P
+18,6,28,A,my,P
+18,6,28,A,I,P
+18,6,29,A,I,P
+18,6,29,A,I,P
+18,6,30,B,I,P
+18,6,37,A,I,P
+18,6,43,A,my,P
+18,6,43,A,me,P
+18,6,43,A,my,P
+18,6,44,A,I,P
+18,6,44,A,I,P
+18,6,44,A,I,P
+18,6,47,A,I,P
+18,6,47,A,I,P
+18,6,48,A,I,P
+18,6,48,A,I,P
+18,6,48,A,I,P
+18,6,48,A,I,P
+18,6,48,A,I,P
+18,6,48,A,me,P
+18,6,50,A,I,P
+18,6,52,A,I,P
+18,6,52,A,I,P
+18,6,53,A,I,P
+18,6,53,A,I,P
+18,6,54,A,I,P
+18,6,54,A,I,P
+18,6,55,A,my,P
+18,6,61,A,I,P
+18,6,61,A,I,P
+18,6,61,A,I,P
+18,7,11,A,be,N
+18,7,11,A,that,P
+18,8,12,A,kids,N
+18,8,12,A,they,P
+18,8,12,A,them,P
+18,8,12,A,these kids,N
+18,8,12,A,their,P
+18,8,12,A,their,P
+18,8,12,A,they,P
+18,8,12,A,them,P
+18,8,12,A,them,P
+18,8,12,A,them,P
+18,9,11,A,military service,N
+18,9,12,A,the military,N
+18,10,12,A,it,P
+18,10,12,A,it,P
+18,10,12,A,it,P
+18,11,12,A,the world,N
+18,11,12,A,it,P
+18,11,13,B,the world,N
+18,11,25,A,the world,N
+18,11,28,A,the world,N
+18,12,16,B,college,N
+18,12,16,B,college,N
+18,13,17,B,I,P
+18,13,17,B,I,P
+18,14,20,B,someone,N
+18,14,21,B,they,P
+18,14,22,A,them,P
+18,15,20,B,life and the reality of working for a living and trying to make ends meet,N
+18,15,21,B,it,P
+18,16,25,A,They,P
+18,16,25,A,they,P
+18,16,25,A,They,P
+18,17,28,A,things,N
+18,17,28,A,they,P
+18,18,31,B,some people,N
+18,18,31,B,they,P
+18,19,31,B,it,P
+18,19,33,B,that good life,N
+18,19,35,B,it,P
+18,19,36,B,it,P
+18,20,3,B,our own country,N
+18,20,37,A,this country,N
+18,21,37,A,a a Peace Corps sort of organization,N
+18,21,37,A,this,P
+18,22,38,A,they,P
+18,22,38,A,they,P
+18,22,38,A,they,P
+18,22,38,A,their,P
+18,22,38,A,their,P
+18,23,39,B,their,P
+18,23,39,B,them,P
+18,24,39,B,so many of the people that live around them,N
+18,24,39,B,themselves,N
+18,24,40,B,them,P
+18,25,40,B,the mall,N
+18,25,40,B,the mall,N
+18,26,43,A,my mom,N
+18,26,43,A,she,P
+18,26,44,A,she,P
+18,27,43,A,the house,N
+18,27,44,A,it,P
+18,28,46,B,the the services,N
+18,28,47,A,the service,N
+18,28,47,A,it,P
+18,29,48,A,do,N
+18,29,48,A,it,P
+18,30,48,A,people,N
+18,30,48,A,They,P
+18,30,48,A,they,P
+18,30,48,A,themselves,N
+18,31,49,B,President Bush,PN
+18,31,49,B,his,P
+18,31,49,B,he,P
+18,32,49,B,the individuals,N
+18,32,49,B,they,P
+18,33,50,A,somebody,N
+18,33,50,A,they,P
+18,34,49,B,government,N
+18,34,50,A,the government,N
+18,34,50,A,the government,N
+18,34,50,A,they,P
+18,34,50,A,They,P
+18,34,50,A,the government,N
+18,35,50,A,the money,N
+18,35,50,A,it,P
+18,36,5,B,it,P
+18,36,50,A,it,P
+18,37,6,B,Jimmy Carter,PN
+18,37,52,A,Carter,PN
+18,38,53,A,it,P
+18,38,53,A,it was it,N
+18,38,53,A,it,P
+18,39,53,A,everybody else,N
+18,39,53,A,their,P
+18,39,53,A,their,P
+18,40,53,A,We,P
+18,40,53,A,we,P
+18,41,53,A,that,P
+18,41,53,A,that,P
+18,41,53,A,it,P
+18,41,53,A,it,P
+18,42,54,A,people on public assistance who are quite capable of doing something for themselves but just wo n't,N
+18,42,54,A,themselves,N
+18,42,55,A,them,P
+18,42,56,A,them,P
+18,42,56,A,them,P
+18,42,56,A,their,P
+18,43,55,A,a family that a a married couple with two kids,N
+18,43,55,A,they,P
+18,43,55,A,they,P
+18,44,55,A,welfare,N
+18,44,57,B,welfare,N
+18,45,47,A,the kids who would be giving the service,N
+18,45,59,B,you,P
+18,46,60,A,that,P
+18,46,60,A,it,P
+18,47,61,A,somebody,N
+18,47,61,A,they,P
+18,47,62,B,them,P
+18,48,61,A,return,N
+18,48,62,B,That,P
+18,49,57,B,they,P
+18,49,62,B,they,P
+18,50,63,A,they,P
+18,50,63,A,they,P
+18,50,63,A,they,P
+18,50,63,A,they,P
+18,50,65,A,they,P
+18,50,66,B,they,P
+18,50,68,B,they,P
+18,50,68,B,they,P
+18,51,57,B,Maryland,PN
+18,51,63,A,Maryland,PN
+18,51,68,B,Maryland,PN
+18,52,60,A,Alabama,PN
+18,52,65,A,Alabama,PN
+18,53,68,B,another program in Maryland that 's called Adopt A Highway,N
+18,53,69,A,that,P
+18,54,52,A,North Carolina,PN
+18,54,69,A,North Carolina,PN
+19,0,0,A,you,P
+19,0,1,B,My,P
+19,0,5,B,I,P
+19,0,17,B,I,P
+19,0,17,B,you,P
+19,0,19,B,you,P
+19,0,19,B,you,P
+19,0,20,A,I,P
+19,0,22,B,I,P
+19,0,22,B,My,P
+19,0,22,B,I,P
+19,0,22,B,I,P
+19,0,23,A,you,P
+19,0,26,B,I,P
+19,0,55,B,B: I,PN
+19,0,55,B,I,P
+19,0,62,B,I,P
+19,0,64,B,I,P
+19,0,65,B,I,P
+19,0,67,B,I,P
+19,0,67,B,I,P
+19,0,69,B,I,P
+19,0,69,B,my,P
+19,0,71,A,you,P
+19,0,76,B,I,P
+19,0,76,B,I,P
+19,0,87,B,you,P
+19,0,87,B,you,P
+19,0,93,B,you,P
+19,0,94,A,I,P
+19,0,95,B,I,P
+19,0,100,B,you,P
+19,0,100,B,you,P
+19,0,104,B,I,P
+19,0,115,B,My,P
+19,0,115,B,I,P
+19,0,119,B,I,P
+19,0,121,B,I,P
+19,0,126,B,I,P
+19,0,141,B,you,P
+19,0,144,B,I,P
+19,0,144,B,I,P
+19,0,144,B,you,P
+19,0,144,B,I,P
+19,0,144,B,I,P
+19,0,144,B,your,P
+19,0,145,B,I,P
+19,1,1,B,we,P
+19,1,1,B,us,P
+19,1,1,B,we,P
+19,1,1,B,we,P
+19,1,1,B,we,P
+19,1,5,B,we,P
+19,1,5,B,we,P
+19,1,5,B,we,P
+19,1,5,B,we,P
+19,1,5,B,we,P
+19,1,5,B,we,P
+19,1,5,B,we,P
+19,1,55,B,We,P
+19,1,73,B,we,P
+19,1,73,B,our,P
+19,1,74,B,us,P
+19,1,76,B,us,P
+19,1,78,B,We,P
+19,1,79,B,We,P
+19,1,79,B,us,P
+19,1,80,B,We,P
+19,1,106,B,we,P
+19,1,111,A,we,P
+19,1,111,A,we,P
+19,1,128,B,us,P
+19,2,2,A,shore,N
+19,2,3,B,shore,N
+19,3,5,B,a catfish or two,N
+19,3,5,B,those,P
+19,4,5,B,it,P
+19,4,5,B,it,P
+19,4,5,B,it,P
+19,4,5,B,it,P
+19,4,5,B,it,P
+19,5,5,B,that,P
+19,5,5,B,that,P
+19,5,5,B,that,P
+19,6,8,B,They,P
+19,6,13,B,they,P
+19,6,15,B,they,P
+19,6,16,A,they,P
+19,7,17,B,fly fishing,N
+19,7,17,B,that,P
+19,8,20,A,I,P
+19,8,20,A,I,P
+19,8,21,A,I,P
+19,8,21,A,I,P
+19,8,21,A,I,P
+19,8,23,A,me,P
+19,8,39,A,I,P
+19,8,44,B,I,P
+19,8,48,A,me,P
+19,8,51,A,I,P
+19,8,58,A,I,P
+19,8,59,B,you,P
+19,8,60,B,you,P
+19,8,64,B,You,P
+19,8,74,B,you,P
+19,8,88,A,I,P
+19,8,88,A,I,P
+19,8,136,A,I,P
+19,9,21,A,it,P
+19,9,22,B,that,P
+19,10,22,B,a reel with a button on it,N
+19,10,22,B,it,P
+19,11,23,A,the line,N
+19,11,24,A,the line,N
+19,12,25,B,the little thing on the end,N
+19,12,26,B,it,P
+19,12,37,B,it,P
+19,12,38,B,it,P
+19,12,39,A,it,P
+19,12,106,B,it,P
+19,13,27,A,the fly on the end,N
+19,13,27,A,It,P
+19,14,28,A,four five six little rolls coils of line,N
+19,14,29,A,the line,N
+19,14,30,A,it,P
+19,14,32,B,it,P
+19,14,35,A,it,P
+19,14,35,A,it,P
+19,14,36,A,it,P
+19,15,32,B,you,P
+19,15,33,A,You,P
+19,16,40,B,That,P
+19,16,41,A,it,P
+19,17,45,A,a something that looks like something else,N
+19,17,46,A,it,P
+19,17,46,A,it,P
+19,18,49,B,you,P
+19,18,49,B,yourself,N
+19,18,50,B,you,P
+19,18,51,A,You,P
+19,19,49,B,one,N
+19,19,50,B,it,P
+19,20,68,A,It,P
+19,20,68,A,it,P
+19,20,69,B,it,P
+19,20,69,B,It,P
+19,21,69,B,Take,PN
+19,21,69,B,that,P
+19,22,81,A,Fishing,PN
+19,22,81,A,It,P
+19,22,81,A,it,P
+19,23,92,A,the bank,N
+19,23,94,A,the bank,N
+19,24,92,A,it,P
+19,24,94,A,it,P
+19,25,81,A,the water,N
+19,25,96,A,The water,PN
+19,25,98,A,it,P
+19,26,101,A,a stepdaughter,N
+19,26,102,A,She,P
+19,26,102,A,she,P
+19,27,100,B,fishing,N
+19,27,102,A,it,P
+19,28,104,B,a three and a half year old,N
+19,28,105,B,the little one,N
+19,28,106,B,The three and a half year old,PN
+19,28,106,B,him,P
+19,28,106,B,his,P
+19,28,106,B,he,P
+19,28,106,B,he,P
+19,28,106,B,he,P
+19,28,106,B,him,P
+19,28,106,B,him,P
+19,28,107,B,he,P
+19,28,107,B,he,P
+19,28,107,B,he,P
+19,28,109,B,He,P
+19,28,109,B,He,P
+19,29,106,B,last year,N
+19,29,106,B,last year,N
+19,29,111,A,Last year,PN
+19,30,106,B,a little pole,N
+19,30,106,B,it,P
+19,30,107,B,it,P
+19,31,106,B,We,P
+19,31,106,B,we,P
+19,31,106,B,we,P
+19,31,106,B,we all,N
+19,32,106,B,a friend 's,N
+19,32,106,B,their,P
+19,32,106,B,they,P
+19,33,9,A,Colorado,PN
+19,33,114,A,Colorado,PN
+19,34,118,A,you all,N
+19,34,120,A,you all,N
+19,35,121,B,he,P
+19,35,121,B,He,P
+19,35,124,B,he,P
+19,36,126,B,some friends who work up there,N
+19,36,128,B,they,P
+19,36,128,B,They,P
+19,37,69,B,my dad,N
+19,37,128,B,Her dad,PN
+19,38,131,A,fishing,N
+19,38,131,A,It,P
+19,38,132,B,it,P
+19,38,133,A,it,P
+19,39,135,B,have,N
+19,39,135,B,that,P
+19,40,69,B,we,P
+19,40,141,B,We,P
+19,40,141,B,we,P
+19,40,141,B,we,P
+19,40,141,B,we,P
+19,40,141,B,we,P
+19,40,141,B,we,P
+19,40,141,B,we,P
+19,40,141,B,our,P
+19,40,141,B,our,P
+19,40,142,B,we,P
+19,40,144,B,we,P
+19,40,144,B,we,P
+19,40,144,B,we,P
+19,41,141,B,that creek,N
+19,41,141,B,that creek that had been fifty or sixty feet from our site of our tent,N
+19,41,145,B,the creek,N
+19,41,145,B,the creek,N
+19,42,143,A,that water,N
+19,42,144,B,it,P
+19,43,145,B,it,P
+19,43,146,A,it,P
+19,43,147,A,it,P
+20,0,0,A,I,P
+20,0,0,A,I,P
+20,0,4,A,I,P
+20,0,10,A,I,P
+20,0,10,A,I,P
+20,0,10,A,I,P
+20,0,11,A,I,P
+20,0,11,A,I,P
+20,0,11,A,I,P
+20,0,11,A,I,P
+20,0,16,A,I,P
+20,0,16,A,I,P
+20,0,16,A,I,P
+20,0,16,A,I,P
+20,0,16,A,I,P
+20,0,16,A,I,P
+20,0,17,A,I,P
+20,0,17,A,I,P
+20,0,17,A,you,P
+20,0,17,A,I,P
+20,0,17,A,I,P
+20,0,17,A,I,P
+20,0,17,A,I,P
+20,0,20,A,I,P
+20,0,20,A,I,P
+20,0,20,A,I,P
+20,0,20,A,I,P
+20,0,20,A,I,P
+20,0,25,A,I,P
+20,0,26,B,you,P
+20,0,26,B,I,P
+20,0,27,A,I,P
+20,0,31,A,I,P
+20,0,31,A,I,P
+20,0,33,A,I,P
+20,0,33,A,I,P
+20,0,33,A,I,P
+20,0,34,A,I,P
+20,0,35,A,I,P
+20,0,41,A,I,P
+20,0,41,A,I,P
+20,0,42,A,I,P
+20,0,42,A,I,P
+20,0,42,A,I,P
+20,0,44,A,I,P
+20,0,47,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,my,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,55,A,I,P
+20,0,59,A,I,P
+20,0,59,A,I,P
+20,0,60,A,I,P
+20,0,61,A,I,P
+20,0,61,A,I,P
+20,0,61,A,I,P
+20,0,61,A,I,P
+20,0,61,A,my,P
+20,0,63,A,I,P
+20,1,1,B,I,P
+20,1,1,B,I,P
+20,1,1,B,I,P
+20,1,2,A,you,P
+20,1,3,B,I,P
+20,1,3,B,I,P
+20,1,4,A,I,P
+20,1,4,A,I,P
+20,1,4,A,my,P
+20,1,5,B,I,P
+20,1,5,B,I,P
+20,1,7,B,I,P
+20,1,7,B,I,P
+20,1,9,B,I,P
+20,1,9,B,I,P
+20,1,9,B,I,P
+20,1,9,B,my,P
+20,1,12,A,you,P
+20,1,12,A,you,P
+20,1,15,B,I,P
+20,1,15,B,I,P
+20,1,15,B,I,P
+20,1,15,B,I,P
+20,1,16,A,I,P
+20,1,16,A,I,P
+20,1,16,A,I,P
+20,1,16,A,I,P
+20,1,16,A,I,P
+20,1,18,B,I,P
+20,1,18,B,I,P
+20,1,18,B,I,P
+20,1,20,A,I,P
+20,1,20,A,I,P
+20,1,20,A,I,P
+20,1,21,B,I,P
+20,1,24,B,I,P
+20,1,26,B,I,P
+20,1,26,B,I,P
+20,1,26,B,I,P
+20,1,26,B,I,P
+20,1,26,B,I,P
+20,1,28,B,I,P
+20,1,30,B,I,P
+20,1,31,A,my,P
+20,1,31,A,I,P
+20,1,32,B,I,P
+20,1,32,B,I,P
+20,1,33,A,I,P
+20,1,33,A,I,P
+20,1,33,A,I,P
+20,1,34,A,I,P
+20,1,36,B,I,P
+20,1,38,B,I,P
+20,1,45,A,you,P
+20,1,46,B,I,P
+20,1,47,A,you,P
+20,1,47,A,you,P
+20,1,48,B,I,P
+20,1,49,A,you,P
+20,1,50,A,you,P
+20,1,50,A,you,P
+20,1,51,B,I,P
+20,1,51,B,I,P
+20,1,51,B,I,P
+20,1,52,A,you,P
+20,1,52,A,you,P
+20,1,52,A,you,P
+20,1,52,A,you,P
+20,1,53,B,I,P
+20,2,3,B,am,N
+20,2,4,A,that,P
+20,3,3,B,North Carolina State,PN
+20,3,4,A,North Carolina,PN
+20,4,4,A,pass,N
+20,4,5,B,that,P
+20,5,9,B,my students,N
+20,5,9,B,them,P
+20,6,10,A,one,N
+20,6,10,A,one,N
+20,6,10,A,he,P
+20,6,10,A,He,P
+20,6,11,A,He,P
+20,7,10,A,the subject,N
+20,7,12,A,the subject,N
+20,7,13,B,the subject,N
+20,7,15,B,that,P
+20,8,12,A,Latin America,PN
+20,8,13,B,Latin America,PN
+20,8,14,A,Latin America,PN
+20,8,15,B,Latin America,PN
+20,8,16,A,Latin America,PN
+20,9,15,B,some people,N
+20,9,15,B,They,P
+20,10,15,B,Peru,PN
+20,10,15,B,it,P
+20,11,11,A,T,N
+20,11,16,A,T,N
+20,12,16,A,we,P
+20,12,16,A,they,P
+20,13,15,B,Brazil,PN
+20,13,16,A,Brazil,PN
+20,14,16,A,I,P
+20,14,16,A,I,P
+20,15,16,A,the crime rate,N
+20,15,16,A,the crime rate,N
+20,16,16,A,I,P
+20,16,16,A,I,P
+20,16,16,A,I,P
+20,17,17,A,we,P
+20,17,17,A,we,P
+20,17,17,A,our,P
+20,17,17,A,we,P
+20,17,17,A,our,P
+20,17,17,A,our our,N
+20,17,17,A,our,P
+20,17,17,A,we,P
+20,17,17,A,We,P
+20,17,17,A,we,P
+20,17,19,B,we,P
+20,17,20,A,us,P
+20,17,20,A,we,P
+20,17,20,A,we,P
+20,17,20,A,they,P
+20,17,20,A,We,P
+20,17,20,A,we,P
+20,17,20,A,We,P
+20,17,20,A,ourselves,N
+20,18,17,A,the United States,N
+20,18,18,B,the United States,N
+20,18,20,A,America,PN
+20,18,21,B,the United States,N
+20,18,41,A,this country,N
+20,19,18,B,regard,N
+20,19,18,B,that,P
+20,20,16,A,Mexico,PN
+20,20,19,B,Mexico,PN
+20,20,21,B,Mexico,PN
+20,20,32,B,Mexico 's,PN
+20,20,33,A,they,P
+20,20,33,A,they,P
+20,20,33,A,they,P
+20,20,33,A,they,P
+20,20,33,A,they,P
+20,20,33,A,them,P
+20,21,19,B,Saddam Hussein,PN
+20,21,19,B,his,P
+20,21,19,B,his,P
+20,22,20,A,a book,N
+20,22,20,A,a Spanish book,N
+20,23,20,A,Spanish,PN
+20,23,20,A,Spanish,PN
+20,23,33,A,Spanish,PN
+20,23,33,A,it,P
+20,23,33,A,Spanish,PN
+20,24,20,A,the Mexicans,N
+20,24,20,A,They,P
+20,24,33,A,their,P
+20,25,21,B,they,P
+20,25,21,B,them,P
+20,25,23,B,they,P
+20,25,23,B,their,P
+20,25,23,B,they,P
+20,25,24,B,they,P
+20,25,24,B,they,P
+20,26,20,A,the world,N
+20,26,21,B,the world,N
+20,27,26,B,Mexicans,PN
+20,27,26,B,they,P
+20,27,27,A,us,P
+20,27,27,A,we,P
+20,27,27,A,they,P
+20,27,27,A,they,P
+20,27,27,A,we,P
+20,27,27,A,we,P
+20,27,27,A,they,P
+20,27,27,A,us,P
+20,27,27,A,we,P
+20,27,29,A,We,P
+20,27,29,A,we,P
+20,27,29,A,they,P
+20,27,41,A,we,P
+20,27,41,A,we,P
+20,28,27,A,they,P
+20,28,27,A,they,P
+20,29,33,A,Texas,PN
+20,29,33,A,Texas,PN
+20,30,33,A,the language,N
+20,30,33,A,their language,N
+20,31,33,A,them,P
+20,31,34,A,them,P
+20,31,34,A,they,P
+20,31,34,A,they,P
+20,31,34,A,they,P
+20,31,34,A,their,P
+20,31,44,A,They,P
+20,32,35,A,it,P
+20,32,35,A,it,P
+20,33,36,B,Los Angeles,PN
+20,33,38,B,L A,PN
+20,34,41,A,the problems we have,N
+20,34,41,A,it,P
+20,35,41,A,world markets,N
+20,35,41,A,their,P
+20,35,41,A,they,P
+20,35,41,A,they,P
+20,35,41,A,they,P
+20,36,41,A,Singapore,PN
+20,36,41,A,Singapore,PN
+20,37,41,A,Japan,PN
+20,37,41,A,Japan,PN
+20,38,17,A,South America,PN
+20,38,41,A,South America,PN
+20,39,42,A,trade,N
+20,39,42,A,that,P
+20,39,42,A,that,P
+20,40,42,A,any problem,N
+20,40,42,A,it,P
+20,41,42,A,we,P
+20,41,42,A,we,P
+20,42,42,A,get,N
+20,42,42,A,that,P
+20,43,52,A,Computer Science,PN
+20,43,53,B,Computer Science,PN
+20,44,9,B,this project,N
+20,44,54,B,this project,N
+20,44,55,A,the whole program,N
+20,45,55,A,get,N
+20,45,55,A,that,P
+20,46,55,A,these recordings,N
+20,46,55,A,them,P
+20,46,55,A,them,P
+20,47,55,A,they,P
+20,47,55,A,they,P
+20,48,56,B,these,P
+20,48,56,B,them,P
+20,49,56,B,they,P
+20,49,57,B,they,P
+20,49,57,B,they,P
+20,49,58,B,they,P
+20,49,58,B,they,P
+20,50,57,B,a speech signal,N
+20,50,58,B,it,P
+20,51,58,B,change,N
+20,51,58,B,that,P
+20,52,58,B,peoples voices,N
+20,52,59,A,they,P
+20,53,59,A,your voice,N
+20,53,59,A,it,P
+20,53,59,A,it,P
+20,54,59,A,echoes,N
+20,54,60,A,that,P
+20,55,60,A,that,P
+20,55,60,A,that,P
+20,55,60,A,that,P
+20,56,61,A,you,P
+20,56,61,A,you,P
+20,57,11,A,they,P
+20,57,61,A,their,P
+20,57,61,A,they,P
+20,57,63,A,they,P
+21,0,1,A,I,P
+21,0,2,A,I,P
+21,0,2,A,I,P
+21,0,7,A,I,P
+21,0,16,A,I,P
+21,0,19,A,I,P
+21,0,22,A,I,P
+21,0,33,B,you,P
+21,0,64,A,I,P
+21,0,64,A,I,P
+21,0,64,A,I,P
+21,0,67,B,you,P
+21,0,69,B,you,P
+21,0,70,A,You,P
+21,0,73,B,You,P
+21,1,1,A,we,P
+21,1,2,A,we,P
+21,1,2,A,we,P
+21,1,2,A,us,P
+21,1,2,A,we,P
+21,2,2,A,a state income tax,N
+21,2,2,A,it,P
+21,2,2,A,it,P
+21,2,5,B,it,P
+21,2,5,B,it,P
+21,3,2,A,they,P
+21,3,3,B,they,P
+21,3,3,B,they,P
+21,3,5,B,they,P
+21,3,5,B,they,P
+21,3,7,A,they,P
+21,3,7,A,their,P
+21,3,8,B,they,P
+21,3,8,B,they,P
+21,4,0,B,you,P
+21,4,3,B,I,P
+21,4,6,B,I,P
+21,4,6,B,I,P
+21,4,6,B,I,P
+21,4,8,B,I,P
+21,4,8,B,I,P
+21,4,9,B,I,P
+21,4,10,B,I,P
+21,4,10,B,I,P
+21,4,10,B,I,P
+21,4,14,B,I,P
+21,4,14,B,I,P
+21,4,14,B,I,P
+21,4,18,B,I,P
+21,4,18,B,I,P
+21,4,20,B,I,P
+21,4,20,B,I,P
+21,4,20,B,I,P
+21,4,20,B,I,P
+21,4,20,B,I,P
+21,4,20,B,I,P
+21,4,21,B,I,P
+21,4,21,B,I,P
+21,4,21,B,I,P
+21,4,23,B,You,P
+21,4,25,B,I,P
+21,4,25,B,me,P
+21,4,28,B,I,P
+21,4,28,B,I,P
+21,4,29,B,I,P
+21,4,30,B,I,P
+21,4,33,B,I,P
+21,4,33,B,I,P
+21,4,33,B,I,P
+21,4,34,B,I,P
+21,4,34,B,I,P
+21,4,34,B,I,P
+21,4,34,B,I,P
+21,4,35,B,I,P
+21,4,35,B,I,P
+21,4,36,A,I,P
+21,4,39,B,I,P
+21,4,41,B,I,P
+21,4,41,B,I,P
+21,4,41,B,I,P
+21,4,41,B,I,P
+21,4,41,B,me,P
+21,4,46,B,I,P
+21,4,47,B,I,P
+21,4,47,B,I,P
+21,4,47,B,I,P
+21,4,47,B,I,P
+21,4,47,B,I,P
+21,4,47,B,I,P
+21,4,48,B,I,P
+21,4,48,B,I,P
+21,4,50,B,my,P
+21,4,50,B,my,P
+21,4,50,B,my,P
+21,4,50,B,I,P
+21,4,50,B,I,P
+21,4,50,B,I,P
+21,4,53,B,my,P
+21,4,53,B,my,P
+21,4,54,B,My,P
+21,4,54,B,I,P
+21,4,55,B,I,P
+21,4,57,B,My,P
+21,4,57,B,my,P
+21,4,58,B,I,P
+21,4,58,B,I,P
+21,4,58,B,I,P
+21,4,63,B,I,P
+21,4,63,B,I,P
+21,4,63,B,I,P
+21,4,63,B,I,P
+21,4,63,B,I,P
+21,4,67,B,I,P
+21,4,67,B,I,P
+21,5,3,B,had,N
+21,5,5,B,that,P
+21,6,5,B,New York,PN
+21,6,6,B,New York,PN
+21,7,8,B,it,P
+21,7,8,B,it,P
+21,7,9,B,it,P
+21,7,10,B,it,P
+21,7,10,B,it,P
+21,8,13,B,middle income people,N
+21,8,13,B,they,P
+21,8,13,B,they,P
+21,9,13,B,a deduction,N
+21,9,13,B,the deduction,N
+21,10,13,B,they,P
+21,10,14,B,they,P
+21,10,14,B,they,P
+21,11,14,B,most of the politicians,N
+21,11,14,B,They,P
+21,11,14,B,they,P
+21,11,14,B,they,P
+21,11,15,A,they,P
+21,11,16,A,their,P
+21,11,17,A,they,P
+21,12,16,A,us,P
+21,12,16,A,us,P
+21,12,19,A,we,P
+21,13,16,A,limit,N
+21,13,19,A,that,P
+21,14,19,A,that taxes,N
+21,14,19,A,it,P
+21,14,20,B,it,P
+21,14,20,B,it,P
+21,15,19,A,us,P
+21,15,19,A,our,P
+21,16,19,A,our savings,N
+21,16,20,B,your savings,N
+21,16,20,B,it all,N
+21,17,21,B,Social Security,PN
+21,17,21,B,it,P
+21,17,21,B,it,P
+21,17,21,B,it,P
+21,17,21,B,it,P
+21,17,21,B,it,P
+21,17,21,B,it,P
+21,17,21,B,it,P
+21,17,22,A,the Social Security tax,N
+21,17,22,A,Social Security,PN
+21,17,24,A,it,P
+21,18,24,A,robbing,N
+21,18,25,B,that,P
+21,18,26,A,that,P
+21,18,26,A,that,P
+21,19,26,A,most company C E O -s,N
+21,19,26,A,their,P
+21,19,26,A,they,P
+21,19,27,A,them,P
+21,19,29,B,them,P
+21,19,30,B,them,P
+21,20,29,B,we,P
+21,20,30,B,we,P
+21,20,30,B,we,P
+21,21,30,B,clean,N
+21,21,30,B,that,P
+21,22,33,B,it,P
+21,22,33,B,it,P
+21,23,38,A,we,P
+21,23,38,A,we,P
+21,23,38,A,we,P
+21,23,39,B,We,P
+21,23,39,B,we,P
+21,23,39,B,we,P
+21,24,37,A,it,P
+21,24,38,A,the money,N
+21,25,39,B,people who we think are going to vote one way of another,N
+21,25,40,A,they,P
+21,25,40,A,they,P
+21,26,41,B,Congressmen an can,PN
+21,26,41,B,their,P
+21,26,41,B,their,P
+21,26,41,B,their,P
+21,26,41,B,them,P
+21,26,42,A,they,P
+21,26,43,A,they,P
+21,27,41,B,that,P
+21,27,43,A,it,P
+21,28,43,A,people,N
+21,28,45,B,They,P
+21,29,45,B,the one who made that supposed mistake,N
+21,29,45,B,his,P
+21,30,45,B,his his or her opponent,N
+21,30,45,B,they,P
+21,30,45,B,they,P
+21,30,45,B,my,P
+21,31,45,B,this,P
+21,31,45,B,this,P
+21,32,50,B,a real job,N
+21,32,50,B,her job,N
+21,33,50,B,we,P
+21,33,50,B,we we,N
+21,33,50,B,we,P
+21,33,50,B,we,P
+21,33,55,B,We,P
+21,33,62,B,us,P
+21,33,63,B,we,P
+21,34,50,B,her,P
+21,34,50,B,her,P
+21,35,50,B,her paycheck,N
+21,35,50,B,it,P
+21,36,57,B,my wife,N
+21,36,57,B,her,P
+21,36,57,B,her,P
+21,36,58,B,her,P
+21,36,58,B,her,P
+21,36,59,B,she,P
+21,36,59,B,her,P
+21,36,60,B,she,P
+21,36,60,B,her,P
+21,36,60,B,her,P
+21,36,62,B,she,P
+21,37,57,B,her bonus,N
+21,37,57,B,that,P
+21,37,58,B,her bonus,N
+21,37,58,B,it,P
+21,37,58,B,it,P
+21,38,58,B,they,P
+21,38,58,B,they,P
+22,0,0,A,you,P
+22,0,1,B,I,P
+22,0,1,B,I,P
+22,0,2,B,my,P
+22,0,2,B,I,P
+22,0,3,B,my,P
+22,0,6,B,my,P
+22,0,6,B,I,P
+22,0,8,B,I,P
+22,0,9,B,I,P
+22,0,10,B,I,P
+22,0,10,B,I,P
+22,0,10,B,I,P
+22,0,10,B,I,P
+22,0,15,B,I,P
+22,0,16,B,I,P
+22,0,16,B,I,P
+22,0,16,B,I,P
+22,0,19,B,I,P
+22,0,19,B,I,P
+22,0,19,B,my,P
+22,0,19,B,I,P
+22,0,20,B,I,P
+22,0,20,B,I,P
+22,0,21,B,I,P
+22,0,22,B,I,P
+22,0,22,B,I,P
+22,0,24,B,I,P
+22,0,24,B,I,P
+22,0,24,B,I,P
+22,0,25,B,I,P
+22,0,25,B,I,P
+22,0,25,B,I,P
+22,0,25,B,I,P
+22,0,29,B,my,P
+22,0,29,B,I,P
+22,0,31,B,I,P
+22,0,31,B,I,P
+22,0,31,B,I,P
+22,0,32,B,I,P
+22,0,33,B,I,P
+22,0,34,B,I,P
+22,0,38,B,I,P
+22,0,38,B,I,P
+22,0,38,B,I,P
+22,0,38,B,I,P
+22,0,38,B,my,P
+22,0,39,B,I,P
+22,0,39,B,my,P
+22,0,43,A,your,P
+22,0,58,B,I,P
+22,0,58,B,I,P
+22,0,58,B,I,P
+22,0,58,B,my,P
+22,0,62,B,I,P
+22,0,63,B,I,P
+22,0,68,B,I,P
+22,0,68,B,I,P
+22,0,68,B,my,P
+22,0,69,B,my,P
+22,0,69,B,my,P
+22,0,71,B,I,P
+22,0,71,B,I,P
+22,0,71,B,my,P
+22,0,84,A,I,P
+22,0,84,A,I,P
+22,0,84,A,I,P
+22,0,84,A,I,P
+22,0,87,B,I,P
+22,0,87,B,I,P
+22,0,87,B,I,P
+22,0,87,B,I,P
+22,0,88,B,I,P
+22,0,94,A,you,P
+22,0,94,A,you,P
+22,0,95,B,I,P
+22,0,97,B,I,P
+22,0,99,B,I,P
+22,0,99,B,I,P
+22,0,99,B,I,P
+22,0,101,A,your,P
+22,0,104,B,I,P
+22,0,104,B,I,P
+22,0,111,B,I,P
+22,0,112,B,I,P
+22,0,112,B,I,P
+22,0,113,B,I,P
+22,0,122,B,I,P
+22,0,122,B,I,P
+22,0,122,B,I,P
+22,0,130,B,I,P
+22,0,130,B,my,P
+22,0,131,B,I,P
+22,0,132,A,you,P
+22,0,134,B,my,P
+22,0,134,B,I,P
+22,0,139,B,I,P
+22,1,0,A,I,P
+22,1,4,A,I,P
+22,1,5,B,you,P
+22,1,11,A,Your,P
+22,1,11,A,you,P
+22,1,37,A,I,P
+22,1,43,A,I,P
+22,1,43,A,I,P
+22,1,51,A,I,P
+22,1,51,A,you,P
+22,1,53,A,you,P
+22,1,55,A,I,P
+22,1,55,A,I,P
+22,1,71,B,you,P
+22,1,71,B,you,P
+22,1,77,A,I,P
+22,1,83,A,I,P
+22,1,83,A,I,P
+22,1,83,A,I,P
+22,1,83,A,I,P
+22,1,83,A,I,P
+22,1,83,A,I,P
+22,1,89,B,you,P
+22,1,98,A,I,P
+22,1,98,A,I,P
+22,1,116,A,you,P
+22,1,118,A,you,P
+22,1,122,B,I,P
+22,1,132,A,me,P
+22,1,132,A,My,P
+22,2,6,B,my first two children,N
+22,2,6,B,them,P
+22,2,10,B,them,P
+22,2,11,A,Your first ones,PN
+22,2,14,B,all of them,N
+22,3,1,B,five children all together,N
+22,3,7,B,five children,N
+22,4,9,B,about fifty-one hours a week,N
+22,4,16,B,that long hours,N
+22,5,4,A,twins,N
+22,5,16,B,the twins,N
+22,5,16,B,they,P
+22,5,16,B,they,P
+22,6,21,B,the children,N
+22,6,22,B,the kids,N
+22,6,22,B,their,P
+22,6,38,B,my children,N
+22,6,51,A,they,P
+22,6,53,A,the children,N
+22,6,53,A,them,P
+22,6,53,A,they,P
+22,6,53,A,they,P
+22,6,53,A,their,P
+22,6,53,A,They,P
+22,6,53,A,they,P
+22,6,53,A,they,P
+22,6,53,A,they,P
+22,6,84,A,those children,N
+22,6,84,A,they,P
+22,7,22,B,we,P
+22,7,22,B,we,P
+22,7,23,B,we,P
+22,7,24,B,we,P
+22,7,29,B,Her and I,PN
+22,7,31,B,we,P
+22,7,47,B,we,P
+22,7,47,B,our,P
+22,7,49,A,we,P
+22,7,50,A,ours,N
+22,7,51,A,we,P
+22,7,52,A,we,P
+22,7,52,A,we,P
+22,7,53,A,us,P
+22,7,53,A,we,P
+22,7,53,A,our,P
+22,7,53,A,we,P
+22,7,55,A,our,P
+22,7,56,A,our,P
+22,7,57,A,we,P
+22,7,57,A,we,P
+22,7,83,A,our,P
+22,7,83,A,our daughter our,N
+22,7,83,A,our,P
+22,7,83,A,our,P
+22,7,131,B,we,P
+22,7,131,B,we,P
+22,8,22,B,movies,N
+22,8,23,B,the movies,N
+22,9,23,B,go,N
+22,9,23,B,that,P
+22,10,25,B,one son who 's gone,N
+22,10,25,B,he,P
+22,10,26,B,he,P
+22,11,29,B,my daughter,N
+22,11,29,B,Her,P
+22,11,29,B,she,P
+22,12,29,B,the house,N
+22,12,29,B,the house,N
+22,12,48,B,the house,N
+22,13,32,B,parents,N
+22,13,32,B,their,P
+22,13,60,A,they,P
+22,14,37,A,the drugs,N
+22,14,37,A,it,P
+22,15,35,A,Texas,PN
+22,15,37,A,Texas,PN
+22,16,38,B,the relationship I have with my children now,N
+22,16,40,B,that,P
+22,17,42,B,your,P
+22,17,42,B,your,P
+22,18,43,A,your wife,N
+22,18,44,B,she,P
+22,18,45,A,She,P
+22,18,46,B,She,P
+22,18,47,B,she,P
+22,18,47,B,she,P
+22,18,48,B,she,P
+22,18,48,B,her,P
+22,19,47,B,a job,N
+22,19,47,B,that job,N
+22,19,47,B,it,P
+22,20,52,A,Boy Scouting and Girl Scouts Four H,PN
+22,20,52,A,those activities,N
+22,21,53,A,our youngest,N
+22,21,53,A,her,P
+22,21,56,A,our baby,N
+22,21,57,A,her,P
+22,21,83,A,our daughter,N
+22,21,83,A,she,P
+22,21,83,A,she,P
+22,21,83,A,she,P
+22,21,83,A,She,P
+22,21,83,A,she,P
+22,21,83,A,She,P
+22,21,83,A,she,P
+22,22,55,A,D C,PN
+22,22,55,A,D C,PN
+22,23,58,B,my father,N
+22,23,61,B,he,P
+22,23,61,B,he,P
+22,23,62,B,him,P
+22,23,68,B,my dad,N
+22,23,69,B,my dad,N
+22,23,69,B,my dad,N
+22,24,76,A,us,P
+22,24,77,A,we,P
+22,24,77,A,us,P
+22,25,81,B,children,N
+22,25,81,B,them,P
+22,26,83,A,works,N
+22,26,83,A,that,P
+22,27,84,A,they,P
+22,27,84,A,they,P
+22,27,84,A,them,P
+22,28,49,A,five children,N
+22,28,89,B,five children,N
+22,29,107,B,it,P
+22,29,111,B,it,P
+22,30,113,B,something new,N
+22,30,113,B,it,P
+22,31,24,B,the three that are still living at home,N
+22,31,113,B,them,P
+22,32,122,B,going,N
+22,32,122,B,that,P
+22,33,128,B,paid,N
+22,33,129,A,that,P
+22,34,19,B,my degree,N
+22,34,130,B,my degree,N
+22,35,132,A,My husband,PN
+22,35,132,A,he,P
+22,35,135,A,he,P
+22,35,137,A,him,P
+22,35,137,A,he,P
+22,35,137,A,he,P
+22,35,137,A,he,P
+22,35,137,A,he,P
+22,36,132,A,retired,N
+22,36,133,A,That,P
+22,37,135,A,fifty,N
+22,37,137,A,It,P
+23,0,0,B,you,P
+23,0,1,A,my,P
+23,0,1,A,I,P
+23,0,4,B,I,P
+23,0,6,A,you,P
+23,0,7,B,I,P
+23,0,7,B,I,P
+23,0,7,B,I,P
+23,0,10,A,you,P
+23,0,13,B,me,P
+23,0,14,A,you,P
+23,0,15,B,I,P
+23,0,16,A,You,P
+23,0,17,B,I,P
+23,0,19,B,I,P
+23,0,19,B,I,P
+23,0,19,B,I,P
+23,0,21,A,I,P
+23,0,21,A,you,P
+23,0,21,A,I,P
+23,0,21,A,I,P
+23,0,21,A,I,P
+23,0,22,B,I,P
+23,0,22,B,I,P
+23,0,23,B,I,P
+23,0,23,B,I,P
+23,0,24,B,I,P
+23,0,24,B,I,P
+23,0,25,A,I,P
+23,0,26,A,I,P
+23,0,27,A,I,P
+23,0,28,B,you,P
+23,0,29,A,I,P
+23,0,30,B,I,P
+23,0,30,B,my,P
+23,0,31,B,I,P
+23,0,31,B,I,P
+23,0,31,B,my,P
+23,0,37,A,I,P
+23,0,38,A,I,P
+23,0,40,A,I,P
+23,0,43,B,I,P
+23,0,43,B,I,P
+23,0,43,B,I,P
+23,0,47,A,I,P
+23,0,52,B,you,P
+23,0,52,B,you,P
+23,0,55,A,I,P
+23,0,60,B,my,P
+23,0,60,B,I,P
+23,0,60,B,I,P
+23,0,61,A,I,P
+23,0,62,B,I,P
+23,0,63,A,I,P
+23,0,63,A,My,P
+23,0,63,A,I,P
+23,0,71,B,I,P
+23,0,73,B,my,P
+23,0,73,B,I,P
+23,0,74,B,You,P
+23,0,78,B,I,P
+23,0,88,A,I,P
+23,0,88,A,my,P
+23,0,92,B,you,P
+23,0,93,A,I,P
+23,0,93,A,I,P
+23,0,93,A,my,P
+23,0,93,A,I,P
+23,0,95,A,I,P
+23,0,106,B,I,P
+23,0,107,A,you,P
+23,0,109,A,you,P
+23,0,112,B,I,P
+23,0,112,B,I,P
+23,0,116,A,I,P
+23,0,117,B,I,P
+23,1,1,A,We,P
+23,1,3,A,We,P
+23,1,3,A,we,P
+23,1,3,A,we,P
+23,1,3,A,we,P
+23,1,5,B,we both,N
+23,1,5,B,we,P
+23,1,5,B,we,P
+23,1,11,A,We,P
+23,1,11,A,We,P
+23,1,13,B,we,P
+23,1,47,A,we,P
+23,1,47,A,we,P
+23,1,47,A,we,P
+23,1,55,A,we,P
+23,1,55,A,we,P
+23,1,55,A,we,P
+23,2,11,A,Chinese,PN
+23,2,13,B,Chinese,PN
+23,3,23,B,a good small restaurant,N
+23,3,23,B,the good small restaurant,N
+23,4,25,A,a place,N
+23,4,26,A,it,P
+23,5,28,B,It,P
+23,5,29,A,It,P
+23,5,29,A,that,P
+23,6,37,A,we,P
+23,6,37,A,we,P
+23,6,37,A,we,P
+23,6,37,A,we,P
+23,7,37,A,a restaurant that that just changed hands recently,N
+23,7,37,A,them,P
+23,7,38,A,they,P
+23,8,38,A,add,N
+23,8,42,A,It,P
+23,9,55,A,seafood,N
+23,9,55,A,that,P
+23,10,47,A,Texas,PN
+23,10,58,B,Texas,PN
+23,11,56,A,the seafood,N
+23,11,58,B,it,P
+23,12,60,B,my wife and I,N
+23,12,63,A,We,P
+23,12,78,B,we,P
+23,12,81,A,We,P
+23,12,83,A,We,P
+23,12,86,A,we,P
+23,12,86,A,we,P
+23,12,95,A,We,P
+23,12,96,A,we,P
+23,12,101,B,our,P
+23,12,103,A,We,P
+23,12,103,A,we,P
+23,12,104,B,we,P
+23,12,110,B,our,P
+23,12,110,B,our,P
+23,12,111,A,We,P
+23,12,112,B,we,P
+23,12,112,B,we,P
+23,13,63,A,My son-in-law,PN
+23,13,63,A,he,P
+23,13,63,A,he,P
+23,13,63,A,he,P
+23,14,55,A,Maine,PN
+23,14,63,A,Maine,PN
+23,14,73,B,Maine,PN
+23,14,75,A,it,P
+23,14,76,B,it,P
+23,15,63,A,lobster,N
+23,15,64,B,It,P
+23,15,64,B,it,P
+23,15,66,B,It,P
+23,16,58,B,the Gulf,N
+23,16,66,B,the Gulf,N
+23,16,78,B,the Gulf,N
+23,16,84,A,the Gulf coast,N
+23,17,68,B,Two ninety-eight a pound,PN
+23,17,69,B,That,P
+23,18,78,B,those little seafood shacks we 've called them,N
+23,18,78,B,them,P
+23,19,78,B,That,P
+23,19,79,B,it,P
+23,20,81,A,Gal-,PN
+23,20,83,A,Galveston,PN
+23,21,84,A,a restaurant,N
+23,21,84,A,they,P
+23,21,86,A,a place,N
+23,21,86,A,they,P
+23,21,86,A,it,P
+23,21,86,A,they,P
+23,21,86,A,their,P
+23,21,88,A,They,P
+23,22,84,A,claimed,N
+23,22,85,B,it,P
+23,22,86,A,It,P
+23,23,92,B,crawfish,N
+23,23,93,A,it,P
+23,23,93,A,it,P
+23,23,93,A,it,P
+23,24,96,A,them,P
+23,24,96,A,them,P
+23,25,102,B,Sunday brunch all all you can eat brunches,PN
+23,25,103,A,that,P
+23,25,104,B,it,P
+23,26,105,A,It,P
+23,26,105,A,it,P
+23,27,110,B,a chain Shoney 's,N
+23,27,111,A,Shoney 's,PN
+23,27,112,B,Shoney 's,PN
+23,28,112,B,the mountains,N
+23,28,113,B,the mountains,N
+23,28,117,B,the mountains,N
+23,29,114,A,that,P
+23,29,115,B,it,P
+23,29,115,B,it,P
+23,29,116,A,it,P
+23,30,119,B,Colorado Springs,PN
+23,30,122,B,Colorado Springs,PN
+24,0,0,B,you,P
+24,0,2,B,my,P
+24,0,2,B,I,P
+24,0,2,B,I,P
+24,0,2,B,I,P
+24,0,6,A,you,P
+24,0,7,B,I,P
+24,0,8,A,you,P
+24,0,10,B,I,P
+24,0,10,B,myself,N
+24,0,12,B,I,P
+24,0,12,B,I,P
+24,0,13,A,you,P
+24,0,14,B,I,P
+24,0,15,A,I,P
+24,0,15,A,I,P
+24,0,17,B,I,P
+24,0,17,B,I,P
+24,0,20,B,I,P
+24,0,21,A,me,P
+24,0,21,A,I,P
+24,0,21,A,I,P
+24,0,22,B,I,P
+24,0,23,A,I,P
+24,0,24,B,I,P
+24,0,30,B,I,P
+24,0,34,A,I,P
+24,0,40,B,I,P
+24,0,54,A,I,P
+24,0,57,B,I,P
+24,0,57,B,I,P
+24,0,57,B,I,P
+24,0,57,B,I,P
+24,0,61,B,me,P
+24,0,61,B,I,P
+24,0,61,B,I,P
+24,0,61,B,I,P
+24,0,63,B,I,P
+24,0,63,B,I,P
+24,0,63,B,I,P
+24,0,64,B,I,P
+24,0,65,B,I,P
+24,0,73,B,I,P
+24,0,74,A,you,P
+24,0,78,B,I,P
+24,0,82,B,I,P
+24,0,82,B,I,P
+24,0,82,B,I,P
+24,0,94,B,I,P
+24,0,104,A,I,P
+24,0,106,A,I,P
+24,1,4,A,I,P
+24,1,4,A,I,P
+24,1,6,A,I,P
+24,1,11,A,I,P
+24,1,15,A,My,P
+24,1,23,A,I,P
+24,1,23,A,I,P
+24,1,34,A,I,P
+24,1,34,A,I,P
+24,1,34,A,my,P
+24,1,36,A,I,P
+24,1,36,A,I,P
+24,1,36,A,I,P
+24,1,51,A,I,P
+24,1,56,A,I,P
+24,1,58,A,I,P
+24,1,58,A,I,P
+24,1,62,A,I,P
+24,1,62,A,I,P
+24,1,62,A,I,P
+24,1,66,A,I,P
+24,1,67,A,I,P
+24,1,67,A,I,P
+24,1,71,A,I,P
+24,1,74,A,I,P
+24,1,81,A,I,P
+24,1,89,A,I,P
+24,1,90,A,I,P
+24,1,95,A,I,P
+24,1,99,B,you,P
+24,1,100,A,I,P
+24,2,8,A,a lot of people,N
+24,2,8,A,they,P
+24,2,8,A,themselves,N
+24,2,8,A,I,P
+24,2,8,A,them,P
+24,3,9,B,us,P
+24,3,10,B,we,P
+24,4,15,A,works,N
+24,4,15,A,that,P
+24,4,16,B,that,P
+24,5,21,A,a six man jury,N
+24,5,21,A,such thing,N
+24,5,21,A,it,P
+24,5,22,B,it,P
+24,6,18,B,the jury,N
+24,6,23,A,the jury,N
+24,6,23,A,their,P
+24,6,23,A,it,P
+24,6,24,B,it,P
+24,6,25,A,they all,N
+24,6,42,A,They,P
+24,6,43,B,They,P
+24,6,57,B,their,P
+24,6,58,A,they,P
+24,6,82,B,the jury,N
+24,6,82,B,they,P
+24,6,83,A,they,P
+24,6,87,B,the jury,N
+24,6,88,B,They,P
+24,7,24,B,be,N
+24,7,25,A,That,P
+24,8,28,B,permits,N
+24,8,29,B,that,P
+24,9,29,B,someone,N
+24,9,31,B,them,P
+24,9,31,B,them,P
+24,9,31,B,their,P
+24,10,38,B,a a a great miscarriage of justice,N
+24,10,38,B,it,P
+24,11,38,B,we,P
+24,11,39,B,We,P
+24,12,39,B,a Black man,N
+24,12,39,B,he,P
+24,12,41,B,he,P
+24,12,41,B,he,P
+24,12,41,B,he,P
+24,12,42,A,him,P
+24,12,43,B,him,P
+24,12,44,A,he,P
+24,12,46,B,he,P
+24,12,48,B,he,P
+24,12,49,A,that man 's,N
+24,13,44,A,people,N
+24,13,45,B,they,P
+24,13,48,B,they,P
+24,13,48,B,they,P
+24,14,38,B,nine years,N
+24,14,48,B,nine years,N
+24,14,48,B,nine years,N
+24,15,49,A,'s,N
+24,15,50,B,that,P
+24,16,51,A,bend,N
+24,16,53,B,that,P
+24,17,54,A,our system,N
+24,17,55,B,it,P
+24,17,55,B,it,P
+24,17,55,B,it,P
+24,17,56,A,it,P
+24,18,54,A,the world,N
+24,18,55,B,the world,N
+24,19,57,B,a lot of things,N
+24,19,57,B,them,P
+24,20,61,B,somebody,N
+24,20,61,B,them,P
+24,21,61,B,burning,N
+24,21,62,A,it,P
+24,22,57,B,the flag,N
+24,22,65,B,the flag,N
+24,22,66,A,our flag,N
+24,22,66,A,It,P
+24,22,67,A,our flag,N
+24,23,58,A,our,P
+24,23,66,A,our,P
+24,23,66,A,our,P
+24,23,66,A,our,P
+24,23,67,A,our,P
+24,24,58,A,our country,N
+24,24,66,A,our country,N
+24,25,67,A,they,P
+24,25,67,A,people,N
+24,25,67,A,they,P
+24,26,68,B,they,P
+24,26,69,A,them,P
+24,26,70,B,they,P
+24,26,71,A,They,P
+24,27,1,B,Jean,PN
+24,27,72,B,Jean,PN
+24,27,103,B,Jean,PN
+24,27,103,B,you,P
+24,27,104,A,you,P
+24,27,104,A,Jack,PN
+24,27,104,A,you,P
+24,28,74,A,that,P
+24,28,74,A,that,P
+24,29,78,B,the jury,N
+24,29,80,A,they,P
+24,29,81,A,they,P
+24,30,74,A,the judge,N
+24,30,85,A,the judge,N
+24,31,54,A,the one the injustice has been done to,N
+24,31,88,B,him,P
+24,31,88,B,he,P
+24,32,89,A,a lot of people,N
+24,32,89,A,they,P
+24,32,89,A,their,P
+24,32,89,A,they,P
+24,32,89,A,they,P
+24,32,90,A,they,P
+24,32,90,A,they,P
+24,32,91,B,they,P
+24,32,91,B,they,P
+24,32,92,A,they,P
+24,33,92,A,bad ones that do slip back out and end up hurting somebody again,N
+24,33,93,B,They,P
+24,33,93,B,their,P
+24,34,94,B,life in prison,N
+24,34,94,B,it,P
+24,35,95,A,somebody who is stealing a loaf of bread to feed his family,N
+24,35,95,A,his,P
+24,36,97,B,race,N
+24,36,97,B,its,P
+24,37,99,B,it,P
+24,37,99,B,it,P
+24,38,100,A,it,P
+24,38,101,A,it,P
+24,39,100,A,'s,N
+24,39,101,A,we,P
+24,39,101,A,we,P
+24,40,105,B,'s,N
+24,40,105,B,us,P
+24,40,105,B,we,P
+25,0,0,A,you,P
+25,0,1,B,I,P
+25,0,2,B,I,P
+25,0,9,B,I,P
+25,0,9,B,I,P
+25,0,9,B,I,P
+25,0,49,B,I,P
+25,0,49,B,I,P
+25,1,8,B,is,N
+25,1,9,B,that,P
+25,2,5,A,I,P
+25,2,10,A,I,P
+25,2,10,A,I,P
+25,2,10,A,I,P
+25,2,10,A,I,P
+25,2,10,A,my,P
+25,2,11,A,my,P
+25,2,11,A,my,P
+25,2,11,A,I,P
+25,2,11,A,I,P
+25,2,11,A,I,P
+25,2,11,A,my,P
+25,2,12,A,I,P
+25,2,12,A,I,P
+25,2,12,A,I,P
+25,2,12,A,I,P
+25,2,14,A,I,P
+25,2,14,A,I,P
+25,2,14,A,I,P
+25,2,14,A,I,P
+25,2,14,A,I,P
+25,2,15,A,I,P
+25,2,17,A,I,P
+25,2,17,A,I,P
+25,2,17,A,I,P
+25,2,17,A,I,P
+25,2,17,A,I,P
+25,2,17,A,I,P
+25,2,19,A,I,P
+25,2,19,A,I,P
+25,2,19,A,I,P
+25,2,19,A,I,P
+25,2,19,A,me,P
+25,2,19,A,I,P
+25,2,19,A,I,P
+25,2,20,A,I,P
+25,2,20,A,I,P
+25,2,20,A,I,P
+25,2,20,A,my,P
+25,2,21,A,I,P
+25,2,22,A,I,P
+25,2,22,A,my,P
+25,2,23,A,I,P
+25,2,23,A,I,P
+25,2,23,A,I,P
+25,2,23,A,I,P
+25,2,23,A,myself,N
+25,2,24,B,I,P
+25,2,24,B,I,P
+25,2,24,B,I,P
+25,2,24,B,I,P
+25,2,24,B,I,P
+25,2,24,B,I,P
+25,2,28,B,I,P
+25,2,28,B,I,P
+25,2,28,B,my,P
+25,2,34,B,I,P
+25,2,34,B,I,P
+25,2,34,B,I,P
+25,2,34,B,I,P
+25,2,35,B,my,P
+25,2,35,B,I,P
+25,2,35,B,I,P
+25,2,38,B,I,P
+25,2,38,B,my,P
+25,2,39,A,I,P
+25,2,49,B,I,P
+25,2,51,A,I,P
+25,2,51,A,I,P
+25,2,52,B,I,P
+25,2,52,B,me,P
+25,2,54,A,I,P
+25,2,54,A,I,P
+25,2,54,A,I,P
+25,2,54,A,I,P
+25,2,54,A,I,P
+25,2,55,A,I,P
+25,2,55,A,I,P
+25,2,56,A,I,P
+25,2,56,A,my,P
+25,2,56,A,I,P
+25,2,56,A,I,P
+25,2,57,A,I,P
+25,2,57,A,I,P
+25,2,59,A,I,P
+25,2,59,A,I,P
+25,2,59,A,I,P
+25,2,59,A,I,P
+25,2,60,A,I,P
+25,2,60,A,I,P
+25,2,60,A,I,P
+25,2,64,A,I,P
+25,2,64,A,I,P
+25,2,64,A,I,P
+25,2,65,B,me,P
+25,2,67,B,I,P
+25,2,67,B,I,P
+25,2,68,B,my,P
+25,2,68,B,my,P
+25,2,71,B,I,P
+25,2,71,B,my,P
+25,2,72,B,I,P
+25,2,72,B,I,P
+25,2,73,A,I,P
+25,2,74,B,I,P
+25,2,77,B,I,P
+25,2,77,B,I,P
+25,2,77,B,I,P
+25,2,79,A,you,P
+25,2,83,A,your,P
+25,2,86,B,I,P
+25,2,86,B,myself,N
+25,2,88,B,me,P
+25,2,88,B,I,P
+25,2,89,A,you,P
+25,2,91,A,I,P
+25,2,91,A,my,P
+25,2,91,A,I,P
+25,2,91,A,I,P
+25,2,94,A,you,P
+25,2,94,A,you,P
+25,2,94,A,I,P
+25,2,94,A,I,P
+25,2,95,B,I,P
+25,2,95,B,I,P
+25,2,96,A,I,P
+25,2,96,A,mine,N
+25,2,96,A,I,P
+25,2,96,A,I,P
+25,2,97,A,I,P
+25,2,97,A,you,P
+25,2,97,A,yours,N
+25,2,98,A,I,P
+25,2,98,A,I,P
+25,2,100,A,you,P
+25,2,100,A,I,P
+25,2,102,A,I,P
+25,2,102,A,my,P
+25,2,102,A,my,P
+25,2,102,A,I,P
+25,2,102,A,my,P
+25,2,102,A,I,P
+25,2,102,A,I,P
+25,2,108,B,I,P
+25,2,108,B,I,P
+25,2,108,B,me,P
+25,2,110,A,My,P
+25,2,111,A,I,P
+25,2,111,A,I,P
+25,2,111,A,I,P
+25,2,112,A,I,P
+25,2,112,A,I,P
+25,2,113,A,I,P
+25,2,113,A,I,P
+25,2,114,A,I,P
+25,2,114,A,me,P
+25,2,114,A,I,P
+25,2,117,A,I,P
+25,2,117,A,I,P
+25,2,117,A,I,P
+25,2,118,A,I,P
+25,2,118,A,I,P
+25,2,118,A,I,P
+25,2,118,A,my,P
+25,2,118,A,my my,N
+25,2,118,A,my,P
+25,2,118,A,I,P
+25,2,118,A,I,P
+25,2,118,A,I,P
+25,2,118,A,I,P
+25,2,119,A,I,P
+25,2,119,A,I,P
+25,2,119,A,I,P
+25,2,119,A,my,P
+25,2,119,A,I,P
+25,2,119,A,I,P
+25,2,123,A,I,P
+25,2,123,A,I,P
+25,3,11,A,it,P
+25,3,11,A,it,P
+25,4,11,A,my car,N
+25,4,13,A,it,P
+25,4,68,B,my car,N
+25,4,85,B,the car,N
+25,4,91,A,my little Buick I had,N
+25,4,96,A,it,P
+25,4,102,A,my Buick,N
+25,4,119,A,the car,N
+25,5,10,A,it,P
+25,5,14,A,it all,N
+25,5,15,A,it,P
+25,5,72,B,it,P
+25,5,77,B,it,P
+25,5,79,A,it,P
+25,5,81,B,it,P
+25,6,17,A,people,N
+25,6,17,A,their,P
+25,7,17,A,Sears,PN
+25,7,19,A,they,P
+25,7,19,A,them,P
+25,7,21,A,they,P
+25,8,22,A,Western Auto,PN
+25,8,22,A,they,P
+25,9,22,A,changing,N
+25,9,23,A,it,P
+25,9,23,A,it,P
+25,9,114,A,that,P
+25,10,24,B,That,P
+25,10,24,B,That 's that,PN
+25,10,24,B,that,P
+25,10,69,B,that,P
+25,11,23,A,it all,N
+25,11,25,A,it,P
+25,11,69,B,it,P
+25,11,69,B,it,P
+25,12,26,B,I,P
+25,12,26,B,I,P
+25,12,26,B,I,P
+25,12,26,B,I,P
+25,12,26,B,I,P
+25,12,26,B,I,P
+25,13,28,B,we,P
+25,13,30,B,we,P
+25,13,35,B,we,P
+25,13,35,B,we,P
+25,13,119,A,we,P
+25,14,28,B,my wife 's car,N
+25,14,30,B,that,P
+25,14,30,B,it,P
+25,14,31,B,that,P
+25,14,31,B,it,P
+25,14,31,B,it,P
+25,14,31,B,it,P
+25,14,35,B,it,P
+25,15,31,B,they,P
+25,15,31,B,they,P
+25,16,33,A,Fords,PN
+25,16,34,B,them,P
+25,16,34,B,them,P
+25,17,30,B,a two barrel carburetor,N
+25,17,35,B,that carburetor,N
+25,18,36,B,a belt,N
+25,18,36,B,that,P
+25,19,39,A,we,P
+25,19,39,A,we,P
+25,19,40,A,we,P
+25,19,40,A,We,P
+25,20,40,A,a car,N
+25,20,40,A,it,P
+25,20,40,A,it,P
+25,21,48,B,too many people that get their hands on one little project,N
+25,21,48,B,their,P
+25,21,49,B,they,P
+25,22,48,B,things,N
+25,22,48,B,they,P
+25,23,49,B,I,P
+25,23,49,B,I,P
+25,23,49,B,I,P
+25,24,49,B,a automatic transmission,N
+25,24,50,B,it,P
+25,25,55,A,You,P
+25,25,55,A,you,P
+25,26,59,A,the next car,N
+25,26,59,A,it,P
+25,27,56,A,the same engine,N
+25,27,59,A,the same engine,N
+25,27,60,A,the same engine,N
+25,28,73,A,they,P
+25,28,73,A,They,P
+25,29,75,B,the little door underneath the hood,N
+25,29,75,B,the door,N
+25,29,75,B,it,P
+25,30,79,A,they,P
+25,30,82,B,they,P
+25,30,82,B,they,P
+25,30,82,B,they,P
+25,30,82,B,they,P
+25,30,82,B,they,P
+25,30,82,B,they,P
+25,30,86,B,they,P
+25,30,86,B,they,P
+25,31,77,B,this,P
+25,31,82,B,it,P
+25,31,82,B,it,P
+25,31,86,B,it,P
+25,31,86,B,it,P
+25,31,86,B,it,P
+25,31,86,B,it,P
+25,32,80,B,it,P
+25,32,87,B,it,P
+25,33,91,A,one,N
+25,33,91,A,it,P
+25,33,91,A,it,P
+25,33,92,A,It,P
+25,34,75,B,the hood,N
+25,34,91,A,the hood,N
+25,35,96,A,hoses,N
+25,35,97,A,those,P
+25,35,98,A,those hoses,N
+25,35,98,A,them,P
+25,35,100,A,that,P
+25,35,100,A,it,P
+25,35,101,A,they,P
+25,35,102,A,those hoses,N
+25,36,100,A,pull,N
+25,36,100,A,that,P
+25,37,102,A,broke,N
+25,37,102,A,it,P
+25,38,103,B,the pipe,N
+25,38,103,B,it,P
+25,38,104,B,it,P
+25,39,28,B,my wife 's,N
+25,39,110,A,My wife 's,PN
+25,40,112,A,the connection over by it,N
+25,40,113,A,that,P
+25,40,113,A,it,P
+25,41,17,A,you,P
+25,41,117,A,you,P
+25,42,117,A,people who just when anything goes wrong a fuse,N
+25,42,117,A,they,P
+25,43,118,A,girls daughters,N
+25,43,118,A,them,P
+25,43,119,A,them,P
+25,43,119,A,my daughters,N
+25,44,119,A,showing,N
+25,44,119,A,that,P
+25,45,122,B,it,P
+25,45,122,B,it,P
+25,46,123,A,it,P
+25,46,123,A,it,P
+26,0,0,A,you,P
+26,0,1,B,I,P
+26,0,2,B,I,P
+26,0,3,A,I,P
+26,0,5,A,you,P
+26,0,5,A,you,P
+26,0,6,B,I,P
+26,0,6,B,mine,N
+26,0,10,B,I,P
+26,0,10,B,I,P
+26,0,11,B,I,P
+26,0,11,B,I,P
+26,0,11,B,I,P
+26,0,11,B,I,P
+26,0,11,B,I,P
+26,0,12,B,I,P
+26,0,18,B,I,P
+26,0,18,B,I,P
+26,0,19,B,I,P
+26,0,19,B,I,P
+26,0,19,B,I,P
+26,0,19,B,I,P
+26,0,23,B,I,P
+26,0,23,B,I,P
+26,0,24,B,I,P
+26,0,26,B,I,P
+26,0,29,B,I,P
+26,0,33,B,my,P
+26,0,33,B,me,P
+26,0,34,B,I,P
+26,0,34,B,I,P
+26,0,34,B,I,P
+26,0,36,A,I,P
+26,0,43,B,I,P
+26,0,48,A,you,P
+26,0,49,B,I,P
+26,0,49,B,I,P
+26,0,50,B,I,P
+26,0,50,B,I,P
+26,0,51,B,I,P
+26,0,53,A,you,P
+26,0,53,A,I,P
+26,0,54,B,I,P
+26,0,55,A,you,P
+26,0,55,A,you,P
+26,0,55,A,you,P
+26,0,55,A,you,P
+26,0,58,B,I,P
+26,0,59,A,you,P
+26,0,64,B,I,P
+26,0,64,B,I,P
+26,0,67,A,your,P
+26,0,67,A,You,P
+26,0,67,A,I,P
+26,0,68,B,I,P
+26,0,68,B,I,P
+26,0,68,B,I,P
+26,0,69,B,I,P
+26,0,70,A,you,P
+26,0,70,A,you,P
+26,0,73,B,I,P
+26,0,73,B,mine,N
+26,0,73,B,I,P
+26,0,73,B,I,P
+26,0,73,B,I,P
+26,0,74,B,I,P
+26,0,77,B,you,P
+26,0,77,B,you,P
+26,0,78,B,you,P
+26,0,81,B,I,P
+26,0,83,B,I,P
+26,0,84,B,I,P
+26,0,85,A,I,P
+26,0,85,A,I,P
+26,0,86,B,I,P
+26,0,89,B,I,P
+26,0,89,B,myself,N
+26,0,90,A,you,P
+26,0,90,A,you,P
+26,0,90,A,you,P
+26,0,90,A,your,P
+26,0,92,A,your,P
+26,0,92,A,you,P
+26,0,92,A,you,P
+26,0,96,A,you,P
+26,0,96,A,you,P
+26,0,97,B,I,P
+26,0,101,B,I,P
+26,0,102,A,I,P
+26,0,107,A,you,P
+26,0,107,A,you,P
+26,0,112,B,I,P
+26,0,112,B,I,P
+26,0,112,B,I,P
+26,0,112,B,I,P
+26,0,112,B,I,P
+26,0,113,B,I,P
+26,0,113,B,I,P
+26,0,114,A,I,P
+26,0,114,A,I,P
+26,0,114,A,I,P
+26,0,114,A,I,P
+26,1,3,A,I,P
+26,1,3,A,I,P
+26,1,3,A,I,P
+26,1,3,A,I,P
+26,1,3,A,I,P
+26,1,4,A,I,P
+26,1,4,A,I,P
+26,1,5,A,I,P
+26,1,7,A,I,P
+26,1,7,A,I,P
+26,1,9,A,I,P
+26,1,9,A,I,P
+26,1,13,A,I,P
+26,1,13,A,me,P
+26,1,13,A,I,P
+26,1,13,A,I,P
+26,1,13,A,I,P
+26,1,14,A,I,P
+26,1,14,A,I,P
+26,1,14,A,I,P
+26,1,14,A,I,P
+26,1,16,A,I,P
+26,1,16,A,I,P
+26,1,16,A,I,P
+26,1,16,A,I,P
+26,1,36,A,I,P
+26,1,44,A,I,P
+26,1,55,A,I,P
+26,1,55,A,I,P
+26,1,59,A,I,P
+26,1,59,A,I,P
+26,1,59,A,I,P
+26,1,59,A,I,P
+26,1,61,A,I,P
+26,1,61,A,I,P
+26,1,62,A,I,P
+26,1,62,A,I,P
+26,1,66,A,I,P
+26,1,66,A,I,P
+26,1,67,A,I,P
+26,1,70,A,I,P
+26,1,70,A,I,P
+26,1,70,A,I,P
+26,1,70,A,I,P
+26,1,70,A,I,P
+26,1,70,A,me,P
+26,1,70,A,I,P
+26,1,70,A,me,P
+26,1,71,A,I,P
+26,1,71,A,I,P
+26,1,71,A,I,P
+26,1,71,A,I,P
+26,1,71,A,I,P
+26,1,71,A,I,P
+26,1,71,A,I,P
+26,1,72,A,I,P
+26,1,75,A,I,P
+26,1,75,A,I,P
+26,1,75,A,I,P
+26,1,75,A,I,P
+26,1,75,A,I,P
+26,1,75,A,I,P
+26,1,76,A,I,P
+26,1,76,A,I,P
+26,1,79,A,I,P
+26,1,92,A,I,P
+26,1,92,A,I,P
+26,1,93,A,I,P
+26,1,94,A,I,P
+26,1,96,A,I,P
+26,1,98,A,I,P
+26,1,106,A,I,P
+26,1,106,A,I,P
+26,1,109,A,I,P
+26,1,109,A,I,P
+26,1,109,A,you,P
+26,1,109,A,I,P
+26,1,109,A,I,P
+26,1,109,A,I,P
+26,1,109,A,I,P
+26,1,111,A,I,P
+26,1,111,A,I,P
+26,1,111,A,I,P
+26,1,114,A,I,P
+26,2,8,B,you,P
+26,2,9,A,you,P
+26,2,10,B,you,P
+26,2,29,B,your,P
+26,2,71,A,you,P
+26,2,71,A,you,P
+26,2,71,A,your,P
+26,2,81,B,you,P
+26,2,82,A,you,P
+26,2,109,A,you,P
+26,3,4,A,our,P
+26,3,11,B,we,P
+26,3,26,B,us,P
+26,3,26,B,us,P
+26,3,26,B,us,P
+26,3,27,B,us,P
+26,3,32,B,just us,N
+26,4,13,A,The one,PN
+26,4,13,A,it,P
+26,4,14,A,that one,N
+26,4,14,A,it,P
+26,4,16,A,that one,N
+26,4,16,A,that,P
+26,4,16,A,that one,N
+26,4,17,A,That,P
+26,5,13,A,them,P
+26,5,14,A,those,P
+26,6,13,A,automobile insurance,N
+26,6,17,A,automobile insurance,N
+26,7,11,B,T,N
+26,7,18,B,T,N
+26,7,22,B,T,N
+26,7,51,B,T,N
+26,7,70,A,T,N
+26,8,26,B,They,P
+26,8,27,B,they,P
+26,9,28,A,they,P
+26,9,30,A,they,P
+26,9,31,B,They,P
+26,9,33,B,they,P
+26,9,33,B,they,P
+26,10,31,B,seminars,N
+26,10,32,B,that,P
+26,11,35,A,facilities,N
+26,11,35,A,those facilities,N
+26,11,36,A,them,P
+26,12,35,A,they,P
+26,12,36,A,they,P
+26,13,36,A,several engineers that got laid off,N
+26,13,36,A,they,P
+26,13,36,A,they,P
+26,13,36,A,they,P
+26,14,36,A,one engineer,N
+26,14,36,A,he,P
+26,14,36,A,he,P
+26,14,36,A,he,P
+26,14,36,A,his,P
+26,14,36,A,He,P
+26,15,40,A,he,P
+26,15,40,A,he,P
+26,15,40,A,he,P
+26,15,40,A,he,P
+26,15,40,A,he,P
+26,15,40,A,he,P
+26,15,42,A,He,P
+26,16,48,A,pensions,N
+26,16,48,A,that,P
+26,17,51,B,I,P
+26,17,53,A,I,P
+26,18,53,A,a pension that goes from one company to the other like an account like a four O one account,N
+26,18,53,A,that,P
+26,18,58,B,that,P
+26,19,59,A,social security,N
+26,19,59,A,it,P
+26,19,60,B,social security,N
+26,19,61,A,social security,N
+26,20,59,A,work,N
+26,20,60,B,that,P
+26,21,61,A,your social security,N
+26,21,61,A,it,P
+26,22,61,A,the twenty-five year olds,N
+26,22,61,A,they,P
+26,23,61,A,your money,N
+26,23,61,A,it,P
+26,23,61,A,it,P
+26,23,62,A,that money,N
+26,24,59,A,you,P
+26,24,66,A,you,P
+26,24,66,A,your,P
+26,25,66,A,you and your company,N
+26,25,66,A,you,P
+26,26,63,A,they,P
+26,26,67,A,they,P
+26,26,70,A,they,P
+26,27,68,B,that,P
+26,27,68,B,that,P
+26,28,71,A,it,P
+26,28,71,A,it,P
+26,28,71,A,it,P
+26,28,72,A,it,P
+26,29,73,B,H O M A,PN
+26,29,74,B,that,P
+26,29,75,A,it,P
+26,29,75,A,it,P
+26,29,75,A,it,P
+26,30,79,A,the dental,N
+26,30,81,B,the same dental,N
+26,31,85,A,you,P
+26,31,85,A,you,P
+26,32,87,A,that,P
+26,32,87,A,that,P
+26,33,67,A,work,N
+26,33,88,A,that,P
+26,33,90,A,that,P
+26,34,87,A,personnel,N
+26,34,92,A,personnel,N
+26,34,95,A,personnel,N
+26,34,95,A,personnel,N
+26,35,92,A,they,P
+26,35,92,A,they,P
+26,35,92,A,them,P
+26,36,85,A,they,P
+26,36,92,A,they,P
+26,37,97,B,that,P
+26,37,98,A,it,P
+26,38,88,A,Baxter Labs,PN
+26,38,99,A,Baxter Labs,PN
+26,39,102,A,we,P
+26,39,102,A,our,P
+26,40,106,A,that,P
+26,40,106,A,that one,N
+26,40,107,A,that one,N
+26,41,108,B,vacation,N
+26,41,109,A,the vacation,N
+26,42,111,A,some people who have twenty-five years and thirty,N
+26,42,111,A,they,P
+27,0,0,B,I,P
+27,0,0,B,I,P
+27,0,0,B,I,P
+27,0,0,B,your,P
+27,0,0,B,you,P
+27,0,1,B,I,P
+27,0,1,B,I,P
+27,0,1,B,I,P
+27,0,1,B,I,P
+27,0,2,B,you,P
+27,0,11,B,I,P
+27,0,11,B,I,P
+27,0,11,B,I,P
+27,0,12,B,I,P
+27,0,14,B,I,P
+27,0,36,B,I,P
+27,0,43,B,I,P
+27,0,44,B,I,P
+27,0,45,B,I,P
+27,0,45,B,I,P
+27,0,45,B,I,P
+27,0,46,B,I,P
+27,0,56,B,I,P
+27,0,56,B,I,P
+27,0,58,B,I,P
+27,0,80,B,I,P
+27,0,92,B,I,P
+27,1,1,B,someone,N
+27,1,1,B,that person,N
+27,1,5,A,that person,N
+27,2,1,B,takes,N
+27,2,1,B,it,P
+27,2,4,A,it,P
+27,2,6,A,it,P
+27,2,6,A,it,P
+27,2,7,A,it,P
+27,2,7,A,it,P
+27,3,2,B,that,P
+27,3,2,B,it,P
+27,3,3,A,it,P
+27,4,3,A,I,P
+27,4,4,A,I,P
+27,4,4,A,I,P
+27,4,4,A,I,P
+27,4,4,A,I,P
+27,4,5,A,I,P
+27,4,7,A,I,P
+27,4,7,A,I,P
+27,4,8,A,I,P
+27,4,10,A,I,P
+27,4,13,A,I,P
+27,4,13,A,I,P
+27,4,13,A,I,P
+27,4,15,A,I,P
+27,4,17,A,I,P
+27,4,18,B,I,P
+27,4,23,A,I,P
+27,4,23,A,I,P
+27,4,23,A,I,P
+27,4,23,A,I,P
+27,4,23,A,I,P
+27,4,23,A,I,P
+27,4,25,A,I,P
+27,4,33,B,I,P
+27,4,42,A,I,P
+27,4,42,A,I,P
+27,4,42,A,I,P
+27,4,42,A,I,P
+27,4,42,A,I,P
+27,4,42,A,I,P
+27,4,50,A,I,P
+27,4,52,B,I,P
+27,4,53,A,I,P
+27,4,53,A,I,P
+27,4,53,A,I,P
+27,4,53,A,I,P
+27,4,54,B,you,P
+27,4,55,A,I,P
+27,4,55,A,I,P
+27,4,55,A,I,P
+27,4,55,A,I,P
+27,4,59,A,I,P
+27,4,59,A,I,P
+27,4,59,A,I,P
+27,4,60,A,I,P
+27,4,60,A,you,P
+27,4,64,A,I,P
+27,4,66,A,I,P
+27,4,71,A,I,P
+27,4,71,A,I,P
+27,4,71,A,I,P
+27,4,71,A,my,P
+27,4,73,A,I,P
+27,4,73,A,I,P
+27,4,73,A,I,P
+27,4,78,A,I,P
+27,4,85,A,I,P
+27,4,86,A,I,P
+27,4,86,A,I,P
+27,5,4,A,you,P
+27,5,4,A,you,P
+27,6,6,A,people,N
+27,6,6,A,they,P
+27,6,6,A,they,P
+27,6,6,A,they,P
+27,7,7,A,that many people,N
+27,7,7,A,them,P
+27,8,4,A,you,P
+27,8,7,A,you,P
+27,9,13,A,Pennsylvania,PN
+27,9,13,A,we,P
+27,9,13,A,we,P
+27,9,15,A,Pennsylvania,PN
+27,9,23,A,Pennsylvania,PN
+27,9,54,B,Pennsylvania,PN
+27,9,62,A,Pennsylvania,PN
+27,10,15,A,it,P
+27,10,15,A,it,P
+27,10,17,A,it,P
+27,10,71,A,it,P
+27,11,17,A,Florida,PN
+27,11,18,B,Florida,PN
+27,11,18,B,Florida,PN
+27,11,23,A,even Florida,N
+27,11,23,A,they,P
+27,11,24,B,Florida,PN
+27,12,20,B,they,P
+27,12,20,B,they,P
+27,13,22,B,they,P
+27,13,22,B,they,P
+27,14,13,A,last year,N
+27,14,23,A,last year,N
+27,15,23,A,was,N
+27,15,23,A,that,P
+27,16,23,A,it,P
+27,16,23,A,it,P
+27,17,29,A,Everyone,PN
+27,17,30,B,them,P
+27,18,32,B,they,P
+27,18,33,B,They,P
+27,18,33,B,they,P
+27,18,33,B,them,P
+27,19,33,B,the guy,N
+27,19,33,B,he,P
+27,20,35,B,Some of these guys,PN
+27,20,36,B,they,P
+27,20,37,A,they,P
+27,20,38,B,they,P
+27,20,39,A,they,P
+27,20,40,A,they,P
+27,20,41,A,them,P
+27,20,42,A,they,P
+27,20,84,A,they,P
+27,20,84,A,they,P
+27,20,84,A,they,P
+27,20,85,A,they,P
+27,21,42,A,someone,N
+27,21,42,A,their,P
+27,22,45,B,these guys,N
+27,22,45,B,they,P
+27,22,45,B,they,P
+27,22,48,B,these guys,N
+27,22,50,A,them,P
+27,23,46,B,Reduce,PN
+27,23,46,B,that,P
+27,24,45,B,the parole system,N
+27,24,46,B,its,P
+27,25,46,B,the prisons,N
+27,25,47,B,the prisons,N
+27,26,47,B,people,N
+27,26,47,B,themselves,N
+27,26,47,B,they,P
+27,26,47,B,they,P
+27,27,50,A,some of them,N
+27,27,51,A,They,P
+27,27,51,A,they,P
+27,28,50,A,be,N
+27,28,52,B,that,P
+27,29,53,A,it,P
+27,29,53,A,it,P
+27,30,55,A,Clarion,PN
+27,30,55,A,Clarion University,PN
+27,30,60,A,this,P
+27,30,60,A,we,P
+27,31,57,B,the country,N
+27,31,57,B,the country,N
+27,32,59,A,have,N
+27,32,60,A,that,P
+27,33,60,A,is,N
+27,33,60,A,that,P
+27,34,60,A,Pittsburgh,PN
+27,34,62,A,Pittsburgh Pennsylvania,PN
+27,35,63,B,Polk,PN
+27,35,64,A,Polk,PN
+27,35,65,B,Polk Institute,PN
+27,35,65,B,It,P
+27,35,66,A,that,P
+27,35,68,A,It,P
+27,36,71,A,they,P
+27,36,71,A,they,P
+27,36,71,A,they,P
+27,37,74,B,kids,N
+27,37,75,B,them,P
+27,37,75,B,them,P
+27,38,75,B,I,P
+27,38,75,B,me,P
+27,39,77,B,the criminals,N
+27,39,77,B,themselves,N
+27,39,77,B,they,P
+27,40,77,B,them,P
+27,40,77,B,them,P
+27,41,80,B,the the client lawyers,N
+27,41,80,B,They,P
+27,41,87,B,they,P
+27,42,87,B,people,N
+27,42,87,B,themselves,N
+27,43,87,B,we,P
+27,43,89,B,we,P
+27,43,89,B,we,P
+27,44,42,A,someone,N
+27,44,89,B,the guy,N
+27,45,90,B,the guys that are turning themselves in,N
+27,45,90,B,themselves,N
+27,46,91,B,a few of those people that are you know lost their head or whatever,N
+27,46,91,B,their,P
+27,47,92,B,the guy,N
+27,47,92,B,he,P
+27,47,92,B,he,P
+27,47,92,B,he,P
+27,47,92,B,he,P
+27,47,92,B,he,P
+27,48,92,B,some girl,N
+27,48,92,B,her,P
+27,48,92,B,she,P
+28,0,0,A,your,P
+28,0,1,B,I,P
+28,0,1,B,I,P
+28,0,1,B,I,P
+28,0,1,B,I,P
+28,0,1,B,I,P
+28,0,1,B,I,P
+28,0,7,B,I,P
+28,0,7,B,I,P
+28,0,7,B,I,P
+28,0,7,B,I,P
+28,0,15,B,I,P
+28,0,17,A,you,P
+28,0,18,B,I,P
+28,0,18,B,I,P
+28,0,25,B,I,P
+28,0,26,A,I,P
+28,0,34,B,I,P
+28,0,34,B,I,P
+28,0,34,B,I,P
+28,0,35,A,I,P
+28,0,36,B,I,P
+28,0,36,B,myself,N
+28,0,36,B,I,P
+28,0,36,B,I,P
+28,0,36,B,I,P
+28,0,36,B,I,P
+28,0,37,A,I,P
+28,0,37,A,I,P
+28,0,37,A,I,P
+28,0,37,A,I,P
+28,0,38,B,I,P
+28,0,39,A,I,P
+28,0,43,A,my,P
+28,0,43,A,I,P
+28,0,44,B,I,P
+28,0,45,A,I,P
+28,0,45,A,I,P
+28,0,47,B,your,P
+28,0,50,A,I,P
+28,0,50,A,you,P
+28,0,54,A,I,P
+28,0,54,A,I,P
+28,0,55,B,I,P
+28,0,55,B,my,P
+28,0,55,B,my,P
+28,0,55,B,your,P
+28,0,59,B,I,P
+28,0,67,B,You,P
+28,0,69,B,I,P
+28,0,69,B,I,P
+28,0,69,B,I,P
+28,0,69,B,I,P
+28,0,69,B,I,P
+28,0,70,A,you,P
+28,0,70,A,your,P
+28,0,71,B,I,P
+28,0,71,B,I,P
+28,0,72,A,you,P
+28,0,73,B,I,P
+28,0,75,A,I,P
+28,0,77,A,you,P
+28,1,1,B,her,P
+28,1,1,B,she,P
+28,2,1,B,we,P
+28,2,1,B,we,P
+28,2,1,B,our,P
+28,2,18,B,We,P
+28,2,22,B,we,P
+28,2,23,A,our,P
+28,2,26,A,we,P
+28,2,32,A,our,P
+28,2,36,B,we,P
+28,2,73,B,we,P
+28,2,73,B,we,P
+28,2,73,B,we,P
+28,2,73,B,we,P
+28,2,73,B,us,P
+28,2,73,B,we,P
+28,2,73,B,we,P
+28,2,73,B,we,P
+28,2,73,B,we,P
+28,3,7,B,some really bad ones,N
+28,3,8,A,they,P
+28,3,8,A,they,P
+28,3,9,B,them,P
+28,3,12,A,they,P
+28,3,12,A,they,P
+28,3,13,B,them,P
+28,3,13,B,they,P
+28,4,20,B,She,P
+28,4,20,B,she,P
+28,4,47,B,your daughter,N
+28,4,55,B,your daughter,N
+28,4,71,B,her,P
+28,4,73,B,her,P
+28,5,28,A,they,P
+28,5,31,B,them,P
+28,6,31,B,you,P
+28,6,31,B,your,P
+28,7,28,A,her,P
+28,7,32,A,she,P
+28,8,34,B,you,P
+28,8,34,B,you,P
+28,8,34,B,you,P
+28,9,34,B,some really good care,N
+28,9,35,A,it,P
+28,9,51,B,it,P
+28,10,36,B,baby-sit,N
+28,10,36,B,that,P
+28,11,36,B,this Virginia,N
+28,11,36,B,Virginia,PN
+28,12,36,B,Texas,PN
+28,12,37,A,Texas,PN
+28,13,38,B,it,P
+28,13,38,B,it,P
+28,14,45,A,this Charismatic care or the Charismatic belief,N
+28,14,47,B,it,P
+28,15,53,B,your child,N
+28,15,53,B,your child,N
+28,16,51,B,them,P
+28,16,55,B,them,P
+28,17,55,B,my child,N
+28,17,55,B,she,P
+28,17,55,B,she,P
+28,18,60,B,your child,N
+28,18,60,B,your child 's,N
+28,18,60,B,them,P
+28,18,60,B,them,P
+28,18,60,B,them,P
+28,19,64,A,most people doing child care,N
+28,19,64,A,They,P
+28,20,66,A,their,P
+28,21,67,B,somebody that has an actual establishment,N
+28,21,68,A,Their,P
+28,22,68,A,earn,N
+28,22,69,B,that,P
+28,23,70,A,your husband,N
+28,23,71,B,he,P
+28,24,77,A,that,P
+28,24,77,A,it,P
+28,25,78,A,we,P
+28,25,78,A,we as Americans,N
+29,0,0,A,We,P
+29,0,1,A,we,P
+29,0,1,A,us,P
+29,0,4,A,we,P
+29,0,5,B,we,P
+29,0,5,B,we,P
+29,0,5,B,this country,N
+29,0,5,B,we,P
+29,0,5,B,us,P
+29,0,5,B,we,P
+29,0,5,B,we,P
+29,0,6,A,we,P
+29,0,6,A,we,P
+29,0,6,A,we,P
+29,0,8,A,we,P
+29,0,8,A,we,P
+29,0,8,A,we,P
+29,0,8,A,we,P
+29,0,19,A,our,P
+29,0,19,A,We,P
+29,0,21,A,our,P
+29,0,24,A,we,P
+29,0,24,A,our,P
+29,0,26,A,we,P
+29,0,27,B,we,P
+29,0,30,B,we,P
+29,0,37,B,we,P
+29,0,38,A,our,P
+29,0,38,A,we,P
+29,0,66,B,ours,N
+29,0,66,B,we,P
+29,0,66,B,ours,N
+29,0,66,B,we,P
+29,0,67,A,our,P
+29,0,74,B,our,P
+29,0,74,B,we,P
+29,0,74,B,we,P
+29,1,0,A,the Middle East Crisis,N
+29,1,1,A,it,P
+29,1,4,A,The Middle East Crisis,PN
+29,1,5,B,that,P
+29,1,5,B,That,P
+29,2,2,A,you,P
+29,2,3,B,I,P
+29,2,5,B,me,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,5,B,I,P
+29,2,12,B,I,P
+29,2,25,B,I,P
+29,2,30,B,I,P
+29,2,30,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,39,B,I,P
+29,2,48,B,you,P
+29,2,52,B,I,P
+29,2,52,B,I,P
+29,2,54,B,I,P
+29,2,70,B,I,P
+29,2,72,B,my,P
+29,2,74,B,I,P
+29,2,74,B,I,P
+29,2,74,B,I,P
+29,2,74,B,I,P
+29,2,74,B,I,P
+29,2,74,B,I,P
+29,2,84,A,you,P
+29,2,85,B,I,P
+29,2,85,B,I,P
+29,3,5,B,a son that 's sixteen,N
+29,3,5,B,he,P
+29,3,5,B,him,P
+29,3,5,B,his,P
+29,4,5,B,people,N
+29,4,5,B,they,P
+29,5,5,B,the tired the tired excuse that we went to war to save us against communism,N
+29,5,5,B,that,P
+29,6,5,B,communism,N
+29,6,5,B,it,P
+29,6,5,B,that,P
+29,7,6,A,Iraq,PN
+29,7,8,A,Iraq,PN
+29,8,10,A,I,P
+29,8,10,A,I,P
+29,8,10,A,me,P
+29,8,17,A,I,P
+29,8,40,A,I,P
+29,8,52,B,me,P
+29,8,52,B,I,P
+29,8,52,B,I,P
+29,8,52,B,I,P
+29,8,63,A,I,P
+29,8,66,B,I,P
+29,8,67,A,I,P
+29,9,11,A,Saddam,PN
+29,9,11,A,Saddam,PN
+29,10,11,A,is,N
+29,10,12,B,that,P
+29,11,13,A,his,P
+29,11,14,B,he,P
+29,11,17,A,he,P
+29,12,8,A,Kuwait,PN
+29,12,17,A,Kuwait,PN
+29,12,18,A,Kuwait,PN
+29,13,19,A,the Saudis,N
+29,13,19,A,the Saudis,N
+29,13,21,A,they,P
+29,13,22,A,They,P
+29,13,24,A,our friends,N
+29,14,8,A,Saudi,PN
+29,14,24,A,Saudi,PN
+29,14,51,A,Saudi,PN
+29,15,25,B,it,P
+29,15,25,B,it,P
+29,16,27,B,won,N
+29,16,30,B,that,P
+29,16,30,B,that,P
+29,17,30,B,lost,N
+29,17,30,B,that,P
+29,17,30,B,it,P
+29,17,30,B,that,P
+29,18,39,B,we the public,N
+29,18,39,B,we,P
+29,18,39,B,we,P
+29,18,39,B,we,P
+29,18,39,B,the masses,N
+29,19,41,A,one of the guys that was on the jury,N
+29,19,41,A,him,P
+29,19,41,A,you,P
+29,19,43,A,the guy,N
+29,19,43,A,you,P
+29,19,43,A,you,P
+29,19,43,A,you,P
+29,19,43,A,He,P
+29,19,43,A,I,P
+29,19,43,A,my,P
+29,19,43,A,He,P
+29,19,43,A,he,P
+29,19,43,A,his,P
+29,19,45,A,He,P
+29,19,45,A,His,P
+29,20,42,A,he,P
+29,21,42,A,one guy,N
+29,21,42,A,his,P
+29,22,41,A,they,P
+29,22,43,A,us,P
+29,23,43,A,you,P
+29,23,45,A,him,P
+29,23,45,A,Dad,PN
+29,23,45,A,you,P
+29,24,49,A,all lawyers and politicians,N
+29,24,49,A,they,P
+29,24,49,A,them,P
+29,25,49,A,our,P
+29,25,49,A,we,P
+29,26,50,B,that,P
+29,26,50,B,that,P
+29,27,51,A,us,P
+29,27,51,A,we,P
+29,28,51,A,lose,N
+29,28,52,B,that,P
+29,29,52,B,the war,N
+29,29,52,B,it,P
+29,30,53,A,we,P
+29,30,53,A,we,P
+29,30,57,A,we,P
+29,30,57,A,ourselves,N
+29,30,58,A,We,P
+29,31,5,B,Vietnam,PN
+29,31,53,A,Vietnam,PN
+29,32,55,A,strike,N
+29,32,56,A,it,P
+29,33,60,A,even Russia,N
+29,33,61,B,they,P
+29,34,64,A,us,P
+29,34,64,A,our,P
+29,35,64,A,our youth 's,N
+29,35,65,A,their,P
+29,35,65,A,their,P
+29,35,66,B,their,P
+29,35,66,B,they,P
+29,35,66,B,their,P
+29,35,66,B,their,P
+29,35,66,B,they,P
+29,35,66,B,Their,P
+29,36,66,B,their culture,N
+29,36,66,B,Their culture,PN
+29,37,67,A,are,N
+29,37,68,B,that,P
+29,38,69,A,the Kuwaitis,N
+29,38,69,A,their,P
+29,39,69,A,The Kuwaiti young,PN
+29,39,69,A,They,P
+29,40,74,B,those questions,N
+29,40,74,B,they,P
+29,41,74,B,anybody,N
+29,41,74,B,they,P
+29,41,74,B,they,P
+29,41,74,B,they,P
+29,42,75,A,one Kuwaiti woman,N
+29,42,76,A,her,P
+29,42,76,A,she,P
+29,42,78,A,you,P
+29,42,80,A,I,P
+29,42,81,B,I,P
+29,42,82,A,I,P
+29,42,82,A,I,P
+29,43,84,A,gives,N
+29,43,85,B,that,P
+29,44,88,A,kiesters,N
+29,44,89,A,their,P
+29,44,90,A,they,P
+29,44,90,A,They,P
+29,44,90,A,them,P
+29,44,90,A,they,P
+30,0,0,A,I,P
+30,0,0,A,I,P
+30,0,2,A,I,P
+30,0,2,A,I,P
+30,0,2,A,I,P
+30,0,2,A,my,P
+30,0,2,A,my,P
+30,0,2,A,I,P
+30,0,4,B,you,P
+30,0,34,A,I,P
+30,0,34,A,I,P
+30,0,34,A,my,P
+30,0,35,A,I,P
+30,0,35,A,you,P
+30,0,40,A,me,P
+30,0,41,A,I,P
+30,0,43,A,I,P
+30,0,45,A,I,P
+30,0,52,A,I,P
+30,0,69,A,my,P
+30,0,69,A,me,P
+30,0,70,A,I,P
+30,0,72,A,you,P
+30,0,72,A,I,P
+30,0,74,A,I,P
+30,0,76,A,I,P
+30,0,76,A,I,P
+30,0,76,A,I,P
+30,0,78,B,you,P
+30,0,79,A,I,P
+30,0,88,B,you,P
+30,0,96,A,I,P
+30,0,96,A,I,P
+30,0,96,A,I,P
+30,0,97,A,I,P
+30,0,97,A,I,P
+30,0,98,A,I,P
+30,0,98,A,I,P
+30,0,98,A,I,P
+30,0,100,A,I,P
+30,0,101,A,I,P
+30,0,101,A,I,P
+30,0,105,A,I,P
+30,0,105,A,I,P
+30,0,106,A,I,P
+30,0,106,A,I,P
+30,0,107,A,I,P
+30,0,108,A,I,P
+30,0,110,A,I,P
+30,0,110,A,I,P
+30,0,111,A,you,P
+30,0,112,A,I,P
+30,0,119,A,I,P
+30,0,126,A,I,P
+30,0,132,B,I,P
+30,0,133,A,I,P
+30,0,138,A,I,P
+30,0,138,A,I,P
+30,0,141,A,I,P
+30,0,142,B,I,P
+30,0,143,B,you,P
+30,0,145,A,I,P
+30,0,151,B,Tonya,PN
+30,1,2,A,my grandmother or my mother,N
+30,1,2,A,their,P
+30,1,3,A,their,P
+30,1,3,A,their,P
+30,1,34,A,they,P
+30,1,34,A,they,P
+30,1,37,A,them,P
+30,1,38,A,They,P
+30,1,38,A,they,P
+30,2,4,B,I,P
+30,2,4,B,I,P
+30,2,4,B,I,P
+30,2,8,B,I,P
+30,2,8,B,I,P
+30,2,13,B,me,P
+30,2,19,B,I,P
+30,2,22,B,I,P
+30,2,22,B,I,P
+30,2,23,B,I,P
+30,2,25,B,I,P
+30,2,26,B,I,P
+30,2,27,B,I,P
+30,2,34,A,my,P
+30,2,54,B,I,P
+30,2,56,B,I,P
+30,2,64,B,I,P
+30,2,67,B,I,P
+30,2,67,B,I,P
+30,2,67,B,my,P
+30,2,75,B,I,P
+30,2,78,B,I,P
+30,2,78,B,I,P
+30,2,80,B,I,P
+30,2,81,B,me,P
+30,2,82,B,I,P
+30,2,84,B,me,P
+30,2,84,B,I,P
+30,2,88,B,I,P
+30,2,88,B,I,P
+30,2,88,B,I,P
+30,2,89,B,I,P
+30,2,92,B,I,P
+30,2,94,B,I,P
+30,2,99,B,Me,P
+30,2,102,B,I,P
+30,2,103,A,me,P
+30,2,104,B,I,P
+30,2,117,A,me,P
+30,2,122,B,I,P
+30,2,122,B,I,P
+30,2,127,B,my,P
+30,2,128,B,I,P
+30,2,129,B,me,P
+30,2,139,B,me,P
+30,2,143,B,I,P
+30,2,143,B,I,P
+30,2,143,B,my,P
+30,2,145,A,me,P
+30,2,146,B,I,P
+30,2,146,B,I,P
+30,2,146,B,I,P
+30,2,146,B,my,P
+30,2,147,B,I,P
+30,2,148,A,me,P
+30,2,150,A,you,P
+30,2,151,B,You,P
+30,3,4,B,it,P
+30,3,5,B,It,P
+30,3,5,B,it,P
+30,3,6,B,this particular one,N
+30,3,8,B,this particular one,N
+30,3,8,B,It,P
+30,3,9,B,it,P
+30,3,10,B,the whole place,N
+30,3,11,B,it,P
+30,3,12,A,they,P
+30,3,13,B,it,P
+30,3,27,B,the place,N
+30,3,32,B,it,P
+30,3,33,B,it,P
+30,3,46,B,this place that we visit,N
+30,3,46,B,it,P
+30,4,6,B,people that are in pretty bad shape,N
+30,4,7,B,them,P
+30,4,8,B,the people,N
+30,5,9,B,a new company,N
+30,5,12,A,they,P
+30,5,27,B,this new company,N
+30,5,27,B,they,P
+30,5,27,B,they,P
+30,5,28,B,they,P
+30,5,29,B,they,P
+30,5,30,B,They,P
+30,6,15,B,the floors,N
+30,6,16,B,them,P
+30,6,16,B,they,P
+30,7,17,B,a lot of people just kind of up and down the halls laying in their beds hollering and you know crying,N
+30,7,17,B,their,P
+30,7,19,B,them,P
+30,7,19,B,their,P
+30,7,22,B,they,P
+30,7,26,B,them,P
+30,7,26,B,they,P
+30,7,26,B,they,P
+30,7,29,B,them,P
+30,7,30,B,they,P
+30,7,80,B,these people,N
+30,7,80,B,them,P
+30,7,80,B,their,P
+30,7,81,B,them,P
+30,7,82,B,them,P
+30,7,83,B,They,P
+30,7,84,B,they,P
+30,7,85,B,them,P
+30,7,86,B,them,P
+30,7,87,A,them,P
+30,7,123,B,these people,N
+30,7,125,B,the people,N
+30,7,127,B,they,P
+30,8,28,B,it,P
+30,8,28,B,it,P
+30,9,29,B,the dining room where they made it,N
+30,9,29,B,it,P
+30,10,30,B,made,N
+30,10,31,A,That,P
+30,10,60,A,That,P
+30,10,61,A,That,P
+30,10,62,A,That,P
+30,10,63,A,That,P
+30,10,64,B,that,P
+30,11,41,A,they,P
+30,11,42,A,they,P
+30,11,45,A,they,P
+30,11,76,A,they,P
+30,11,77,A,they,P
+30,11,113,A,those people,N
+30,11,113,A,they,P
+30,11,115,A,they,P
+30,12,46,B,They,P
+30,12,46,B,they,P
+30,12,47,B,they,P
+30,12,49,B,they,P
+30,12,50,B,them,P
+30,13,46,B,we,P
+30,13,47,B,Our,P
+30,13,54,B,our,P
+30,14,50,B,places that have a lot of things for them to do,N
+30,14,50,B,it,P
+30,15,54,B,a lot of other churches,N
+30,15,54,B,they,P
+30,16,56,B,animals,N
+30,16,56,B,them,P
+30,17,56,B,they,P
+30,17,57,B,they,P
+30,17,57,B,they,P
+30,18,57,B,a dog that maybe needs a home,N
+30,18,59,B,it,P
+30,18,61,A,the puppy,N
+30,18,62,A,that,P
+30,18,132,B,her,P
+30,18,132,B,her,P
+30,18,132,B,her,P
+30,19,59,B,the old elderly people,N
+30,19,61,A,they,P
+30,19,61,A,they,P
+30,20,66,B,people,N
+30,20,67,B,they,P
+30,21,69,A,Putting,PN
+30,21,73,A,it,P
+30,22,73,A,be,N
+30,22,74,A,that,P
+30,23,88,B,a guy at this particular one,N
+30,23,89,B,he,P
+30,23,90,B,he,P
+30,23,90,B,he,P
+30,23,91,B,he,P
+30,23,91,B,he,P
+30,23,92,B,he,P
+30,23,92,B,his,P
+30,23,92,B,he,P
+30,23,93,B,him,P
+30,23,93,B,he,P
+30,23,93,B,he,P
+30,23,94,B,he,P
+30,23,94,B,he,P
+30,23,95,B,he,P
+30,23,95,B,He,P
+30,24,93,B,you,P
+30,24,93,B,your,P
+30,25,93,B,your hand,N
+30,25,93,B,it,P
+30,25,93,B,it,P
+30,26,95,B,make,N
+30,26,96,A,That,P
+30,26,96,A,it,P
+30,26,98,A,it,P
+30,27,108,A,these kids who are you know dropping out of school left and right,N
+30,27,109,A,they,P
+30,27,109,A,They,P
+30,27,109,A,they,P
+30,27,110,A,them,P
+30,28,117,A,that,P
+30,28,118,B,it,P
+30,29,122,B,we,P
+30,29,122,B,our,P
+30,29,124,B,us,P
+30,30,122,B,our kids,N
+30,30,123,B,they,P
+30,30,124,B,they,P
+30,30,125,B,them,P
+30,30,127,B,the children,N
+30,30,127,B,them,P
+30,30,127,B,their,P
+30,30,127,B,my kids,N
+30,30,128,B,they,P
+30,30,128,B,they,P
+30,30,129,B,they,P
+30,31,131,B,the kids,N
+30,31,131,B,their,P
+30,32,132,B,they,P
+30,32,132,B,I,P
+30,33,133,A,a MUMBLEx of elderly people,N
+30,33,133,A,they,P
+30,33,133,A,their,P
+30,33,134,A,They,P
+30,33,135,A,they,P
+30,33,135,A,they,P
+30,33,137,A,they,P
+30,33,137,A,they,P
+30,33,137,A,they,P
+30,34,134,A,the younger children,N
+30,34,134,A,them,P
+30,35,137,A,life,N
+30,35,137,A,it,P
+30,36,143,B,put,N
+30,36,144,B,It,P
+31,0,0,A,I,P
+31,0,1,A,I,P
+31,0,1,A,I,P
+31,0,1,A,my,P
+31,0,1,A,I,P
+31,0,1,A,I,P
+31,0,1,A,I,P
+31,0,3,B,you,P
+31,0,3,B,you,P
+31,0,4,A,I,P
+31,0,4,A,I,P
+31,0,5,A,I,P
+31,0,5,A,I,P
+31,0,6,A,I,P
+31,0,6,A,my,P
+31,0,7,B,my,P
+31,0,7,B,I,P
+31,0,9,B,I,P
+31,0,9,B,I,P
+31,0,9,B,I,P
+31,0,9,B,I,P
+31,0,9,B,my,P
+31,0,9,B,I,P
+31,0,10,A,I,P
+31,0,10,A,I,P
+31,0,11,A,my,P
+31,0,11,A,my,P
+31,0,14,B,I,P
+31,0,14,B,I,P
+31,0,14,B,I,P
+31,0,14,B,me,P
+31,0,14,B,I,P
+31,0,14,B,I,P
+31,0,14,B,I,P
+31,0,15,A,I,P
+31,0,15,A,my,P
+31,0,21,B,I,P
+31,0,23,A,I,P
+31,0,23,A,I,P
+31,0,24,A,I,P
+31,0,24,A,I,P
+31,0,29,A,I,P
+31,0,29,A,I,P
+31,0,44,A,I,P
+31,0,44,A,I,P
+31,0,44,A,you,P
+31,0,45,A,I,P
+31,0,48,A,I,P
+31,0,48,A,I,P
+31,0,49,A,I,P
+31,0,49,A,my,P
+31,0,49,A,I,P
+31,0,50,A,I,P
+31,0,50,A,I,P
+31,0,53,A,me,P
+31,0,53,A,I,P
+31,0,54,A,I,P
+31,0,55,A,I,P
+31,0,57,A,I,P
+31,0,57,A,I,P
+31,0,57,A,I,P
+31,0,58,A,I,P
+31,0,58,A,I,P
+31,0,58,A,I,P
+31,1,1,A,a son that 's a little bit overweight,N
+31,1,1,A,him,P
+31,2,1,A,we,P
+31,2,1,A,my wife and I,N
+31,2,7,B,my husband and I,N
+31,2,7,B,we,P
+31,2,9,B,we,P
+31,2,9,B,we,P
+31,2,9,B,We,P
+31,2,34,A,ours,N
+31,3,7,B,I,P
+31,3,7,B,I,P
+31,3,7,B,I,P
+31,3,7,B,I,P
+31,3,7,B,I,P
+31,3,20,B,I,P
+31,3,20,B,I,P
+31,3,20,B,I,P
+31,3,40,B,I,P
+31,3,41,B,My,P
+31,3,42,B,me,P
+31,3,46,B,you,P
+31,4,8,B,thousands of people,N
+31,4,8,B,their,P
+31,5,8,B,ride,N
+31,5,8,B,that,P
+31,5,9,B,that,P
+31,6,9,B,it,P
+31,6,9,B,it,P
+31,7,9,B,stay,N
+31,7,9,B,it,P
+31,7,9,B,that,P
+31,7,10,A,That,P
+31,8,10,A,a total of five children,N
+31,8,11,A,they,P
+31,9,13,A,they,P
+31,9,14,B,they,P
+31,9,14,B,they,P
+31,10,14,B,a lot of people that cycle,N
+31,10,14,B,they,P
+31,10,14,B,their,P
+31,10,14,B,them,P
+31,11,14,B,take,N
+31,11,14,B,that,P
+31,12,14,B,it,P
+31,12,14,B,it,P
+31,12,14,B,it,P
+31,13,17,A,I,P
+31,13,17,A,me,P
+31,13,17,A,me,P
+31,13,17,A,I,P
+31,13,18,A,I,P
+31,13,18,A,me,P
+31,13,18,A,I,P
+31,13,18,A,I,P
+31,14,20,B,Kenneth Cooper,PN
+31,14,20,B,him,P
+31,14,21,B,he,P
+31,14,21,B,He,P
+31,14,21,B,he,P
+31,14,21,B,he,P
+31,14,21,B,he,P
+31,14,46,B,Dr Cooper 's,PN
+31,14,47,B,he,P
+31,15,21,B,the three things you could that cause aging smoking are inactivity,N
+31,15,21,B,those three areas,N
+31,15,21,B,those,P
+31,16,25,A,nineteen-twenty,N
+31,16,26,A,nineteen-thirteen,N
+31,16,26,A,that,P
+31,17,28,A,a book CORONARY CHOLESTEROL AND CHLORINE,N
+31,17,28,A,it,P
+31,17,29,A,it,P
+31,17,31,A,it,P
+31,17,31,A,it,P
+31,17,37,A,that book,N
+31,17,38,B,this book,N
+31,17,41,B,That,P
+31,18,29,A,Plano,PN
+31,18,29,A,Plano,PN
+31,19,28,A,Dr Price,PN
+31,19,30,B,Dr Price,PN
+31,19,31,A,Dr Price,PN
+31,19,31,A,he,P
+31,19,31,A,he,P
+31,19,31,A,he,P
+31,19,34,A,He,P
+31,19,36,A,he,P
+31,19,37,A,he,P
+31,19,37,A,Dr Price,PN
+31,19,37,A,Dr Price,PN
+31,19,37,A,he,P
+31,20,28,A,we,P
+31,20,31,A,we,P
+31,21,37,A,a letter,N
+31,21,37,A,this letter,N
+31,22,37,A,a toxicologist for the Environmental Protection Agency who did work back in nineteen eighty-six who wrote a letter to Dr Price in nineteen eighty-seven,N
+31,22,37,A,he,P
+31,23,37,A,E P A,PN
+31,23,37,A,E P A,PN
+31,24,7,B,my husband,N
+31,24,41,B,My husband,PN
+31,24,41,B,he,P
+31,24,42,B,he,P
+31,24,42,B,he,P
+31,24,42,B,he,P
+31,24,42,B,he,P
+31,24,42,B,he,P
+31,25,44,A,having,N
+31,25,44,A,that,P
+31,26,46,B,Dr Cooper 's book on controlling cholesterol,PN
+31,26,47,B,That,P
+31,27,53,A,they,P
+31,27,53,A,themselves,N
+31,27,53,A,they,P
+31,28,54,A,we,P
+31,28,55,A,we,P
+31,29,55,A,come,N
+31,29,56,B,That,P
+32,0,0,A,I,P
+32,0,0,A,I,P
+32,0,0,A,I,P
+32,0,0,A,I,P
+32,0,0,A,I,P
+32,0,1,A,I,P
+32,0,1,A,I,P
+32,0,1,A,I,P
+32,0,4,A,I,P
+32,0,7,A,I,P
+32,0,7,A,I,P
+32,0,9,A,my,P
+32,0,9,A,I,P
+32,0,9,A,I,P
+32,0,9,A,I,P
+32,0,10,B,I,P
+32,0,11,B,I,P
+32,0,11,B,my,P
+32,0,11,B,I,P
+32,0,11,B,I,P
+32,0,12,B,I,P
+32,0,12,B,I,P
+32,0,13,B,your,P
+32,0,16,B,I,P
+32,0,16,B,I,P
+32,0,16,B,I,P
+32,0,16,B,I,P
+32,0,19,B,I,P
+32,0,27,B,I,P
+32,0,29,B,I,P
+32,0,29,B,I,P
+32,0,29,B,myself,N
+32,0,32,A,I,P
+32,0,33,A,I,P
+32,0,37,B,you,P
+32,0,37,B,yourself,N
+32,0,38,A,I,P
+32,0,38,A,I,P
+32,0,40,B,you,P
+32,0,41,B,your,P
+32,0,41,B,your,P
+32,0,42,A,I,P
+32,0,42,A,I,P
+32,0,42,A,I,P
+32,0,42,A,I,P
+32,0,43,A,I,P
+32,0,43,A,I I,PN
+32,0,43,A,I,P
+32,0,43,A,I,P
+32,0,43,A,I,P
+32,0,49,A,I,P
+32,0,49,A,I,P
+32,0,51,A,I,P
+32,0,52,A,myself,N
+32,0,52,A,myself I,N
+32,0,52,A,I,P
+32,0,52,A,I,P
+32,0,53,A,I,P
+32,0,53,A,I,P
+32,0,53,A,I,P
+32,0,53,A,me,P
+32,0,63,A,I,P
+32,0,63,A,I,P
+32,0,63,A,I,P
+32,0,64,A,I,P
+32,0,64,A,my,P
+32,0,64,A,I,P
+32,0,64,A,you,P
+32,0,65,B,you,P
+32,0,66,A,I,P
+32,0,70,A,I,P
+32,0,70,A,I,P
+32,0,70,A,I,P
+32,0,77,B,I,P
+32,0,90,A,I,P
+32,0,90,A,I,P
+32,0,90,A,I,P
+32,0,98,A,I,P
+32,0,100,A,my,P
+32,0,102,A,I,P
+32,0,103,A,I,P
+32,0,103,A,I,P
+32,0,103,A,I,P
+32,0,104,A,I,P
+32,0,104,A,I,P
+32,0,104,A,I,P
+32,0,104,A,me,P
+32,0,106,A,I,P
+32,0,113,B,I,P
+32,0,113,B,I,P
+32,0,114,B,me,P
+32,0,115,A,I,P
+32,0,115,A,I,P
+32,0,115,A,you,P
+32,0,115,A,I,P
+32,0,115,A,I,P
+32,0,116,A,I,P
+32,0,116,A,I,P
+32,0,117,A,I,P
+32,0,117,A,I,P
+32,0,117,A,I,P
+32,0,117,A,I,P
+32,0,123,A,I,P
+32,0,128,B,I,P
+32,0,131,A,I,P
+32,0,131,A,I,P
+32,0,131,A,I,P
+32,0,131,A,I,P
+32,0,142,A,I,P
+32,0,142,A,I,P
+32,0,142,A,I,P
+32,0,143,A,mine,N
+32,0,144,A,I,P
+32,0,156,A,I,P
+32,0,156,A,I,P
+32,0,156,A,I,P
+32,0,156,A,I,P
+32,1,0,A,a number of what might be considered controversial issues,N
+32,1,1,A,they,P
+32,2,0,A,the country,N
+32,2,2,B,the country,N
+32,2,4,A,the country,N
+32,2,4,A,the nation,N
+32,2,51,A,the country,N
+32,2,51,A,America,PN
+32,2,51,A,they,P
+32,2,70,A,America,PN
+32,2,100,A,this country,N
+32,2,100,A,its,P
+32,2,104,A,this country,N
+32,2,112,B,this country,N
+32,2,113,B,this country,N
+32,2,114,B,it,P
+32,3,2,B,you,P
+32,3,2,B,you,P
+32,3,2,B,yourself,N
+32,4,3,A,Maryland,PN
+32,4,4,A,Maryland,PN
+32,4,4,A,Maryland,PN
+32,5,4,A,we,P
+32,5,4,A,we,P
+32,5,4,A,we,P
+32,6,4,A,some of the strictest gun control laws in the nation,N
+32,6,4,A,that,P
+32,7,8,A,it,P
+32,7,8,A,it,P
+32,8,11,B,Florida,PN
+32,8,12,B,Florida,PN
+32,8,12,B,they,P
+32,8,14,B,they,P
+32,8,16,B,they,P
+32,8,16,B,they,P
+32,8,16,B,they,P
+32,8,16,B,their,P
+32,8,18,B,they,P
+32,8,19,B,they,P
+32,8,19,B,they,P
+32,8,19,B,Florida,PN
+32,9,18,B,it,P
+32,9,19,B,it,P
+32,9,19,B,it,P
+32,10,20,A,'em,N
+32,10,20,A,They,P
+32,10,20,A,they,P
+32,11,26,A,that,P
+32,11,29,B,that,P
+32,12,31,A,that,P
+32,12,31,A,that,P
+32,12,31,A,That,P
+32,13,34,A,both of them,N
+32,13,35,A,they,P
+32,14,13,B,I,P
+32,14,37,B,me,P
+32,14,40,B,B: me,PN
+32,14,42,A,you,P
+32,14,42,A,you,P
+32,14,43,A,I,P
+32,14,45,B,you,P
+32,14,52,A,you,P
+32,14,94,A,I,P
+32,14,103,A,you,P
+32,14,103,A,you,P
+32,14,103,A,you,P
+32,14,107,B,you,P
+32,14,107,B,you,P
+32,14,107,B,me,P
+32,14,109,B,you,P
+32,14,109,B,yourself,N
+32,14,110,B,you,P
+32,14,135,B,me,P
+32,15,42,A,they,P
+32,15,42,A,they,P
+32,15,43,A,they,P
+32,16,41,B,the American flag,N
+32,16,42,A,the flag,N
+32,16,43,A,the flag,N
+32,16,53,A,the stan- flag,N
+32,16,99,A,the flag,N
+32,16,104,A,that symbol,N
+32,16,106,A,that,P
+32,16,112,B,that flag,N
+32,16,113,B,the flag,N
+32,17,41,B,burning,N
+32,17,42,A,it,P
+32,17,43,A,it,P
+32,18,43,A,burn,N
+32,18,43,A,that,P
+32,18,51,A,that,P
+32,18,52,A,it,P
+32,18,104,A,it,P
+32,18,106,A,it,P
+32,18,109,B,it,P
+32,18,117,A,that,P
+32,18,122,A,this,P
+32,19,43,A,somebody,N
+32,19,43,A,their,P
+32,19,43,A,They,P
+32,19,43,A,they,P
+32,19,43,A,they,P
+32,19,46,B,their,P
+32,19,49,A,they,P
+32,20,43,A,freedom of speech,N
+32,20,46,B,freedom of speech,N
+32,21,47,B,burning,N
+32,21,48,A,it,P
+32,22,54,A,somebody,N
+32,22,54,A,their,P
+32,22,54,A,their,P
+32,22,54,A,they,P
+32,22,55,A,their,P
+32,22,55,A,they,P
+32,22,106,A,they,P
+32,22,106,A,them,P
+32,23,54,A,their opinion,N
+32,23,54,A,their opinion,N
+32,24,66,A,somebody,N
+32,24,67,A,their,P
+32,25,67,A,their own flag,N
+32,25,67,A,it,P
+32,26,95,A,they,P
+32,26,96,A,they,P
+32,26,96,A,they,P
+32,27,95,A,the framers,N
+32,27,97,A,the original framers,N
+32,28,96,A,the constitution,N
+32,28,100,A,it,P
+32,29,70,A,the government,N
+32,29,100,A,its government,N
+32,30,103,A,you,P
+32,30,103,A,your,P
+32,31,103,A,that,P
+32,31,103,A,it,P
+32,32,110,B,any citizen,N
+32,32,111,B,their,P
+32,32,112,B,their,P
+32,33,111,B,the symbol of their country,N
+32,33,112,B,it,P
+32,34,114,B,every man that ever p- carried a weapon or killed for his country,N
+32,34,114,B,his,P
+32,35,123,A,abortion,N
+32,35,125,A,That,P
+32,36,125,A,an abortion,N
+32,36,125,A,it,P
+32,36,128,B,it,P
+32,36,131,A,it,P
+32,36,131,A,it,P
+32,37,149,B,they,P
+32,37,151,B,their,P
+33,0,0,A,you,P
+33,0,1,B,I,P
+33,0,1,B,I,P
+33,0,2,B,I,P
+33,0,2,B,I,P
+33,0,3,A,I,P
+33,0,4,A,I,P
+33,0,6,A,I,P
+33,0,6,A,I,P
+33,0,8,A,I,P
+33,0,8,A,I,P
+33,0,8,A,I,P
+33,0,8,A,I,P
+33,0,10,A,I,P
+33,0,13,A,I,P
+33,0,13,A,I,P
+33,0,14,A,I,P
+33,0,18,A,I,P
+33,0,18,A,I,P
+33,0,19,A,I,P
+33,0,20,A,I,P
+33,0,22,A,I,P
+33,0,22,A,I,P
+33,0,40,A,I,P
+33,0,47,A,I,P
+33,0,49,A,I,P
+33,0,49,A,I,P
+33,0,49,A,I,P
+33,0,50,A,I,P
+33,0,50,A,I,P
+33,0,50,A,I,P
+33,0,52,A,I,P
+33,0,54,A,my,P
+33,0,63,A,I,P
+33,0,63,A,I,P
+33,0,63,A,I,P
+33,0,63,A,I,P
+33,0,64,B,I,P
+33,0,65,A,I,P
+33,0,67,B,I,P
+33,0,67,B,I,P
+33,0,67,B,I,P
+33,0,67,B,I,P
+33,0,71,A,my,P
+33,0,71,A,I,P
+33,0,71,A,I,P
+33,0,71,A,you,P
+33,0,75,A,I,P
+33,0,79,B,I,P
+33,0,80,A,I,P
+33,0,82,A,I,P
+33,0,87,A,I,P
+33,0,89,A,I,P
+33,0,92,B,I,P
+33,1,1,B,your schools,N
+33,1,1,B,our schools,N
+33,2,2,B,contributing,N
+33,2,2,B,that,P
+33,3,2,B,the education of your children,N
+33,3,2,B,the education of their children,N
+33,4,2,B,everybody,N
+33,4,2,B,their,P
+33,4,2,B,they,P
+33,5,1,B,our,P
+33,5,2,B,our,P
+33,5,2,B,we,P
+33,6,2,B,everybody going through the state,N
+33,6,2,B,they,P
+33,6,2,B,they,P
+33,7,2,B,our education system,N
+33,7,2,B,it,P
+33,8,3,A,Plano,PN
+33,8,5,A,Plano,PN
+33,8,71,A,Plano,PN
+33,8,71,A,Plano,PN
+33,9,3,A,Texas,PN
+33,9,6,A,Texas,PN
+33,9,18,A,Texas,PN
+33,9,30,B,Texas,PN
+33,9,30,B,our,P
+33,9,77,A,Texas,PN
+33,10,8,A,Maryland,PN
+33,10,10,A,Maryland,PN
+33,10,15,A,Maryland,PN
+33,10,18,A,Maryland,PN
+33,10,18,A,Maryland,PN
+33,10,20,A,the the whole state of Maryland,N
+33,10,20,A,the whole state of Maryland,N
+33,10,75,A,Maryland,PN
+33,10,75,A,Maryland,PN
+33,10,77,A,Maryland,PN
+33,11,10,A,they,P
+33,11,10,A,they,P
+33,11,10,A,they,P
+33,12,10,A,a renters tax,N
+33,12,12,A,the tax,N
+33,13,18,A,the concept of counties in Texas,N
+33,13,18,A,it,P
+33,14,21,A,each county,N
+33,14,21,A,their,P
+33,15,21,A,we,P
+33,15,21,A,we,P
+33,16,22,A,the President,N
+33,16,23,A,him,P
+33,17,24,A,they,P
+33,17,24,A,they,P
+33,17,26,A,they,P
+33,17,26,A,they,P
+33,17,26,A,they,P
+33,17,27,A,they,P
+33,17,28,A,they,P
+33,17,28,A,we,P
+33,17,30,B,they,P
+33,18,25,A,they,P
+33,18,25,A,they,P
+33,19,25,A,the fourth grade,N
+33,19,25,A,the fourth grade,N
+33,20,26,A,these this nationwide system of public schools,N
+33,20,26,A,it,P
+33,20,26,A,it 's,N
+33,21,27,A,thirty-three percent,N
+33,21,27,A,that,P
+33,22,31,B,they,P
+33,22,31,B,they,P
+33,22,32,A,they,P
+33,22,33,A,they,P
+33,22,33,A,they,P
+33,22,34,A,they,P
+33,22,34,A,we,P
+33,23,31,B,our school system down here,N
+33,23,33,A,it,P
+33,24,33,A,the teachers,N
+33,24,33,A,they,P
+33,25,31,B,it,P
+33,25,34,A,it,P
+33,26,35,A,children,N
+33,26,36,A,they,P
+33,26,37,B,they,P
+33,26,37,B,their,P
+33,27,38,A,some,N
+33,27,38,A,they,P
+33,28,40,A,children,N
+33,28,40,A,their,P
+33,29,41,B,B,N
+33,29,41,B,I,P
+33,30,40,A,teaching,N
+33,30,41,B,it,P
+33,30,46,B,it,P
+33,30,48,B,it,P
+33,30,48,B,it,P
+33,31,42,B,each child,N
+33,31,42,B,his,P
+33,31,42,B,they,P
+33,31,42,B,each other,N
+33,32,45,A,they,P
+33,32,45,A,they,P
+33,33,45,A,the child,N
+33,33,46,B,he,P
+33,33,47,A,he,P
+33,33,47,A,his,P
+33,33,48,B,he,P
+33,33,48,B,he,P
+33,34,50,A,two that are in eighth grade this year,N
+33,34,52,A,their,P
+33,34,52,A,they,P
+33,34,52,A,they,P
+33,34,53,A,them,P
+33,34,53,A,them,P
+33,34,54,A,they,P
+33,34,54,A,they,P
+33,35,55,A,the the boy twin,N
+33,35,57,A,him,P
+33,35,57,A,he,P
+33,35,57,A,he,P
+33,36,50,A,this year,N
+33,36,57,A,this year,N
+33,36,61,A,this year,N
+33,37,55,A,a girl,N
+33,37,57,A,the daughter,N
+33,37,59,A,She,P
+33,37,61,A,she,P
+33,38,63,A,everybody,N
+33,38,63,A,their,P
+33,39,67,B,we,P
+33,39,68,B,we,P
+33,39,68,B,we,P
+33,39,68,B,our,P
+33,39,68,B,our,P
+33,39,69,B,we,P
+33,39,69,B,we,P
+33,39,69,B,our,P
+33,39,71,A,we,P
+33,39,75,A,we,P
+33,39,77,A,we,P
+33,39,77,A,we,P
+33,39,91,A,we,P
+33,39,94,B,our,P
+33,40,69,B,just about every thing that we needed,N
+33,40,69,B,it,P
+33,41,69,B,they,P
+33,41,69,B,they,P
+33,42,71,A,the Plano school district,N
+33,42,72,A,they,P
+33,42,72,A,they,P
+33,43,73,A,your child,N
+33,43,74,A,they,P
+33,44,75,A,a a Baltimore County which is a northern county in Maryland,N
+33,44,76,A,it,P
+33,44,77,A,the county,N
+33,45,80,A,they,P
+33,45,80,A,they,P
+33,45,80,A,they,P
+33,45,82,A,they,P
+33,46,82,A,they,P
+33,46,82,A,they,P
+33,46,83,A,they,P
+33,46,87,A,They,P
+33,46,87,A,they,P
+33,46,87,A,They,P
+33,46,89,A,they,P
+33,46,89,A,them,P
+33,46,93,A,they,P
+33,46,93,A,them,P
+33,46,93,A,they,P
+33,46,93,A,they,P
+33,47,82,A,an ag course,N
+33,47,82,A,it,P
+33,47,82,A,it,P
+33,47,82,A,it,P
+33,48,85,A,a tractor,N
+33,48,87,A,the tractor,N
+33,49,87,A,this,P
+33,49,87,A,it,P
+33,49,87,A,it,P
+33,50,89,A,the courses,N
+33,50,89,A,it,P
+33,51,93,A,it,P
+33,51,93,A,it,P
+34,0,0,A,I,P
+34,0,0,A,I,P
+34,0,0,A,I,P
+34,1,0,A,community of people that are in jail now,N
+34,1,0,A,those people,N
+34,2,0,A,some of those people,N
+34,2,0,A,they,P
+34,2,0,A,they,P
+34,2,0,A,they,P
+34,2,0,A,they,P
+34,2,0,A,they,P
+34,3,0,A,I,P
+34,3,2,B,you,P
+34,3,5,A,I,P
+34,3,6,A,I,P
+34,3,6,A,I,P
+34,3,6,A,I,P
+34,3,8,A,I,P
+34,3,8,A,I,P
+34,3,10,A,I,P
+34,3,23,A,I,P
+34,3,23,A,I I,PN
+34,3,23,A,I,P
+34,3,25,A,I,P
+34,3,37,A,I,P
+34,3,37,A,I,P
+34,3,40,A,I,P
+34,3,40,A,I,P
+34,3,40,A,me,P
+34,3,40,A,I,P
+34,3,40,A,I,P
+34,3,42,A,I,P
+34,3,45,A,I,P
+34,3,66,A,I,P
+34,3,69,A,I,P
+34,3,69,A,I,P
+34,3,70,A,I,P
+34,3,86,A,I,P
+34,3,94,A,me,P
+34,3,94,A,I,P
+34,3,94,A,I,P
+34,3,95,A,I,P
+34,3,95,A,I,P
+34,3,95,A,I,P
+34,3,97,A,I,P
+34,3,97,A,I,P
+34,3,97,A,I,P
+34,3,97,A,I,P
+34,3,98,A,I,P
+34,3,98,A,I,P
+34,3,98,A,I,P
+34,3,98,A,I,P
+34,3,99,A,me,P
+34,3,100,A,me,P
+34,3,100,A,I,P
+34,3,100,A,I,P
+34,3,133,A,I,P
+34,3,135,B,I,P
+34,4,2,B,I,P
+34,4,2,B,I,P
+34,4,3,B,I,P
+34,4,11,B,I,P
+34,4,12,B,I,P
+34,4,13,B,I,P
+34,4,15,B,I,P
+34,4,31,B,I,P
+34,4,31,B,I,P
+34,4,32,B,I,P
+34,4,36,B,I,P
+34,4,36,B,I,P
+34,4,41,B,I,P
+34,4,43,A,I,P
+34,4,43,A,I,P
+34,4,43,A,myself,N
+34,4,46,B,I,P
+34,4,47,A,I,P
+34,4,50,B,I,P
+34,4,51,B,my,P
+34,4,52,B,I,P
+34,4,52,B,I,P
+34,4,53,B,I,P
+34,4,64,B,I,P
+34,4,73,B,I,P
+34,4,87,B,me,P
+34,4,101,B,I,P
+34,4,103,B,I,P
+34,4,111,B,I,P
+34,4,111,B,I,P
+34,4,111,B,I,P
+34,4,114,A,I,P
+34,4,118,A,I,P
+34,4,118,A,I,P
+34,4,120,A,you,P
+34,4,120,A,your,P
+34,4,122,B,I,P
+34,4,127,B,I,P
+34,4,127,B,I,P
+34,4,136,B,I,P
+34,5,2,B,people,N
+34,5,2,B,themselves,N
+34,6,5,A,people that are just filthy filthy rich,N
+34,6,6,A,they,P
+34,6,6,A,they,P
+34,7,6,A,people that are born rich,N
+34,7,7,A,they,P
+34,7,8,A,them,P
+34,7,8,A,they,P
+34,7,9,A,they,P
+34,8,10,A,poorer people,N
+34,8,10,A,they,P
+34,9,10,A,life itself,N
+34,9,10,A,itself,N
+34,10,11,B,the Peace Corps,N
+34,10,12,B,it,P
+34,10,34,B,the Peace Corps,N
+34,11,12,B,Patrick Swayze,PN
+34,11,13,B,he,P
+34,11,15,B,he,P
+34,11,15,B,he,P
+34,11,15,B,he,P
+34,11,16,B,he,P
+34,11,16,B,his,P
+34,11,17,B,he,P
+34,11,17,B,he,P
+34,11,17,B,he,P
+34,11,17,B,he,P
+34,11,22,B,He,P
+34,11,22,B,he,P
+34,11,22,B,he,P
+34,11,22,B,he,P
+34,11,22,B,his,P
+34,11,23,A,he,P
+34,11,23,A,he,P
+34,11,24,A,he,P
+34,12,17,B,people,N
+34,12,17,B,those people,N
+34,12,19,B,they,P
+34,12,19,B,they,P
+34,12,20,B,they,P
+34,12,20,B,they,P
+34,12,20,B,they,P
+34,13,22,B,it,P
+34,13,22,B,it,P
+34,13,23,A,that,P
+34,14,25,A,anybody that works in the in some kind of service or for the community or something,N
+34,14,26,A,they,P
+34,15,28,A,a lot of people,N
+34,15,29,A,they,P
+34,15,30,A,they,P
+34,16,12,B,T V,PN
+34,16,33,B,T V,PN
+34,17,34,B,people,N
+34,17,34,B,they,P
+34,18,45,A,people,N
+34,18,47,A,they,P
+34,18,49,A,they,P
+34,18,57,B,they,P
+34,18,57,B,themselves,N
+34,18,84,B,they,P
+34,18,87,B,them,P
+34,19,53,B,a town,N
+34,19,53,B,its,P
+34,20,61,B,we,P
+34,20,61,B,our,P
+34,21,63,A,that,P
+34,21,64,B,that,P
+34,22,66,A,Dallas,PN
+34,22,66,A,Dallas,PN
+34,22,71,B,Dallas,PN
+34,22,73,B,Dallas,PN
+34,23,66,A,everybody,N
+34,23,66,A,their,P
+34,24,70,A,I,P
+34,24,70,A,I,P
+34,25,73,B,they,P
+34,25,75,B,she,P
+34,25,75,B,them,P
+34,25,77,B,she,P
+34,25,77,B,they,P
+34,25,77,B,they,P
+34,25,78,B,They,P
+34,25,78,B,her,P
+34,25,79,B,her,P
+34,26,74,B,she,P
+34,26,75,B,she,P
+34,26,75,B,she,P
+34,26,77,B,you,P
+34,26,77,B,you,P
+34,26,78,B,she,P
+34,26,78,B,her,P
+34,26,79,B,she,P
+34,27,78,B,her purse,N
+34,27,79,B,that purse,N
+34,28,49,A,you,P
+34,28,84,B,you,P
+34,28,86,A,you,P
+34,28,86,A,you,P
+34,29,86,A,something,N
+34,29,86,A,it,P
+34,30,87,B,she,P
+34,30,87,B,she,P
+34,30,87,B,she,P
+34,30,89,B,she,P
+34,30,91,B,her,P
+34,30,91,B,she,P
+34,30,93,B,she,P
+34,31,88,B,Dallas,PN
+34,31,89,B,that,P
+34,32,96,A,the high price apartments,N
+34,32,97,A,the high price apartments,N
+34,33,102,B,especially young kids getting out of high school,N
+34,33,103,B,they,P
+34,33,104,B,their,P
+34,33,105,B,they,P
+34,34,107,B,that,P
+34,34,108,B,It,P
+34,35,103,B,the service,N
+34,35,108,B,the service,N
+34,36,108,B,a a lot of young men,N
+34,36,109,A,they,P
+34,37,108,B,go,N
+34,37,109,A,it,P
+34,38,116,A,the basic the the basic family is,N
+34,38,117,B,It,P
+34,39,118,A,the mother,N
+34,39,118,A,that mother,N
+34,40,120,A,your youngsters,N
+34,40,120,A,they,P
+34,41,122,B,a woman,N
+34,41,122,B,the woman,N
+34,42,127,B,children,N
+34,42,128,B,they,P
+34,42,129,B,They,P
+34,42,129,B,they,P
+34,43,135,B,the child,N
+34,43,136,B,they,P
+34,43,136,B,they,P
+35,0,1,B,you,P
+35,0,3,A,You,P
+35,0,8,A,you,P
+35,0,9,B,I,P
+35,0,10,B,I,P
+35,0,10,B,I,P
+35,0,10,B,I,P
+35,0,19,A,you,P
+35,0,20,A,you,P
+35,0,21,B,I,P
+35,0,22,A,You,P
+35,0,23,B,I,P
+35,0,25,B,I,P
+35,0,25,B,I,P
+35,0,25,B,I,P
+35,0,25,B,I,P
+35,0,28,B,I,P
+35,0,28,B,I,P
+35,0,28,B,I,P
+35,0,29,A,you,P
+35,0,29,A,you,P
+35,0,30,A,I,P
+35,0,31,B,Me,P
+35,0,32,A,I,P
+35,0,32,A,I,P
+35,0,32,A,my,P
+35,0,32,A,I,P
+35,0,32,A,I,P
+35,0,32,A,I,P
+35,0,33,B,I,P
+35,0,33,B,I,P
+35,0,33,B,I,P
+35,0,33,B,I,P
+35,0,34,A,you,P
+35,0,35,A,you,P
+35,0,40,B,I,P
+35,0,40,B,I,P
+35,0,40,B,I,P
+35,0,40,B,my,P
+35,0,41,B,I,P
+35,0,42,B,I,P
+35,0,42,B,I,P
+35,0,43,A,my,P
+35,0,46,B,I,P
+35,0,46,B,I,P
+35,0,47,A,I,P
+35,0,48,B,I,P
+35,0,48,B,I,P
+35,0,49,A,I,P
+35,0,49,A,I,P
+35,0,50,B,you,P
+35,0,51,B,I,P
+35,0,55,B,I,P
+35,0,57,B,I,P
+35,0,58,B,I,P
+35,0,60,B,I,P
+35,0,62,A,you,P
+35,0,65,B,you,P
+35,0,66,A,I,P
+35,0,66,A,I,P
+35,0,66,A,I,P
+35,0,66,A,you,P
+35,0,66,A,I,P
+35,0,66,A,you,P
+35,0,66,A,you,P
+35,0,67,B,you,P
+35,0,69,B,you,P
+35,0,73,B,I,P
+35,0,74,B,I,P
+35,0,76,A,you,P
+35,0,78,B,I,P
+35,0,79,B,I,P
+35,0,81,A,I,P
+35,0,82,B,I,P
+35,0,83,A,I,P
+35,0,86,B,I,P
+35,0,88,B,I,P
+35,0,88,B,I,P
+35,0,93,B,I,P
+35,0,96,A,you,P
+35,0,96,A,you,P
+35,0,98,A,you,P
+35,0,98,A,you,P
+35,0,102,B,I,P
+35,0,102,B,you,P
+35,0,110,B,I,P
+35,0,111,A,you,P
+35,0,111,A,your,P
+35,0,112,A,you,P
+35,0,118,B,I,P
+35,0,121,B,me,P
+35,0,122,B,I,P
+35,0,122,B,I,P
+35,0,124,B,I,P
+35,0,125,A,I,P
+35,0,128,A,you,P
+35,0,131,A,you,P
+35,0,132,B,I,P
+35,0,139,B,my,P
+35,0,140,B,I,P
+35,0,142,B,I,P
+35,0,142,B,I,P
+35,0,143,A,you,P
+35,0,153,A,I,P
+35,0,154,B,I,P
+35,0,157,B,I,P
+35,0,157,B,I,P
+35,0,157,B,I,P
+35,0,158,A,You,P
+35,0,159,A,you,P
+35,0,160,B,I,P
+35,0,160,B,I,P
+35,0,161,A,you,P
+35,0,171,A,you,P
+35,0,171,A,you,P
+35,0,175,A,You,P
+35,0,181,B,I,P
+35,0,187,B,I,P
+35,0,187,B,I,P
+35,0,188,A,you,P
+35,0,190,B,You,P
+35,0,191,A,I,P
+35,1,2,A,I,P
+35,1,3,A,he,P
+35,1,4,B,he,P
+35,1,4,B,him,P
+35,1,5,A,me,P
+35,1,6,A,I,P
+35,1,12,A,my,P
+35,1,12,A,I,P
+35,1,14,A,I,P
+35,1,18,A,I,P
+35,1,19,A,I,P
+35,1,19,A,I,P
+35,1,20,A,my,P
+35,1,20,A,I,P
+35,1,20,A,I,P
+35,1,27,A,I,P
+35,1,29,A,I,P
+35,1,29,A,I,P
+35,1,29,A,I,P
+35,1,29,A,MY,P
+35,1,34,A,I,P
+35,1,34,A,I,P
+35,1,37,A,my,P
+35,1,45,A,I,P
+35,1,45,A,I,P
+35,1,47,A,I,P
+35,1,47,A,I,P
+35,1,54,A,I,P
+35,1,54,A,I,P
+35,1,61,A,I,P
+35,1,61,A,I,P
+35,1,61,A,I,P
+35,1,61,A,I,P
+35,1,68,A,I,P
+35,1,68,A,you,P
+35,1,70,A,My,P
+35,1,70,A,you,P
+35,1,71,A,I,P
+35,1,72,A,I,P
+35,1,74,B,you,P
+35,1,74,B,you,P
+35,1,75,A,I,P
+35,1,76,A,I,P
+35,1,77,A,you,P
+35,1,81,A,I,P
+35,1,81,A,I,P
+35,1,83,A,I,P
+35,1,83,A,I,P
+35,1,83,A,I,P
+35,1,83,A,I,P
+35,1,85,A,I,P
+35,1,103,A,I,P
+35,1,105,A,I,P
+35,1,106,B,I,P
+35,1,107,A,I,P
+35,1,108,A,I,P
+35,1,108,A,I,P
+35,1,109,A,I,P
+35,1,117,A,I,P
+35,1,117,A,I,P
+35,1,120,A,I,P
+35,1,120,A,I,P
+35,1,120,A,I,P
+35,1,125,A,I,P
+35,1,125,A,my,P
+35,1,125,A,I,P
+35,1,126,A,I,P
+35,1,126,A,I,P
+35,1,126,A,I,P
+35,1,126,A,I,P
+35,1,126,A,I,P
+35,1,126,A,I,P
+35,1,127,A,I,P
+35,1,135,A,I,P
+35,1,144,A,I,P
+35,1,144,A,I,P
+35,1,146,A,I,P
+35,1,146,A,I,P
+35,1,159,A,I,P
+35,1,161,A,I,P
+35,1,162,A,I,P
+35,1,165,A,I,P
+35,1,165,A,I,P
+35,1,171,A,my,P
+35,1,171,A,I,P
+35,1,174,A,I,P
+35,1,176,B,I,P
+35,1,178,B,I,P
+35,1,180,B,you,P
+35,1,182,A,you,P
+35,1,184,A,I,P
+35,1,184,A,I,P
+35,1,184,A,I,P
+35,1,188,A,I,P
+35,1,188,A,I,P
+35,1,189,A,I,P
+35,1,193,A,I,P
+35,1,195,A,I,P
+35,1,195,A,I,P
+35,1,195,A,I,P
+35,1,195,A,I,P
+35,1,196,A,me,P
+35,1,197,A,I,P
+35,1,197,A,I,P
+35,1,197,A,my,P
+35,1,197,A,I,P
+35,2,9,B,we,P
+35,2,9,B,we,P
+35,2,10,B,we,P
+35,2,10,B,we,P
+35,2,10,B,we,P
+35,2,10,B,we,P
+35,2,12,A,we,P
+35,2,12,A,we,P
+35,2,12,A,we,P
+35,2,12,A,we,P
+35,2,12,A,we,P
+35,2,17,A,we,P
+35,2,17,A,we,P
+35,2,17,A,we,P
+35,2,17,A,we,P
+35,2,43,A,we,P
+35,2,125,A,we,P
+35,2,125,A,your,P
+35,2,126,A,you,P
+35,2,194,B,you,P
+35,2,197,A,they,P
+35,3,9,B,two T V -s,N
+35,3,9,B,them,P
+35,4,17,A,a compact disk player,N
+35,4,17,A,it,P
+35,5,18,A,your,P
+35,5,18,A,you,P
+35,5,18,A,you,P
+35,6,7,A,MURPHY BROWN,PN
+35,6,20,A,MURPHY BROWN,PN
+35,7,22,A,that,P
+35,7,22,A,it,P
+35,8,23,B,worked,N
+35,8,24,A,that,P
+35,9,11,B,T V,PN
+35,9,25,B,T V,PN
+35,9,28,B,T V,PN
+35,9,28,B,it,P
+35,9,32,A,that thing,N
+35,9,33,B,it,P
+35,9,33,B,it,P
+35,9,40,B,it,P
+35,9,40,B,it,P
+35,9,40,B,T V,PN
+35,9,41,B,it,P
+35,9,42,B,it,P
+35,9,43,A,it,P
+35,9,96,A,she,P
+35,9,185,B,M T V,PN
+35,9,186,B,it,P
+35,9,189,A,M T V,PN
+35,9,194,B,it,P
+35,10,38,A,you,P
+35,10,38,A,you,P
+35,11,40,B,my husband,N
+35,11,40,B,he,P
+35,11,40,B,he,P
+35,11,40,B,he,P
+35,11,40,B,he,P
+35,11,43,A,my husband,N
+35,11,43,A,he,P
+35,11,125,A,my husband,N
+35,11,197,A,her husband,N
+35,11,197,A,he,P
+35,12,46,B,CHEERS,PN
+35,12,46,B,CROS- COSBY SHOW,PN
+35,12,47,A,CHEERS,PN
+35,12,48,B,It,P
+35,12,48,B,it,P
+35,12,49,A,CHEERS,PN
+35,12,49,A,it,P
+35,12,49,A,it,P
+35,12,49,A,it,P
+35,12,51,B,it,P
+35,12,52,A,It,P
+35,13,49,A,Boston,PN
+35,13,53,A,Boston,PN
+35,13,126,A,Boston,PN
+35,14,58,B,that,P
+35,14,60,B,it,P
+35,15,58,B,pro football,N
+35,15,61,A,the pro,N
+35,15,61,A,pro football,N
+35,16,62,A,the Pistons,N
+35,16,62,A,them,P
+35,17,66,A,the the Mavericks,N
+35,17,66,A,they,P
+35,18,66,A,Dallas,PN
+35,18,68,A,Dallas,PN
+35,19,75,A,Chicago Bears,PN
+35,19,76,A,them,P
+35,19,76,A,them,P
+35,19,79,B,the Bears,N
+35,20,86,B,OPRAH,PN
+35,20,88,B,her,P
+35,20,93,B,she,P
+35,20,93,B,she,P
+35,20,94,A,she,P
+35,20,95,B,her,P
+35,20,96,A,her,P
+35,20,98,A,her,P
+35,20,102,B,she,P
+35,20,104,B,She,P
+35,20,104,B,she,P
+35,20,105,A,her,P
+35,20,106,B,she,P
+35,20,126,A,she,P
+35,21,96,A,her show,N
+35,21,98,A,her show,N
+35,21,100,B,It,P
+35,21,101,A,it,P
+35,21,102,B,the show,N
+35,22,102,B,the show where she lost all of that fat,N
+35,22,103,A,it,P
+35,22,104,B,it,P
+35,23,111,A,'s,N
+35,23,111,A,we,P
+35,23,112,A,we,P
+35,24,112,A,movies,N
+35,24,112,A,it,P
+35,24,112,A,it,P
+35,24,112,A,it,P
+35,24,112,A,it,P
+35,25,113,B,we,P
+35,25,115,B,we,P
+35,25,115,B,we,P
+35,26,115,B,first-rate movies,N
+35,26,117,A,that,P
+35,27,117,A,this project,N
+35,27,125,A,this project,N
+35,28,125,A,one lady,N
+35,28,125,A,she,P
+35,28,126,A,she,P
+35,28,126,A,she,P
+35,28,126,A,she,P
+35,28,126,A,she,P
+35,28,126,A,she,P
+35,28,126,A,her,P
+35,29,125,A,it,P
+35,29,125,A,it,P
+35,30,125,A,your kids,N
+35,30,126,A,them,P
+35,30,126,A,her kids,N
+35,31,55,B,the war,N
+35,31,128,A,the war,N
+35,32,128,A,that man,N
+35,32,128,A,his,P
+35,32,129,B,that,P
+35,32,131,A,His,P
+35,32,131,A,him,P
+35,32,131,A,he,P
+35,32,132,B,he,P
+35,33,128,A,Wolf Blitzer,PN
+35,33,131,A,Wolf Blitzer,PN
+35,34,130,A,C N N,PN
+35,34,133,A,C,N
+35,35,133,A,the other guy from C,N
+35,35,134,A,his,P
+35,35,135,A,his,P
+35,36,134,A,his name,N
+35,36,135,A,his name,N
+35,37,136,B,this Wolf guy,N
+35,37,137,A,him,P
+35,38,140,B,that guy,N
+35,38,141,A,he,P
+35,38,142,B,him,P
+35,38,142,B,he,P
+35,39,142,B,that,P
+35,39,143,A,SATURDAY NIGHT LIVE,PN
+35,39,143,A,it,P
+35,39,144,A,it,P
+35,39,145,B,it,P
+35,39,146,A,it,P
+35,40,146,A,they,P
+35,40,146,A,they,P
+35,41,147,A,they,P
+35,41,147,A,they,P
+35,41,148,A,they,P
+35,41,148,A,they,P
+35,41,149,A,they,P
+35,42,147,A,one character,N
+35,42,147,A,it,P
+35,42,147,A,it,P
+35,42,149,A,it,P
+35,43,149,A,Pat,PN
+35,43,149,A,I,P
+35,44,152,B,That,P
+35,44,153,A,it,P
+35,45,89,B,they,P
+35,45,153,A,they,P
+35,45,156,A,they,P
+35,46,156,A,it,P
+35,46,157,B,it,P
+35,46,160,B,it,P
+35,46,160,B,it,P
+35,47,158,A,some friends that have television,N
+35,47,159,A,some friends that have television,N
+35,48,158,A,television,N
+35,48,159,A,television,N
+35,49,163,B,We,P
+35,49,163,B,we,P
+35,49,163,B,our,P
+35,49,163,B,we,P
+35,49,163,B,ours,N
+35,49,163,B,we,P
+35,49,163,B,we,P
+35,49,163,B,we,P
+35,49,163,B,ours,N
+35,49,164,B,our,P
+35,49,164,B,we,P
+35,50,163,B,his,P
+35,50,163,B,him,P
+35,50,163,B,he,P
+35,50,163,B,his,P
+35,51,164,B,the rest of our friends,N
+35,51,164,B,them,P
+35,52,168,B,that,P
+35,52,169,A,that,P
+35,53,172,B,Purdue,PN
+35,53,173,A,that,P
+35,53,174,A,They,P
+35,53,184,A,Purdue,PN
+35,53,184,A,Purdue,PN
+35,54,78,B,Indiana,PN
+35,54,177,A,Indiana,PN
+35,55,182,A,a deep one,N
+35,55,183,B,that,P
+35,55,184,A,It,P
+35,56,185,B,they,P
+35,56,185,B,they,P
+35,57,187,B,That,P
+35,57,187,B,they,P
+35,58,194,B,kids,N
+35,58,194,B,them,P
+35,59,197,A,my neighbor,N
+35,59,197,A,her,P
